@@ -18,3 +18,5 @@ Use script "topic_modelling.py" located in folder "/DynamicLexiconGenerationCVC/
 Use script "retrain.py" located in folder "/DynamicLexiconGenerationCVC/CNN_finetuning" to finetune the InceptionNet. The models used to present results in paper are located in folder "/DynamicLexiconGenerationCVC/CNN_finetuning/Jad_sw_dict" and "/DynamicLexiconGenerationCVC/CNN_finetuning/Dataset_dict" as "output_graph_all.pb" for Corpus(1) of paper and "output_graph_train.pb" for Corpus(2) of paper.
 ## Generate Word-ranking results from Deep CNN
 Use script "cnnDatEval.py" located in folder "/DynamicLexiconGenerationCVC/CNN_Results/Jad_sw_dict" to generate word-ranking results from Deep CNN for "Jaderberg's Dictionary". Similarly for "Dataset's Dictionary" use script "cnnDatEval.py" in folder "/DynamicLexiconGenerationCVC/CNN_Results/Dataset_dict". The generated results are already stored in same folders as "results_all.txt"(using Corpus(1)) and "results_train.txt"(using Corpus(2)).
+## Generate per-image lexicon
+
