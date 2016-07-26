@@ -1,0 +1,3000 @@
+['dine : 23590', 'smrt : NA', 'iae : NA', 'shop : 2215']
+Total words : 88036
+---------------------------------------
+['unity : 4379', '$9.90 : NA', 'sanook : NA']
+Total words : 88036
+---------------------------------------
+['kate : 5045', 'new : 3', 'york : 94', 'marketplace : 10827', '50% : NA', 'off : NA']
+Total words : 88036
+---------------------------------------
+['stop : 1120', 'stop : 1120']
+Total words : 88036
+---------------------------------------
+["levi's : NA", "levi's : NA", '501 : NA']
+Total words : 88036
+---------------------------------------
+['accessorize : 63528', 'love : 388', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['orchardcentral : NA']
+Total words : 88036
+---------------------------------------
+['weddings : 12827']
+Total words : 88036
+---------------------------------------
+['sale : 2123']
+Total words : 88036
+---------------------------------------
+['ern : NA', 'watch : 2592']
+Total words : 88036
+---------------------------------------
+['and : NA', 'fruity : 34758', 'treats : 12629', 'beer : 4032', 'beers : 14008', 'ciders : 55331']
+Total words : 88036
+---------------------------------------
+['baking : 16431', 'soon : 441', 'baking : 16431', 'soon : 441']
+Total words : 88036
+---------------------------------------
+['shea : 12208', 'b2-a7 : NA']
+Total words : 88036
+---------------------------------------
+['nanyang : NA', 'old : 128', 'coffee : 3756']
+Total words : 88036
+---------------------------------------
+['grand : 577', 'grand : 577', 'anniversary : 2515', 'anniversary : 2515', 'sale : 2123', 'sale : 2123', 'colectpoint : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'off : NA']
+Total words : 88036
+---------------------------------------
+['maccha : NA', 'house : 72']
+Total words : 88036
+---------------------------------------
+['blackclose : NA', 'collectpoint : NA', 'sal : 14719', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['ceylon : 10209', 'spa : 7588', 'luxury : 6021', 'ayurveda : 28076', 'sookee : NA']
+Total words : 88036
+---------------------------------------
+['rever : NA', 'new : 3']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'sis : 22826']
+Total words : 88036
+---------------------------------------
+['spa : 7588', 'ceylon : 10209', 'dorot : NA', 'sal : 14719']
+Total words : 88036
+---------------------------------------
+['one : 2', 'feel : 2618', 'singtel : NA', 'win : 410', 'you : NA']
+Total words : 88036
+---------------------------------------
+['asus : NA', 'samsung : 14165', 'tablets : 11509', 'sony : 4593', 'win : 410']
+Total words : 88036
+---------------------------------------
+['x-ing : NA', 'ahead : 2645']
+Total words : 88036
+---------------------------------------
+['year : 8', 'potential : 1386', 'key : 849', 'stretch : 5201', 'mind : 1780', 'stretching : 9424', 'courses : 1980']
+Total words : 88036
+---------------------------------------
+['express : 1974', 'foodfore : NA', 'foto : NA', 'exit : 4035', 'chartered : 6702']
+Total words : 88036
+---------------------------------------
+['aojieojbakas : NA', 'econometrics : NA', '330 : NA', 'debunking : 42664', 'economics : 2497', '330 : NA', '122 : 86997']
+Total words : 88036
+---------------------------------------
+['nlb : NA']
+Total words : 88036
+---------------------------------------
+['auto : 4453', 'out : NA', 'theft : 7620', 'grand : 577']
+Total words : 88036
+---------------------------------------
+['looking : 1909', 'kept : 1400', 'secret : 1489', 'best : 104', 'good : 355', 'union : 265', 'ld of sports : NA']
+Total words : 88036
+---------------------------------------
+['yellow : 1599']
+Total words : 88036
+---------------------------------------
+['standard : 584', 'chartered : 6702', 'foodfare : NA']
+Total words : 88036
+---------------------------------------
+['aldo : 19252', 'aldo : 19252']
+Total words : 88036
+---------------------------------------
+['wheelock : NA', 'place : 98', 'ldo : NA']
+Total words : 88036
+---------------------------------------
+['f&n : NA', 'magnolia : 16469']
+Total words : 88036
+---------------------------------------
+['course : 660', 'chinese : 557', 'painting : 1787', 'coursi : NA', 'tel: : NA']
+Total words : 88036
+---------------------------------------
+['jobstreet : NA', 'better : 732', 'things : 1254', 'for : NA', 'life : 55', 'com : 9845', 'salary : 5937', 'matching : 7566']
+Total words : 88036
+---------------------------------------
+['jurong : NA', 'east : 75']
+Total words : 88036
+---------------------------------------
+['bioapex : NA', 'cosmeccutical : NA', 'school : 6', 'apex : 10097', 'business : 243']
+Total words : 88036
+---------------------------------------
+['adidas : 21556', 'mens : NA', 'footwear : 18069', 'mens : NA', 'training : 383']
+Total words : 88036
+---------------------------------------
+['sunflower : 20832', 'sunflower : 20832', 'tel: : NA', '67782831 : NA']
+Total words : 88036
+---------------------------------------
+['welcome : 5995', 'east : 75', 'the : NA', 'jtc : NA', 'summit : 3047', 'toilet : 11229', 'bus : 1296', 'canteen : 20322', '197 : NA']
+Total words : 88036
+---------------------------------------
+['506 : NA', '183 : NA', '183 : NA', 'berth : 12094']
+Total words : 88036
+---------------------------------------
+['omg : NA', 'easier : 4801', 'way : 186', 'voted : 2286', 'the : NA', 'jobstreet : NA']
+Total words : 88036
+---------------------------------------
+['art : 236', 'artbox : NA']
+Total words : 88036
+---------------------------------------
+['avenue : 1168']
+Total words : 88036
+---------------------------------------
+["girls' : NA", 'generation : 1441', 'meets : 2628', 'baby-g : NA', 'baby-g : NA']
+Total words : 88036
+---------------------------------------
+['starbucks : 22735', 'coffee : 3756', 'christmas : 1899']
+Total words : 88036
+---------------------------------------
+['green : 476', 'tea : 3734', 'promotion : 1740', 'open : 295', 'perfume : 17862', 'you : NA', 'shion : NA']
+Total words : 88036
+---------------------------------------
+['aster : 26060', 'skin : 2659', 'spr : NA']
+Total words : 88036
+---------------------------------------
+['70% : NA', 'sushi : 25214', 'cuts : 4763', 'for : NA', 'the : NA', 'tei : NA', 'shopping : 2804', 'sale : 2123', 'sale : 2123', 'rob : 4455']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'payless : NA', 'shoesource : NA']
+Total words : 88036
+---------------------------------------
+['javenue : NA', 'flipbooth : NA']
+Total words : 88036
+---------------------------------------
+['minikin : NA', 'instinct : 18012', 'takes : 830', 'over : NA']
+Total words : 88036
+---------------------------------------
+['season! : NA', 'celebrate : 5036', 'style : 378', '29.90 : NA', 'this : NA', 'jeans : 15070']
+Total words : 88036
+---------------------------------------
+['noise : 3984', 'world : 11', 'salon : 9355']
+Total words : 88036
+---------------------------------------
+['weston : 8823', 'corp : 16277']
+Total words : 88036
+---------------------------------------
+['men : 198', 'kids : 3540', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'ladies : 4841', 'ladies : 4841', '0-8 : NA', 'yrs : 40403', 'sanlas : NA']
+Total words : 88036
+---------------------------------------
+["don't : NA", 'just : NA', 'adidas : 21556', 'crocs : NA', 'chomel : NA']
+Total words : 88036
+---------------------------------------
+['crocs : NA', 'exit : 4035', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'ale : 13328', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['bvlgari : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['japanese : 424', 'gour : NA', 'spicy : 19833']
+Total words : 88036
+---------------------------------------
+['town : 65', 'garrett : 9847', 'gourmee : NA', 'popcorn : 24449']
+Total words : 88036
+---------------------------------------
+['xpressflower.com : NA']
+Total words : 88036
+---------------------------------------
+['the : NA', 'house : 72', 'burgers : 28294', 'chop : 20329']
+Total words : 88036
+---------------------------------------
+['vivo : NA', 'city : 9', 'find : 673', 'us! : NA', 'experience : 952', 'the : NA', 'dream : 2519', 'train : 915', 'ride@ : NA']
+Total words : 88036
+---------------------------------------
+['caution : 12501', 'floor : 1382', 'vivo : NA']
+Total words : 88036
+---------------------------------------
+['brothers : 999', 'sale : 2123', 'sacoor : NA', 'citing : 5097', 'privileges : 8098']
+Total words : 88036
+---------------------------------------
+['gap : 3528', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['lapalette : NA']
+Total words : 88036
+---------------------------------------
+['for : NA', 'great : 150', 'fresh : 3161', 'today : 374']
+Total words : 88036
+---------------------------------------
+['esprit : 26175']
+Total words : 88036
+---------------------------------------
+['the : NA', 'soup : 9443', 'spoon : 16133']
+Total words : 88036
+---------------------------------------
+['mango : 16518', 'esprit : 26175']
+Total words : 88036
+---------------------------------------
+['www.tissot.cn : NA']
+Total words : 88036
+---------------------------------------
+['-70 : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['b05 : NA', '154 : NA', 'ave : 11860', 'clementi : NA', '17059 : NA', '188 : NA', '196 : NA', '201 : NA', '727 : NA', '963 : NA', '963r : NA']
+Total words : 88036
+---------------------------------------
+['club : 90', 'house : 72', 'swimming : 2861', 'pool : 2642', 'tennis : 2261', 'court : 208', 'bbq : 30897', 'pit : 4874']
+Total words : 88036
+---------------------------------------
+['card : 1711', 'residents : 1108', 'exit : 4035', 'dear : 9873', 'side-gate : NA', 'magellan : 21117', '"scan" : NA', 'your : NA', 'access : 753', 'card : 1711', 'the : NA', 'reader : 4545', 'the : NA', 'right : 286', 'hand : 594', 'side : 187', 'the : NA', 'wall : 1184', 'and : NA', 'open : 295', 'gate : 2742']
+Total words : 88036
+---------------------------------------
+['52191 : NA']
+Total words : 88036
+---------------------------------------
+['hump : 24474', 'ahead : 2645']
+Total words : 88036
+---------------------------------------
+['jtc : NA', 'launchpad : 43487']
+Total words : 88036
+---------------------------------------
+['toastwich : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['directory : 8651']
+Total words : 88036
+---------------------------------------
+['learning : 1417', 'for : NA', 'university : 22', 'has : NA', 'smaller : 1089', 'great : 150', 'classes : 1397', 'better : 732', 'sutd : NA', 'admissions : 10889', 'career : 77', 'talk : 2016', 'dec : 11766', '7-9pm : NA', 'has : NA', '11:1 : NA', 'student : 563', 'faculty : 1695', 'ratio. : NA']
+Total words : 88036
+---------------------------------------
+['leadership : 1202', 'through : NA']
+Total words : 88036
+---------------------------------------
+['samsung : 14165', 'samsung : 14165', '1 : 87563', 'home : 87']
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['have : NA', 'feedback : 7269', 'the : NA', 'nus : 26595', 'internal : 1785', 'shuttle : 5839', 'bus : 1296', 'service : 120', 'share : 1455', 'with : NA']
+Total words : 88036
+---------------------------------------
+['cc23 : NA', 'one-north : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['harboufront : NA', 'lift : 4633']
+Total words : 88036
+---------------------------------------
+['reserved : 5742', 'seating : 6282']
+Total words : 88036
+---------------------------------------
+['circle : 2273', 'dhoby : NA', 'ghaut : NA', 'line : 86', 'marina : 7119', 'bay : 549', 'platform : 1615', 'transfer : 1713', 'promenade : 16870']
+Total words : 88036
+---------------------------------------
+['koon : NA', 'line : 86', 'west : 60', 'joo : NA', 'east : 75', 'pasir : NA', 'ris : NA', 'changi : NA', 'airport : 675']
+Total words : 88036
+---------------------------------------
+['east : 75', 'west : 60', 'line : 86', 'way : 186', 'out : NA']
+Total words : 88036
+---------------------------------------
+['megastore : NA', 'city : 9', 'gain : 2099', 'our : NA']
+Total words : 88036
+---------------------------------------
+['starbucks : 22735', 'coffee : 3756']
+Total words : 88036
+---------------------------------------
+['fourskin : NA', 'optics : 12119']
+Total words : 88036
+---------------------------------------
+['house : 72', 'optics : 12119']
+Total words : 88036
+---------------------------------------
+['subway : 6336', 'city : 9', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['little : 345', 'ydu : NA', 'th s : NA', 'home-grow : NA']
+Total words : 88036
+---------------------------------------
+['starb : NA']
+Total words : 88036
+---------------------------------------
+['more : NA', 'more : NA', 'level2 : NA', 'shops : 3456', 'shops : 3456', 'level2 : NA', 'viass : NA']
+Total words : 88036
+---------------------------------------
+['john : 74', 'little : 345']
+Total words : 88036
+---------------------------------------
+['boutique : 16008']
+Total words : 88036
+---------------------------------------
+['launch : 1955']
+Total words : 88036
+---------------------------------------
+['arrival : 2472', 'exit : 4035', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['convention : 1616', 'omega : 9836', 'omega : 9836']
+Total words : 88036
+---------------------------------------
+['siqueen : NA', 'fossil : 5982', 'steve : 1677', 'madden : 15278', 'cci : NA']
+Total words : 88036
+---------------------------------------
+['dior : 27791', 'sale : 2123', 'dior : 27791', 'eva : 8012']
+Total words : 88036
+---------------------------------------
+['formula : 2277', 'diagnosis : 6183', '40 : NA', 'possible : 573', 'technological : 5756', 'formulas : 14345', 'unique : 1273', 'skincare : 47092', 'for : NA', 'ioma : NA', 'creme : 33071', 'sale : 2123', 'sellers : 11278']
+Total words : 88036
+---------------------------------------
+['hermes : 17223', 'hermes : 17223']
+Total words : 88036
+---------------------------------------
+['stores : 1943', 'retail : 3157', 'than : NA', 'thrills : 31684', 'brands : 5313', 'over : NA', 'ocbc : NA', 'robinsons : NA', 'group : 52', 'visa : 9523', 'card : 1711', 'any : NA']
+Total words : 88036
+---------------------------------------
+['chanel : 21686', 'court : 208', 'restaurants : 3688', 'brity : NA', 'restaurants : 3688', 'food : 655', 'casino : 5555', 'guy : 3107', 'halana : NA']
+Total words : 88036
+---------------------------------------
+['sands : 8892', 'bay : 549', 'marina : 7119', 'a-t : NA', 'shoppes : 49327', 'the : NA']
+Total words : 88036
+---------------------------------------
+['hope : 2103']
+Total words : 88036
+---------------------------------------
+['sushi : 25214', 'healthy : 5444', 'fresh : 3161', 'delicious : 20754']
+Total words : 88036
+---------------------------------------
+['mondial : NA']
+Total words : 88036
+---------------------------------------
+['yellow : 1599', 'korner : NA', 'paris : 725']
+Total words : 88036
+---------------------------------------
+['gardens : 2586', 'the : NA', 'hublot : NA', 'hublot : NA', 'aed : NA']
+Total words : 88036
+---------------------------------------
+['dior : 27791', 'the : NA', 'vinci: : NA', 'cats : 5557', 'shaping : 13196', 'future : 582', 'gucci : 28017', 'gucci : 28017', 'gucci : 28017']
+Total words : 88036
+---------------------------------------
+['prefer : 7351', 'visa : 9523', 'penang : 15316', 'culture : 626']
+Total words : 88036
+---------------------------------------
+['custom : 3844', 'new : 3']
+Total words : 88036
+---------------------------------------
+['caution : 12501', 'parade : 4179']
+Total words : 88036
+---------------------------------------
+['mind : 1780', '257 : NA', 'tal : NA']
+Total words : 88036
+---------------------------------------
+['10% : NA', 'sale : 2123', 'super : 1159', 'off : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['university : 22', 'technological : 5756', 'nanyang : NA']
+Total words : 88036
+---------------------------------------
+['daikin : NA', 'every : 234']
+Total words : 88036
+---------------------------------------
+['walking : 3357', 'stop : 1120']
+Total words : 88036
+---------------------------------------
+['all : NA', 'life! : NA', 'things : 1254', 'board : 337', 'www.imob.sg : NA', 'space : 430', 'for : NA', 'imod : NA']
+Total words : 88036
+---------------------------------------
+['kiosk : 24377', 'than : NA', 'sah : NA', 'more : NA']
+Total words : 88036
+---------------------------------------
+['level : 260', 'rink : 11483', 'the : NA']
+Total words : 88036
+---------------------------------------
+['the : NA', 'clementi : NA', 'mall : 3023', '#03-01/02/03 : NA', 'call : 921', '66591161 : NA', 'mary : 767', 'chia : NA', 'homme : NA', 'end : 80', 'best : 104', 'kept : 1400', 'secret : 1489', 'looking : 1909', 'good! : NA', 'body : 377', 'spa : 7588', 'treatments : 7911', 'for : NA', '$128 : NA', 'face : 949']
+Total words : 88036
+---------------------------------------
+['need : 836', 'cheque : 23013', 'deposit : 8009', 'cash : 3050', 'deposit : 8009', 'cheque : 23013', 'passbo : NA', 'me : NA', 'life : 55', 'the : NA', 'being : NA']
+Total words : 88036
+---------------------------------------
+['connection : 1882', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['for : NA', 'next : 229', 'change : 524', 'look : 1443', 'out : NA', 'for : NA', 'out : NA', '... : NA']
+Total words : 88036
+---------------------------------------
+['make : 207', 'seiko : 35671', 'mae : 11069', 'mak : NA', "l'occitane : NA", 'make : 207', 'ore : 6066']
+Total words : 88036
+---------------------------------------
+['nature : 847']
+Total words : 88036
+---------------------------------------
+['emporio : NA', 'tag : 3634', 'armani : 29308']
+Total words : 88036
+---------------------------------------
+['skechers : NA']
+Total words : 88036
+---------------------------------------
+['course : 660', 'junior : 1000', 'robotic : 12990', 'robotic : 12990', 'course : 660', 'senior : 657', 'yes! : NA']
+Total words : 88036
+---------------------------------------
+['percent : 1399', 'off : NA', 'end : 80', 'season : 39', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'germany : 369']
+Total words : 88036
+---------------------------------------
+['city : 9', 'robinsons : NA', 'the : NA', 'jewellery : 13089', 'new : 3', 'year : 8', 'sale : 2123', '50% : NA', 'off : NA', 'london : 205', 'los : 633', 'angeles : 809', 'new : 3', 'york : 94', 'san : 303', 'sh o : NA', 'new : 3', 'year : 8', 'sale : 2123', 'off : NA', '50% : NA']
+Total words : 88036
+---------------------------------------
+['jubilant : 39126', 'christmas : 1899', 'jubilant : 39126', 'christmas : 1899']
+Total words : 88036
+---------------------------------------
+['room : 721', 'sale : 2123', 'heart : 913', 'christmas : 1899']
+Total words : 88036
+---------------------------------------
+['changer : 33240', 'money : 638', 'chan : 7113', 'oto : NA']
+Total words : 88036
+---------------------------------------
+['ticketing : 21068']
+Total words : 88036
+---------------------------------------
+['crime : 1602', 'and : NA', 'long-lasting : NA', 'color : 1328', 'improved : 2136', 'creamy : 23057', 'foam : 12978', 'with : NA', 'ahitargym : NA', 'shop : 2215']
+Total words : 88036
+---------------------------------------
+['imax : 23231', '#04-11 : NA', 'safra : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['tell : 2440', 'yours : NA', 'not : NA', 'jcub : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['kemiuchi : NA']
+Total words : 88036
+---------------------------------------
+['november : 136', 'ttins : NA', 'one : 2']
+Total words : 88036
+---------------------------------------
+['challenger : 8183', 'muji : NA', 'courts : 2191']
+Total words : 88036
+---------------------------------------
+['made : 19', 'fre : NA']
+Total words : 88036
+---------------------------------------
+['fiction : 1482', 'intermediate : 4189', 'fiction : 1482', 'children : 158', 'comics : 2038', 'toodlers : NA', 'eraiediate : NA']
+Total words : 88036
+---------------------------------------
+['revlo : NA', 'dhc : NA', 'dhc : NA', 'yog : NA']
+Total words : 88036
+---------------------------------------
+['magazines : 3332', 'english : 163', 'magazines : 3332', 'english : 163', 'ines : 38014']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['get : 425', 'fit : 3220']
+Total words : 88036
+---------------------------------------
+['spring : 973', 'spring : 973', 'bricks : 10507', 'orld : NA', 'lego : 17803', 'game : 63', 'xtreme : NA']
+Total words : 88036
+---------------------------------------
+['level : 260', 'ion : 5811']
+Total words : 88036
+---------------------------------------
+['proof : 4097']
+Total words : 88036
+---------------------------------------
+['vom : NA', 'fass : NA', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['health : 422', 'beauty : 3057', 'naturally : 4957']
+Total words : 88036
+---------------------------------------
+['ion : 5811', 'with : NA', 'global : 1250', 'link : 2012', 'count : 1942', 'casio : 33691', 'all : NA', 'across : 414', 'link : 2012']
+Total words : 88036
+---------------------------------------
+['orchard : 10686', 'exit : 4035', 'lobby : 8246', 'taxi : 7319']
+Total words : 88036
+---------------------------------------
+['semi-annual : NA', 'off : NA', 'secret : 1489', 'sale : 2123', 'kikki.k : NA']
+Total words : 88036
+---------------------------------------
+['skinc : NA', 'lab : 4999', 'series : 47', 'gringare : NA', 'for : NA', 'ion : 5811']
+Total words : 88036
+---------------------------------------
+['marina : 7119', 'ong : NA', 'east : 75', 'will : NA', 'end : 80', 'half : 320', 'hour : 1283', 'earlier : 705']
+Total words : 88036
+---------------------------------------
+['ticketing : 21068', 'sim : NA', 'cards : 2416', 'changing : 2660', 'closed : 804', 'inl : NA', 'pass : 1038', 'and : NA', 'connected : 1537', 'just : NA', 'marina : 7119', 'bay : 549']
+Total words : 88036
+---------------------------------------
+['any : NA', 'movie : 712', 'any : NA', 'time : 5', 'any : NA', 'day. : NA']
+Total words : 88036
+---------------------------------------
+['train : 915', 'dinosaur : 9326', 'pason : NA']
+Total words : 88036
+---------------------------------------
+['wine : 2321', 'spirits : 6180', 'wine&spirits : NA']
+Total words : 88036
+---------------------------------------
+['falrprice : NA', 'horslanan : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'styles : 2850', 'sale : 2123', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['sale : 2123']
+Total words : 88036
+---------------------------------------
+['minidrones : NA', 'parrot : 14643', 'joy : 5658']
+Total words : 88036
+---------------------------------------
+['centre : 401']
+Total words : 88036
+---------------------------------------
+['hair : 2479', 'care : 922', 'promotions : 8380', 'grooming : 23078', 'promotions : 8380']
+Total words : 88036
+---------------------------------------
+['care : 922', 'care : 922', 'perfume : 17862', 'everyday : 6292']
+Total words : 88036
+---------------------------------------
+['lobby : 8246']
+Total words : 88036
+---------------------------------------
+['namo : NA', 'dynamo : 10348', 'dynamo : 10348']
+Total words : 88036
+---------------------------------------
+['new! : NA', 'gabu : NA', 'gabu! : NA', 'refreshing : 24769', 'ice : 929', 'cream : 5191', 'soda : 12746', 'with : NA', 'real : 517', 'milk! : NA', 'gabu : NA', 'gabu : NA', 'gabu : NA', 'gabu : NA']
+Total words : 88036
+---------------------------------------
+['cordial : 24043', 'cordial : 24043', 'cordial : 24043', 'cordial : 24043', 'syrup : 16503', 'cordial : 24043']
+Total words : 88036
+---------------------------------------
+['darlie : NA']
+Total words : 88036
+---------------------------------------
+["l'oreal : NA", '$ 15 : NA', 'professionnel : NA', 'sms : NA', 'waxing : 37148', '#04-29 : NA', '$30 : NA', 'one : 2']
+Total words : 88036
+---------------------------------------
+["m&m's : NA", 'm&m : NA', 'everyone : 2791', 'wants : 3024', 'them : NA', 'christmas : 1899', "m&m's : NA", 'm&ms : NA']
+Total words : 88036
+---------------------------------------
+['platform : 1615']
+Total words : 88036
+---------------------------------------
+['alcohol : 3586', 'sale : 2123', 'tobacco : 5085', 'below : NA', "it's : NA", 'a... : NA', 'cash : 3050', 'accept : 2866', 'nets : 10660', 'nets : 10660', 'delight : 13031', 'visa : 9523', 'art : 236', 'common : 297', 'personal : 511', 'choque : NA']
+Total words : 88036
+---------------------------------------
+['stationery : 24456', 'event : 404', 'the : NA', 'year! : NA', 'cashier : 26355']
+Total words : 88036
+---------------------------------------
+['fiction : 1482', 'textbook : 11267', 'sesoni : NA', 'non-fiction : NA', 'ways : 1776', 'fiction : 1482', 'order : 149', 'online : 1234', '20% : NA', 'robin : 3388', 'ken : 3789', 'online : 1234', 'off : NA', 'sylvia : 10849', 'ephante : NA', 'varovich : NA', 'awood : NA', 'atwood : 22579', 'pop : 1211', 'atwood : 22579', 'mens : NA', 'weasel : 20601', 'mens : NA', 'beauty : 3057', 'slept : 14028', 'red : 318', 'rising : 2829', 'red : 318', 'rising : 2829', '000 : NA', 'elle : NA', 'jeffrey : 7639', 'jeffrey : 7639', 'archer : 8639', 'archer : 8639', 'world : 11', 'target : 1898']
+Total words : 88036
+---------------------------------------
+['cool : 4581', 'merci : NA', 'merci : NA']
+Total words : 88036
+---------------------------------------
+['nescafe : 61765', 'ideal : 3998']
+Total words : 88036
+---------------------------------------
+['shock : 4565', 'nathan : 5598', 'filer : 50159', 'the : NA', 'silkworm : 38201', 'robert : 474', 'galaith : NA', 'fall : 813', 'the : NA', 'silkworm : 38201']
+Total words : 88036
+---------------------------------------
+['$20 : NA', '3 for : NA', 'fiction : 1482', '$20.00 : NA', 'assorted : 20154', 'ssone : NA']
+Total words : 88036
+---------------------------------------
+['win : 410', 'sushi : 25214', 'electrical : 2807', 'ichiban : 53527', 'est : 9335']
+Total words : 88036
+---------------------------------------
+['travel : 1301', 'your : NA', 'purchases : 11194', 'for : NA', 'top : 173', 'neck : 3787', 'pillow. : NA']
+Total words : 88036
+---------------------------------------
+['terminal : 2449', 'prada : 28016', 'casino : 5555', 'hotel : 1100', 'prada : 28016', 'coach : 535', 'prada : 28016', 'bvlga : NA']
+Total words : 88036
+---------------------------------------
+['versace : NA', 'versace : NA']
+Total words : 88036
+---------------------------------------
+['pandora : 20080', 'coach : 535', 'porsche : 10813']
+Total words : 88036
+---------------------------------------
+['sound : 676', 'stadium : 855', 'stadium : 855', 'sound : 676', 'stadium : 855', 'view : 861', 'view : 861', 'stadium : 855', 'stadium : 855', 'view : 861', 'stadium : 855', 'sound : 676']
+Total words : 88036
+---------------------------------------
+['cats : 5557', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['master : 846', 'card : 1711', 'theatres : 7157', 'box : 1401', 'office : 262']
+Total words : 88036
+---------------------------------------
+['jacket : 9067', 'enhanced : 5302', 'like : 79', 'down : NA', 'down : NA', 'steroids : 19119', 'but : NA', "it's : NA", 'legal : 808']
+Total words : 88036
+---------------------------------------
+['sephora : NA']
+Total words : 88036
+---------------------------------------
+['for : NA', 'nut : 12486', 'assorted : 20154', '$10 : NA', 'best : 104', 'chocolate : 6775']
+Total words : 88036
+---------------------------------------
+['one : 2', 'man : 199', 'one : 2', 'machine : 1287']
+Total words : 88036
+---------------------------------------
+['gucci : 28017', 'gucci : 28017']
+Total words : 88036
+---------------------------------------
+['off : NA', 'off : NA', '70% : NA', 'off : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['toast : 18444', 'box : 1401', 'toast : 18444', 'box : 1401', 'oco ichibi : NA']
+Total words : 88036
+---------------------------------------
+['fingers : 7926']
+Total words : 88036
+---------------------------------------
+['spalding : 19230', 'andi : NA', 'andi : NA', 'azura : NA', 'tyr : NA']
+Total words : 88036
+---------------------------------------
+['level : 260', 'new : 3', 'capit : NA', 'discovered : 895', '11:42 : NA', 'retine : NA', 'soon : 441']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'fashion : 2075', 'outlet : 7771', 'store : 1246', 'percent : 1399', 'off : NA', 'off : NA', 'teks : NA']
+Total words : 88036
+---------------------------------------
+['factorie : NA', 'factorie : NA', 'sale : 2123', 'sale : 2123', 'sale : 2123', '117 : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['scc : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['singapore : 2181', 'pro-am : NA', 'world : 11', 'part : 23', "singapore's : NA", 'leading : 468', 'sports : 542', 'retailer : 11991', 'sports : 542', 'world : 11', 'basketball : 991', 'league : 73', 'www.sbl.sg : NA', '2015 : NA', 'pro : 1406']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'salomon : NA']
+Total words : 88036
+---------------------------------------
+['hurley : 15192']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'lobby : 8246']
+Total words : 88036
+---------------------------------------
+['lovis : NA', 'bega : NA']
+Total words : 88036
+---------------------------------------
+['lovis : NA', 'diamonds : 8213', '15% : NA', 'lovs : NA', 'ssha : NA']
+Total words : 88036
+---------------------------------------
+['korean : 1922', 'bbq : 30897', 'buffet : 23318', 'cook : 3265']
+Total words : 88036
+---------------------------------------
+['metro : 2626', 'stro : NA', 'price : 1423']
+Total words : 88036
+---------------------------------------
+['soma : 23803', 'soma : 23803', 'evolve : 11821', 'mixed : 1486']
+Total words : 88036
+---------------------------------------
+['hot : 1082', 'stuff : 8881', 'style : 378', 'mma : NA']
+Total words : 88036
+---------------------------------------
+['stara : NA', 'bridal : 25916', 'gowns : 24940', 'promotion!! : NA']
+Total words : 88036
+---------------------------------------
+['gown : 16537', 'gowns : 24940', 'stara : NA', 'br  al : NA', 'bridal : 25916']
+Total words : 88036
+---------------------------------------
+['price : 1423', 'get : 425', 'your : NA', "students' : NA", 'imax : 23231', 'imax : 23231', 'ima : NA', 'blockbuster : 15405', 'tickets : 5790']
+Total words : 88036
+---------------------------------------
+['very : NA', 'merry : 11783', 'christmas : 1899']
+Total words : 88036
+---------------------------------------
+['recycling : 10470', 'corner : 2074']
+Total words : 88036
+---------------------------------------
+['urg al : NA', 'recycling : 10470']
+Total words : 88036
+---------------------------------------
+['today : 374', 'too : NA', 'christmas : 1899', 'enjoy : 4717']
+Total words : 88036
+---------------------------------------
+['oil : 932', 'dried : 8125', 'food : 655', 'cooking : 5761']
+Total words : 88036
+---------------------------------------
+['dzen : NA', 'pork : 10744']
+Total words : 88036
+---------------------------------------
+['seafood : 14461']
+Total words : 88036
+---------------------------------------
+['dairy : 6785', 'seae : NA']
+Total words : 88036
+---------------------------------------
+['sprite : 23366', 'dary : NA', 'sprite : 23366', 'sottis : NA']
+Total words : 88036
+---------------------------------------
+['barielle : NA', 'jean y : NA']
+Total words : 88036
+---------------------------------------
+['jea : NA', 'restaurant : 2523']
+Total words : 88036
+---------------------------------------
+['ippudo : NA', 'ippudo : NA', 'bread : 5771', 'talk : 2016', 'Unicode error']
+Total words : 88036
+---------------------------------------
+['winners : 2509', 'winner : 1364', 'with : NA', 'singtel : NA', 'prepaid : 26543', 'prizes : 6018', 'win: : NA', 'hi! : NA', 'sony : 4593', 'xperia : NA', 'handset : 27038', 'datatalk$22 : NA', 'top-up : NA', 'cards : 2416', 'sets : 1888', 'worth : 2409', '$264 : NA', 'total : 259', 'promotion : 1740', 'january : 112', '2015 : NA', 'how : NA', 'win: : NA', 'purchase : 2279', 'any : NA', 'data/social : NA', 'plan : 716', 'triple : 3006', 'your : NA', 'chances: : NA', 'low : 442', 'for : NA', 'data : 588', '$0.50 : NA']
+Total words : 88036
+---------------------------------------
+['cte : NA', 'airport : 675', 'pier : 6554']
+Total words : 88036
+---------------------------------------
+['chinatown : 13295', 'fish : 1276', "delight's : NA"]
+Total words : 88036
+---------------------------------------
+['card : 1711', 'reader : 4545', 'exit : 4035', 'side-gate : NA', 'residents : 1108', 'scan : 11486', 'dear : 9873', 'your : NA', 'access : 753', 'card : 1711', 'the : NA', 'the : NA', 'right : 286', 'hand : 594', 'side : 187', 'the : NA', 'wall : 1184', 'and : NA', 'open : 295', 'gate : 2742', 'themanagement : NA']
+Total words : 88036
+---------------------------------------
+['prefer : 7351', 'visa : 9523', 'ootoya : NA', 'japanese : 424', 'restaurant : 2523']
+Total words : 88036
+---------------------------------------
+['berth : 12094']
+Total words : 88036
+---------------------------------------
+['canon : 5008', 'mamma : 31704', 'mia! : NA']
+Total words : 88036
+---------------------------------------
+['coach : 535', 'bag : 6406']
+Total words : 88036
+---------------------------------------
+['thank : 10831', 'you : NA', 'for : NA', 'queueing : NA']
+Total words : 88036
+---------------------------------------
+['shop : 2215', 'dine : 23590', 'smrt : NA']
+Total words : 88036
+---------------------------------------
+['guardian : 4367']
+Total words : 88036
+---------------------------------------
+['way : 186', 'out : NA', 'line : 86', 'platform : 1615']
+Total words : 88036
+---------------------------------------
+['care : 922', 'sticker : 20443', 'for : NA', 'more : NA']
+Total words : 88036
+---------------------------------------
+['pull : 5319', 'pull : 5319']
+Total words : 88036
+---------------------------------------
+['the : NA', 'world : 11', 'you : NA', 'bring : 1534']
+Total words : 88036
+---------------------------------------
+['have : NA', 'nus : 26595', 'share : 1455', 'wiht : NA']
+Total words : 88036
+---------------------------------------
+['agsc2015 : NA', 'your : NA', 'notes : 1720', 'trials : 3365', 'bus : 1296', 'rale : NA', 'sell : 2344']
+Total words : 88036
+---------------------------------------
+['nus : 26595', 'nus : 26595', 'faculty : 1695', 'engine : 723', 'internal : 1785', 'shuttle : 5839', 'bus : 1296']
+Total words : 88036
+---------------------------------------
+['mrt : NA', 'kent : 2805', 'ridge : 2514']
+Total words : 88036
+---------------------------------------
+['one : 2', 'level : 260', 'down : NA']
+Total words : 88036
+---------------------------------------
+['love : 388']
+Total words : 88036
+---------------------------------------
+['smrt : NA']
+Total words : 88036
+---------------------------------------
+['straits : 10821', 'optical : 4683']
+Total words : 88036
+---------------------------------------
+['jatz : NA', 'shapes : 7241', 'shapes : 7241', 'jatz : NA', 'vietnam : 1959', 'international : 83']
+Total words : 88036
+---------------------------------------
+['blackclose : NA', 'collectpoint : NA', 'sale : 2123', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['ave : 11860', 'west : 60', 'you : NA', 'can : NA', 'pay : 1302', 'less? : NA', "singapore's : NA", 'no.1 : NA']
+Total words : 88036
+---------------------------------------
+['dessert : 17923', 'cco : NA', 'plated : 19212', 'dessert : 17923', 'tarts : 43362', 'gus : 11543', 'fne : NA']
+Total words : 88036
+---------------------------------------
+['mcdonalds : NA']
+Total words : 88036
+---------------------------------------
+['hitachi : 24354']
+Total words : 88036
+---------------------------------------
+['the : NA', 'trilina : NA']
+Total words : 88036
+---------------------------------------
+['cte : NA', '1pm : NA', '1am : NA', 'closed : 804', 'orchard : 10686', 'est : 9335', 'to: : NA', 'mins : NA']
+Total words : 88036
+---------------------------------------
+['apache : 9738', 'nomads : 18837', 'danger : 4175', 'out! : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['noodle : 25364', 'age : 71', 'prince : 773', 'khalifa : NA']
+Total words : 88036
+---------------------------------------
+['school : 6', 'zone : 1466']
+Total words : 88036
+---------------------------------------
+['325 : NA', 'posb : NA']
+Total words : 88036
+---------------------------------------
+['s2.30 : NA', 'set : 145', 'set : 145', 'set : 145', 'hot : 1082', '$2..30 : NA', '$2.00 : NA']
+Total words : 88036
+---------------------------------------
+['$24 : NA', 'wildlife : 3102', 'experience : 952', 'save : 1992', 'ultimate : 3837', "singapore's : NA", 'parks : 2666', 'price : 1423']
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['st.marc : NA', 'cafe : 7240', 'gko : NA']
+Total words : 88036
+---------------------------------------
+['max : 2529', 'height : 2003', '3.3m : NA']
+Total words : 88036
+---------------------------------------
+["mcdonald's : NA", 'uno : NA', 'public : 96']
+Total words : 88036
+---------------------------------------
+['give : 766', 'way : 186', 'buses : 3405', 'exiting : 16578']
+Total words : 88036
+---------------------------------------
+['501 : NA', 'lei : 19307', 'levi : 10967', "levi's : NA"]
+Total words : 88036
+---------------------------------------
+['doors : 3475', 'reserved : 5742', 'keep : 1140', 'clear : 1214', 'seating : 6282', 'jangan : NA', 'berdiri : NA', 'dekat : NA', 'pintu : NA']
+Total words : 88036
+---------------------------------------
+['gap : 3528']
+Total words : 88036
+---------------------------------------
+['nasal : 11854', 'spray : 11258', 'sato : NA', 'caution : 12501', 'pharma : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['gcha : NA', 'fesiat : NA', 'bos : NA', 'delifrance : NA']
+Total words : 88036
+---------------------------------------
+['long : 93', 'john : 74', 'silvers : 24224']
+Total words : 88036
+---------------------------------------
+['win : 410', 'the : NA', 'month : 878', 'sush : NA', 'wines : 7555', 'win : 410', 'win : 410', 'win : 410']
+Total words : 88036
+---------------------------------------
+['sushi : 25214', 'seafood : 14461', 'our : NA', 'choice : 1617', 'milo : 17320', 'nescafe : 61765', 'stars : 1037', '100 : 85793']
+Total words : 88036
+---------------------------------------
+['freshly : 21594', 'made : 19', 'salad : 17040']
+Total words : 88036
+---------------------------------------
+['meat : 3758']
+Total words : 88036
+---------------------------------------
+['seafood : 14461']
+Total words : 88036
+---------------------------------------
+['sushi : 25214', 'recipes : 12863']
+Total words : 88036
+---------------------------------------
+['herbs : 12663', 'spices : 14021']
+Total words : 88036
+---------------------------------------
+['recipes : 12863']
+Total words : 88036
+---------------------------------------
+['pepero : NA', 'lotte : NA', 'get : 425', 'milo : 17320', 'pepero : NA', 'kitkat : NA', 'free : 309']
+Total words : 88036
+---------------------------------------
+['mister : 13549', 'minit : NA']
+Total words : 88036
+---------------------------------------
+['onsen : NA', '01-06 : NA', 'osen : NA']
+Total words : 88036
+---------------------------------------
+['ralph : 4184', 'lauren : 10077', 'lauren : 10077', 'adidas : 21556', 'cans : 16063', 'plastic : 3948']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['kurt : 6357', 'geiger : 23762', 'london : 205', 'geigers : NA']
+Total words : 88036
+---------------------------------------
+['adu : NA', 'author : 724']
+Total words : 88036
+---------------------------------------
+['faces : 4187']
+Total words : 88036
+---------------------------------------
+['choice : 1617', 'ban : 3851', 'soon : 441', 'sewing : 16488', 'machine : 1287']
+Total words : 88036
+---------------------------------------
+['yeo : NA', 'trading : 2629', 'laundry : 14423', 'chor : NA', 'hong : 1633', 'the : NA', 'doctors : 4370', 'heng : NA', 'furniture : 5058']
+Total words : 88036
+---------------------------------------
+['redman : NA']
+Total words : 88036
+---------------------------------------
+['pain : 3213', 'back : 95', 'foot : 1757', 'knee : 5312', 'your : NA', 'stop : 1120', 'our : NA', 'solution : 2445']
+Total words : 88036
+---------------------------------------
+['aster : 26060', 'spring : 973', 'origin : 1405', 'beauty : 3057', 'european h : NA']
+Total words : 88036
+---------------------------------------
+['post : 347', 'office : 262']
+Total words : 88036
+---------------------------------------
+['alan : 2518', 'guys : 8690']
+Total words : 88036
+---------------------------------------
+['nlb : NA', 'public : 96', 'library : 727', 'clementi : NA', 'www : 26491']
+Total words : 88036
+---------------------------------------
+['forever : 5348', 'citibank : 29574']
+Total words : 88036
+---------------------------------------
+['shops : 3456', 'ahead : 2645', 'esplanade : 23301', 'xchange : NA', 'shop : 2215']
+Total words : 88036
+---------------------------------------
+['forever : 5348']
+Total words : 88036
+---------------------------------------
+['warehouse : 7011', 'sale : 2123', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['lobby : 8246', 'g-star : NA', 'armani : 29308', 'exchange : 1295', 'ion : 5811', 'g-star : NA', 'directory : 8651']
+Total words : 88036
+---------------------------------------
+['c  mper : NA', 'love : 388', 'new : 3', 'openin : NA', 'i o n : NA', 'ingapore : NA', 'ural : 21244', 'orchard : 10686', 'sales : 1418', 'rebajas : NA', 'soldes : NA', 'znizanje : NA', 'uta : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'g-star : NA', 'calvin : 8626', 'klein : 8404', 'jeans : 15070', 'off : NA', 'singa : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['bread : 5771', 'butter : 10085']
+Total words : 88036
+---------------------------------------
+['evisu : NA']
+Total words : 88036
+---------------------------------------
+['atch : NA', 'the : NA', 'lensmen : NA', 'casio : 33691', 'bab : NA']
+Total words : 88036
+---------------------------------------
+['topman : NA', 'further : NA', 'reduction : 3633', 'off : NA', '70% : NA']
+Total words : 88036
+---------------------------------------
+['robinsons : NA', 'cathay : 28738', 'topshop : NA', 'topma : NA', 'topshop : NA', 'jem : NA', 'food : 655', 'court : 208']
+Total words : 88036
+---------------------------------------
+['topshop : NA']
+Total words : 88036
+---------------------------------------
+['cartier : 18725', 'giorgio : 13218', 'miu : NA', 'miu : NA', 'giorgio : 13218']
+Total words : 88036
+---------------------------------------
+['iwc : NA']
+Total words : 88036
+---------------------------------------
+['yourself : NA', 'sale : 2123', 'christmas : 1899', 'merry : 11783', 'all : NA']
+Total words : 88036
+---------------------------------------
+['keith : 3884', 'sephora : NA', 'sephora : NA']
+Total words : 88036
+---------------------------------------
+['maxmara : NA']
+Total words : 88036
+---------------------------------------
+['bottega : NA', 'veneta : NA']
+Total words : 88036
+---------------------------------------
+["natures's : NA", 'farm : 1290', 'fairprice : NA', 'cra : NA', 'dic : NA']
+Total words : 88036
+---------------------------------------
+['robinsons : NA', 'estee : NA', 'lauder : 22950']
+Total words : 88036
+---------------------------------------
+['bartoux : NA']
+Total words : 88036
+---------------------------------------
+['f. nielly : NA']
+Total words : 88036
+---------------------------------------
+['tagheuer : NA']
+Total words : 88036
+---------------------------------------
+['bar : 1322', 'galeries : NA', 'exit : 4035', 'bartoux : NA']
+Total words : 88036
+---------------------------------------
+['skating : 4804', 'hotel : 1100', 'skypark : NA', 'casino : 5555', 'hotel : 1100', 'coach : 535', 'terminal : 2449', 'prada : 28016', 'prada : 28016', 'louis : 883', 'vuitton : 30228', 'vuitton : 30228', 'louis : 883']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'storewide : NA']
+Total words : 88036
+---------------------------------------
+['bpalette : NA', 'superdrystore. : NA', 'superdry. : NA']
+Total words : 88036
+---------------------------------------
+['$15 : NA', '$15 : NA', 'dress : 4040', 'accessories : 9894', 'bottoms : 19150', 'tops : 10730', 's31 : NA', '$36 : NA', '$33 : NA', '$28 : NA']
+Total words : 88036
+---------------------------------------
+['route: : NA', 'alternate : 3582', 'mins : NA']
+Total words : 88036
+---------------------------------------
+['mac : 3091', 'origins : 2633', 'chanel : 21686']
+Total words : 88036
+---------------------------------------
+['new : 3', 'york : 94', 'coa : NA']
+Total words : 88036
+---------------------------------------
+['asus : NA', 'search : 1570', 'asus : NA', 'tech@vogue : NA', 'asus : NA', 'smile : 10536', 'family : 42']
+Total words : 88036
+---------------------------------------
+['tech@vogue : NA', 'asus : NA', 'asus : NA', '$15 : NA']
+Total words : 88036
+---------------------------------------
+['salads : 27942', 'serenity : 23763', 'rice : 2635', 'diskes : NA', 'suckling : 35571', 'soups : 26362']
+Total words : 88036
+---------------------------------------
+['team : 33', 'salon : 9355', 'aveda : 59418']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'i am : NA']
+Total words : 88036
+---------------------------------------
+['circle : 2273', 'line : 86', 'one : 2', 'level : 260', 'down : NA', 'east : 75', 'west : 60']
+Total words : 88036
+---------------------------------------
+['sbs : NA', 'transist : NA']
+Total words : 88036
+---------------------------------------
+['fresever : NA', 'mao : 9571', 'pteltd : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'bus : 1296']
+Total words : 88036
+---------------------------------------
+['speed : 866', 'merrell : NA', 'cushioning : 47575', '20% : NA']
+Total words : 88036
+---------------------------------------
+['adidas : 21556', 'reebok : 28730', 'reebok : 28730', 'reebok : 28730', 'running : 670', 'running : 670', '10% : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123', '70% : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['food : 655', 'beverages : 12742', 'the : NA', 'cafe : 7240', 'lobby : 8246', 'bringing : 2810', 'hoac : NA', 'changing : 2660']
+Total words : 88036
+---------------------------------------
+['smrt : NA', 'shop&dine : NA']
+Total words : 88036
+---------------------------------------
+['murdoch : 13324']
+Total words : 88036
+---------------------------------------
+['bos : NA', '182/182 : NA', '243 : NA', '179 : NA', '405 : NA', 'berth : 12094']
+Total words : 88036
+---------------------------------------
+['actioncity : NA', 'gadget : 25278']
+Total words : 88036
+---------------------------------------
+['new : 3', 'york : 94']
+Total words : 88036
+---------------------------------------
+['arnold : 4501', 'keppol : NA', 'etude : 42706', '19 99 : NA', 'etude : 42706', 'palme : NA']
+Total words : 88036
+---------------------------------------
+['crazy : 6401', 'jem : NA', 'welcome : 5995']
+Total words : 88036
+---------------------------------------
+['ayer : NA', 'rajah : 23041', 'ave : 11860', 'nsrad : NA']
+Total words : 88036
+---------------------------------------
+['blum : NA', 'co. : NA']
+Total words : 88036
+---------------------------------------
+['tokyo : 2673', 'optical : 4683', 'sta : 21491']
+Total words : 88036
+---------------------------------------
+['wild : 1773', 'aurora : 8678', 'factorie : NA', 'tems : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['tent : 9683']
+Total words : 88036
+---------------------------------------
+['sembonia : NA', 'sixties : 12969']
+Total words : 88036
+---------------------------------------
+['air : 147', 'zoom : 16082', 'structure : 685', 'never : 332', 'been : NA']
+Total words : 88036
+---------------------------------------
+['nike : 13207', 'stability : 5011', 'has : NA', 'never : 332', 'been : NA', 'faster : 4113']
+Total words : 88036
+---------------------------------------
+['aimer : NA', 'courts : 2191']
+Total words : 88036
+---------------------------------------
+['bonia : NA', 'orogold : NA', 'orogol : NA', 'benefit : 2695']
+Total words : 88036
+---------------------------------------
+['sale : 2123', '75% : NA', 'off : NA', 'and : NA', 'jewellery : 13089']
+Total words : 88036
+---------------------------------------
+['benefit : 2695', 'tiffany : 13272', 'wedding : 3175']
+Total words : 88036
+---------------------------------------
+['e-pay : NA', 'axs : NA']
+Total words : 88036
+---------------------------------------
+['get : 425', 'fit : 3220', 'rewards : 12294']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['tuckshop : NA']
+Total words : 88036
+---------------------------------------
+['warning : 4042']
+Total words : 88036
+---------------------------------------
+['atm : 16548', 'atm : 16548', 'posit : 36164', 'date : 707', 'out : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'buzz : 10865', 'lee : 1122', 'man : 199', 'pays : 8216', 'car : 495', 'umisushi : NA', 'bento : 32692']
+Total words : 88036
+---------------------------------------
+['japan : 447', 'ipl : NA', 'ipl : NA', 'japan : 447', 'ipl : NA', 'japan : 447']
+Total words : 88036
+---------------------------------------
+['citi : NA', 'smrt : NA']
+Total words : 88036
+---------------------------------------
+['front : 494', 'm1-a1 : NA', 'pintu : NA', 'kecemasa : NA']
+Total words : 88036
+---------------------------------------
+['best : 104', 'served : 146', 'oftly : NA', 'bring : 1534', 'out : NA', 'volume : 1422']
+Total words : 88036
+---------------------------------------
+['gucci : 28017']
+Total words : 88036
+---------------------------------------
+['reserve : 1367', 'caution : 12501']
+Total words : 88036
+---------------------------------------
+['bus : 1296', 'interchange : 4573']
+Total words : 88036
+---------------------------------------
+['level : 260', 'opi : NA']
+Total words : 88036
+---------------------------------------
+['genaxis theatre : NA', '[06] : NA', '62-03 : NA', 'carpark : NA']
+Total words : 88036
+---------------------------------------
+['zara : 24692', 'tang : 5741', 'roberto : 7641', 'cavalli : NA', 'zara : 24692', 'shanghai : 4791']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'salomon : NA', 'dupd : NA', 'etnies : NA', 'hi-tec : NA', 'aman : NA']
+Total words : 88036
+---------------------------------------
+['action : 501', 'hair : 2479', 'isis : 16384', 'doc : 9033']
+Total words : 88036
+---------------------------------------
+['fusionopolis : NA', 'fusionopolis : NA']
+Total words : 88036
+---------------------------------------
+['choice : 1617', 'trading : 2629', 'first : 1', 'factory : 1822', 'price : 1423', 'year : 8', 'end : 80', 'sale : 2123', 'filipino : 5898', 'nut : 12486', 'chocolate : 6775', 'assorted : 20154', 'for : NA', 'for : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'i2r : NA']
+Total words : 88036
+---------------------------------------
+['hottis : NA', 'bon : 10714', 'appetit! : NA', 'crate : 26573', 'cream : 5191', 'the : NA', 'ice : 929', 'quick : 3864', 'big : 516']
+Total words : 88036
+---------------------------------------
+['unionpay : NA', 'meps : NA', 'maestro : 15004', 'visa : 9523', 'ocbc : NA', 'cirrus : 28060', 'uob : NA', 'by: : NA', 'nisp : NA', 'visa : 9523']
+Total words : 88036
+---------------------------------------
+['koon : NA', 'chang : 6955', 'airport : 675']
+Total words : 88036
+---------------------------------------
+['south : 27', 'pasir : NA', 'ris : NA', 'changi : NA', 'airport : 675']
+Total words : 88036
+---------------------------------------
+['jem : NA']
+Total words : 88036
+---------------------------------------
+["world's : NA", 'finest : 5984', 'delivering : 7887', 'you : NA', 'the : NA', 'freshest : 49342', 'juices : 26296', 'from : NA', 'the : NA', 'fruits : 6410', '62620220 : NA']
+Total words : 88036
+---------------------------------------
+['expectations : 7012', 'open : 295', 'all : NA', 'seating : 6282', 'foreigners : 9265', 'reserved : 5742', 'country : 164', 'garden : 1503', "group's : NA", 'first : 1', 'outside : 567', 'china : 489', 'that : NA', 'country : 164', 'garden : 1503', 'danga : NA', 'bay : 549', '(cgdb) : NA', 'joho : NA', 'iskadar : NA', 'malaysia : 2996', 'with : NA', 'cgdb : NA', 'unseated : 26775', 'market : 503', 'hit : 571', 'sales : 1418', 'rms : NA', 'billion : 2157', '(us$1 : NA', 'billion) : NA', 'the : NA', 'day : 66', 'launch. : NA', 'more : NA', 'than : NA', '6 : 85645', 'from : NA', 'all : NA', 'over : NA', 'the : NA', 'world : 11', 'proudly : 19127', 'garden : 1503', 'bay : 549', 'home. : NA']
+Total words : 88036
+---------------------------------------
+['wind : 1860', 'mind : 1780']
+Total words : 88036
+---------------------------------------
+['saves : 6920', 'recycle! : NA', 'changi : NA', 'recycle! : NA', 'airport : 675', 'hut : 9842', 'eve : 4485']
+Total words : 88036
+---------------------------------------
+['stop : 1120']
+Total words : 88036
+---------------------------------------
+['stop : 1120', 'faber : NA', 'sjf1790x : NA']
+Total words : 88036
+---------------------------------------
+['serv : NA', 'more : NA', 'shopping : 2804', 'souvenirs : 22565', 'home : 87']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'geox : NA']
+Total words : 88036
+---------------------------------------
+['lift : 4633', 'lift : 4633']
+Total words : 88036
+---------------------------------------
+['christmas : 1899', 'greetings : 24442', "season's : NA", 'special : 335', 'step : 2147', 'into : NA', 'off : NA']
+Total words : 88036
+---------------------------------------
+['bottega : NA', 'veneta : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'stage : 483']
+Total words : 88036
+---------------------------------------
+['why : NA', 'pay : 1302', 'for : NA', 'nothing? : NA']
+Total words : 88036
+---------------------------------------
+['columbia : 1166', 'cohmb : NA', 'trying : 1900']
+Total words : 88036
+---------------------------------------
+['yamaha : 14106', 'dtx : NA']
+Total words : 88036
+---------------------------------------
+['soma : 23803']
+Total words : 88036
+---------------------------------------
+['hom : 29276', 'yoga : 9156']
+Total words : 88036
+---------------------------------------
+['sales : 1418', '20% : NA']
+Total words : 88036
+---------------------------------------
+['sookee : NA', 'pavillion : NA', 'ion : 5811']
+Total words : 88036
+---------------------------------------
+['one : 2', 'ar. : NA', 'play : 189', 'exclusives : 43137', 'gest : NA']
+Total words : 88036
+---------------------------------------
+['breadtalk : NA', 'charles : 491', 'keith : 3884', 'sale : 2123', 'eli : 11088', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['talk : 2016', 'breadtalk : NA']
+Total words : 88036
+---------------------------------------
+['on:sal : NA', 'on sale : NA', 'talk : 2016', 'talk : 2016']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'toastbox : NA', 'breadtalk : NA']
+Total words : 88036
+---------------------------------------
+['graphics : 4281', 'tees : 16835', 'for : NA']
+Total words : 88036
+---------------------------------------
+['cotton : 3649', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['secret : 1489', 'sale : 2123', 'sale : 2123', 'lock : 4606']
+Total words : 88036
+---------------------------------------
+['new : 3', 'tradition : 1392', 'celebrate : 5036']
+Total words : 88036
+---------------------------------------
+['for : NA', 'admire : 23191', 'for : NA', '$12 : NA', '$20 : NA', 'chrec : NA']
+Total words : 88036
+---------------------------------------
+['maids : 24675', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['lowest : 3826', 'prices!! : NA', 'duty : 1944', 'free : 309', 'perfumes : 30034', 'scent : 16123', 'dollars : 3458', 'scent : 16123', 'explosive : 6819', 'fantastic : 7510', 'discounts!! : NA', 'massive : 2632', 'savings!! : NA']
+Total words : 88036
+---------------------------------------
+['clementi : NA', 'thank : 10831', 'you : NA', 'for : NA', 'your : NA', 'patronage : 8705', 'clementi : NA']
+Total words : 88036
+---------------------------------------
+['ew23 : NA', 'clementi : NA']
+Total words : 88036
+---------------------------------------
+['drepublic : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['samsung : 14165', 'do you note? : NA']
+Total words : 88036
+---------------------------------------
+['kick : 4547', 'the : NA', 'new : 3', 'year : 8', 'start : 656', 'off : NA']
+Total words : 88036
+---------------------------------------
+['the : NA', 'new : 3', 'explosive : 6819']
+Total words : 88036
+---------------------------------------
+['win : 410', 'electrical : 2807', 'game : 63', 'ost : NA']
+Total words : 88036
+---------------------------------------
+['eleven : 2701']
+Total words : 88036
+---------------------------------------
+['pane : 27934', 'officine : NA']
+Total words : 88036
+---------------------------------------
+['singtel : NA', 'prepaid : 26543', 'cards : 2416', 'sold : 421', 'here! : NA', 'singtel : NA']
+Total words : 88036
+---------------------------------------
+['asagao : NA', 'minimart : NA', 'kiri : NA', 'tea : 3734', 'tea : 3734']
+Total words : 88036
+---------------------------------------
+['singtel : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['officine : NA', 'panerai : NA']
+Total words : 88036
+---------------------------------------
+['miu : NA', 'miu : NA']
+Total words : 88036
+---------------------------------------
+['fficine : NA', 'panerai : NA']
+Total words : 88036
+---------------------------------------
+['singtel : NA', 'prepaid : 26543', 'cards : 2416']
+Total words : 88036
+---------------------------------------
+['sephora : NA', 'sephora : NA']
+Total words : 88036
+---------------------------------------
+['l1/l2/l3 : NA', 'samantha : 12696', 'thave : NA']
+Total words : 88036
+---------------------------------------
+['use : 67', 'main : 139', 'entrance : 2169']
+Total words : 88036
+---------------------------------------
+['mango : 16518', 'touch : 3674']
+Total words : 88036
+---------------------------------------
+['swarovs : NA', 'shops : 3456', 'l1/l2/l3/l4 : NA', 'orchard : 10686', 'mrt : NA', 'more : NA', 'samantha : 12696', 'thai : 4711', 'thava : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['ferrero : NA', 'rocher : NA']
+Total words : 88036
+---------------------------------------
+['mcdonalds : NA', 'smiggle : NA', 'sale! : NA', 'special : 335', 'deluxe : 10612']
+Total words : 88036
+---------------------------------------
+['minor : 934', 'environmental : 1583', 'sustainability : 9623']
+Total words : 88036
+---------------------------------------
+['massive : 2632', 'clearance : 9751', 'sale : 2123', 'moving : 1136']
+Total words : 88036
+---------------------------------------
+['tel. : NA', 'no.: : NA', '( +65) 6732 2900 : NA', 'philoxenos : NA', 'venice : 4459']
+Total words : 88036
+---------------------------------------
+['sephora : NA']
+Total words : 88036
+---------------------------------------
+['acer : 22420', 'explore : 5654', 'beyond : 1490']
+Total words : 88036
+---------------------------------------
+['macbook : NA', 'air : 147']
+Total words : 88036
+---------------------------------------
+['top : 173', 'mount : 1249', 'compressor : 17407', 'primefresh : NA', '299 : NA']
+Total words : 88036
+---------------------------------------
+['mcafee : NA', 'print : 2868', 'domain : 2784', 'print : 2868', 'domain : 2784']
+Total words : 88036
+---------------------------------------
+['lock : 4606']
+Total words : 88036
+---------------------------------------
+['2015 : NA', 'sale : 2123', 'festive : 19703', 'courts : 2191', 'must : 405', 'courts : 2191', 'buy : 2961', 'galaxy : 5507', 'can! : NA', 'cam : 9860']
+Total words : 88036
+---------------------------------------
+['brate : NA', 'sony : 4593', 'sony : 4593', 'sale : 2123', 'your : NA', 'year : 8', 'end : 80', 'colourfully : NA', 'sony : 4593', 'days : 293', '2014 : NA']
+Total words : 88036
+---------------------------------------
+['twenty : 1177', 'everything : 2478', 'amazingly : 26570', '4g. : NA']
+Total words : 88036
+---------------------------------------
+['story : 292', 'gain : 2099', 'city : 9']
+Total words : 88036
+---------------------------------------
+['canon : 5008', '1299 : NA', '1249 : NA', 'nikon : 19507', 'you : NA', 'noto : NA']
+Total words : 88036
+---------------------------------------
+['genereal : NA', 'fiction : 1482', 'dan brown : NA', 'brown : 686']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'lobby : 8246', 'classics : 6074']
+Total words : 88036
+---------------------------------------
+['mc.2 : NA', 'style : 378']
+Total words : 88036
+---------------------------------------
+['sleep : 4250', 'clinic : 6003', 'bedding : 23974', 'furniture : 5058', 'samsung : 14165', '28.888 : NA', 'upgrade : 6793', 'and : NA', 'shopping : 2804', 'eco : 10669', 'full-flat : NA', 'vouchers : 28854']
+Total words : 88036
+---------------------------------------
+['samsung : 14165']
+Total words : 88036
+---------------------------------------
+['ol:lo : NA', 'camera : 2615', 'oppo : NA', 'the : NA', 'Unicode error', 'thinnest : 44477', 'you : NA']
+Total words : 88036
+---------------------------------------
+['lou : 6624', 'yau : NA', '=b2-25 : NA']
+Total words : 88036
+---------------------------------------
+['astron : NA']
+Total words : 88036
+---------------------------------------
+['asian : 1247']
+Total words : 88036
+---------------------------------------
+['superdry. : NA', 'novope : NA', 'level1 : NA', '- #01 : NA']
+Total words : 88036
+---------------------------------------
+['calvin : 8626', 'calvin : 8626', 'citigems : NA']
+Total words : 88036
+---------------------------------------
+['warehouse : 7011', 'esprit : 26175', 'dbs : NA', 'rehouse : 60008']
+Total words : 88036
+---------------------------------------
+['5years : NA', 'ramen : NA', 'ton : 7138']
+Total words : 88036
+---------------------------------------
+['garden : 1503', 'this : NA', 'lift : 4633', 'lobby : 8246', 'l12 : NA', 'serves : 1205', '#12-02 : NA', 'beer : 4032']
+Total words : 88036
+---------------------------------------
+['exceptional : 7042', 'quality : 1024']
+Total words : 88036
+---------------------------------------
+['syears : NA', 'verandah : NA', 'ramen : NA', 'champion : 1090', 'nantsutte : NA', 'singapore : 2181']
+Total words : 88036
+---------------------------------------
+['the : NA', 'carpark : NA', 'ramp : 10167', 'exchange : 1295', 'the : NA', 'indulge : 27597', 'the : NA', 'runway : 5151', 'indulge : 27597', 'the : NA', 'runway : 5151', 'indulge : 27597', 'discovery : 2283', 'walk : 2438', 'b-one : NA', 'the : NA', 'med : 18634', 'med : 18634', 'l12 : NA', 'l11 : NA', 'l10 : NA', 'access : 753', 'all : NA', 'floors. : NA', 'please : 6758', 'transfer : 1713', 'level : 260', 'roof : 2621', 'garden : 1503', 'roof : 2621', 'garden : 1503', 'carpark : NA', 'verandah : NA', 'carpark : NA', 'verandah : NA', 'carpark : NA', 'the : NA', 'ramp : 10167', 'carpark : NA']
+Total words : 88036
+---------------------------------------
+['level : 260', 'amkisoki : NA', 'the : NA']
+Total words : 88036
+---------------------------------------
+['snaffles : 67546', 'b2-k15 : NA']
+Total words : 88036
+---------------------------------------
+['ztp : NA', 'koi : NA', 'snaffles : 67546']
+Total words : 88036
+---------------------------------------
+['nds : NA', "beauty's : NA", 'beginning : 551', 'nds : NA']
+Total words : 88036
+---------------------------------------
+['side : 187', 'label : 992']
+Total words : 88036
+---------------------------------------
+['with : NA', 'sheets : 8100', 'aurora : 8678', 'alpha : 3499', 'strip : 2869', 'cut : 1047', 'ribbon : 7713', 's1060sb : NA', 'wastebin : NA', 'as1060sb : NA', 'alpha : 3499', 'der : NA']
+Total words : 88036
+---------------------------------------
+['files : 3575', 'organizer : 11701']
+Total words : 88036
+---------------------------------------
+['champion : 1090', 'approach : 1352', 'readers : 4234', 'for : NA', 'life : 55']
+Total words : 88036
+---------------------------------------
+['coming : 1233', 'soon : 441', 'bank : 550', 'china : 489']
+Total words : 88036
+---------------------------------------
+['digi : NA', 'free : 309', 'sound : 676', 'jean : 1495']
+Total words : 88036
+---------------------------------------
+['scrapbooking : NA']
+Total words : 88036
+---------------------------------------
+['office : 262', 'equipment : 1186', 'office : 262']
+Total words : 88036
+---------------------------------------
+['acrylic : 20678', 'display : 1939', 'stand : 1518']
+Total words : 88036
+---------------------------------------
+['charcoal : 14136', 'deep : 1375', 'and : NA', 'remove : 3529', 'clean : 3525', '17x : NA']
+Total words : 88036
+---------------------------------------
+['hitachi : 24354']
+Total words : 88036
+---------------------------------------
+['correct : 3328', 'you : NA', 'for : NA', 'travelling : NA', 'thank : 10831', 'with : NA', 'notice : 4439', 'have : NA', 'nice : 5875', 'day. : NA', 'safe : 2752', 'please : 6758', 'the : NA', 'tap : 9135', 'out : NA', 'card : 1711', 'you : NA', 'sbge : NA']
+Total words : 88036
+---------------------------------------
+['ayer : NA', 'rajah : 23041', 'ave : 11860', 'keh : NA', 'engineering : 957', 'pte : NA', 'ltd : 3273']
+Total words : 88036
+---------------------------------------
+['healthway : NA', 'medical : 595', 'penny : 8313', 'tan : 7120', 'medical : 595']
+Total words : 88036
+---------------------------------------
+['hello : 11122', 'singapore : 2181']
+Total words : 88036
+---------------------------------------
+['mrt : NA', 'commonwealth : 2391', 'ave : 11860', 'west : 60', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['give : 766', 'way : 186', 'buses : 3405', 'exiting : 16578']
+Total words : 88036
+---------------------------------------
+['shops : 3456', 'radiant : 21549', 'slimming : 52530', 'angle : 3570', 'yip : 27304']
+Total words : 88036
+---------------------------------------
+['times : 185', 'minute; : NA', 'know : 1238', 'that : NA', 'the : NA', 'you : NA', 'average : 305', 'heart : 913', 'adult : 1723', 'beats : 7577', '100 : 85793', 'times : 185', 'day; : NA', '36 : 87506', 'times : 185', 'yea : 38605', 'seating : 6282', 'human : 376', 'bdt : NA', 'expirience : NA', '#ilovesciencecentre : NA']
+Total words : 88036
+---------------------------------------
+['has : NA', 'your : NA', 'loved : 4913', 'been : NA', 'one : 2']
+Total words : 88036
+---------------------------------------
+['shop : 2215', 'dine : 23590', 'smrt : NA', 'ice : 929']
+Total words : 88036
+---------------------------------------
+['employment : 2830', 'agency : 1340', 'kong : 1594', 'licence : NA', 'sing : 3557', 'no: : NA', '03c5262 : NA', 'maids : 24675', 'indonesian : 5673', 'development : 181', 'documentation : 7658', '6825 : NA']
+Total words : 88036
+---------------------------------------
+['henderson : 5867', 'waves : 4339']
+Total words : 88036
+---------------------------------------
+['earth : 741', 'trail : 1983']
+Total words : 88036
+---------------------------------------
+['smoking : 6479']
+Total words : 88036
+---------------------------------------
+['city : 9', 'singapura : NA', 'ngee : NA', 'ann : 3300', 'city : 9', 'ion : 5811', 'orchard : 10686', 'paragon : 26145', 'plaze : NA', 'raffles : 20991', 'suntec : NA', 'city : 9', 'tangs : 52006', '197 : NA', 'occitane : NA', 'provence : 11809', 'victoria : 1385']
+Total words : 88036
+---------------------------------------
+['marigold : 37282']
+Total words : 88036
+---------------------------------------
+['phoon : NA', 'huat : NA', 'since : 44', '!947 : NA', 'baking : 16431', 'made : 19', 'easy : 2475', 'baking : 16431', 'made : 19', 'easy : 2475']
+Total words : 88036
+---------------------------------------
+['skylight : 32181']
+Total words : 88036
+---------------------------------------
+['insead : NA', 'the : NA', 'school : 6', 'world : 11']
+Total words : 88036
+---------------------------------------
+['sexy! : NA', 'want : 1724', 'see : 249', 'more : NA', "don't : NA", 'fall : 813', 'for : NA', 'her : NA']
+Total words : 88036
+---------------------------------------
+['tiong : NA', 'woon : NA', 'tower : 1054', 'crane : 7045', 'pte. : NA', 'ltd. : NA']
+Total words : 88036
+---------------------------------------
+['stop : 1120']
+Total words : 88036
+---------------------------------------
+['hump : 24474']
+Total words : 88036
+---------------------------------------
+['joint : 1419', 'pain : 3213']
+Total words : 88036
+---------------------------------------
+['walking : 3357', 'within : 117', 'bus : 1296', 'park : 152']
+Total words : 88036
+---------------------------------------
+['giorda : NA']
+Total words : 88036
+---------------------------------------
+['psi : 11898']
+Total words : 88036
+---------------------------------------
+['mania : 18856']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'promod : NA', 'now! : NA', '-70% : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123']
+Total words : 88036
+---------------------------------------
+['lora : 33553', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'ale : 13328', 'sal : 14719', 'ale : 13328', 'sal : 14719', 'sale : 2123', 'ale : 13328', 'ale : 13328']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'b1/b3 : NA', 'zara : 24692', 'topshop : NA', 'uniqlo : NA', 'zalora : NA']
+Total words : 88036
+---------------------------------------
+['lobby : 8246', 'uniqlo : NA', 'topshop : NA']
+Total words : 88036
+---------------------------------------
+['zara : 24692']
+Total words : 88036
+---------------------------------------
+['kurt : 6357', 'geiger : 23762']
+Total words : 88036
+---------------------------------------
+['latina : 20673']
+Total words : 88036
+---------------------------------------
+['1/2 : NA', 'price : 1423', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['dior : 27791']
+Total words : 88036
+---------------------------------------
+['market : 503', 'vitality : 20306', 'court : 208', 'podi : NA']
+Total words : 88036
+---------------------------------------
+['ane : NA', 'swatch : 38507', 'robinsons : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['bossini : NA']
+Total words : 88036
+---------------------------------------
+['all : NA', 'blouses : 41877', '$1990 : NA', 'sant : NA']
+Total words : 88036
+---------------------------------------
+['dbs : NA', 'giant : 2813', 'toast : 18444', 'food : 655']
+Total words : 88036
+---------------------------------------
+['foodrepublic : NA', 'town : 65']
+Total words : 88036
+---------------------------------------
+['harland : NA', 'tast : NA']
+Total words : 88036
+---------------------------------------
+['joy : 5658', 'joy : 5658', 'love : 388']
+Total words : 88036
+---------------------------------------
+["men's : NA", 'hair : 2479', 'care : 922', 'gorg : NA']
+Total words : 88036
+---------------------------------------
+['ramenplay : NA']
+Total words : 88036
+---------------------------------------
+['restaurant : 2523', 'kabayan : NA', 'filipino : 5898', 'restaurant : 2523', 'pte : NA', 'ltd : 3273', 'filipino : 5898', 'kabayan : NA', 'restaurant : 2523']
+Total words : 88036
+---------------------------------------
+['saladworks : NA', 'sale : 2123', 'fre : NA']
+Total words : 88036
+---------------------------------------
+['pastamania! : NA']
+Total words : 88036
+---------------------------------------
+['"we : NA', 'insurance : 2387', '154 : NA', 'redefining : 37109', 'more : NA', 'than : NA', 'manage : 3755', 'claims. : NA', 'also : 0', 'help : 436', 'rebuild : 8768', 'lives." : NA']
+Total words : 88036
+---------------------------------------
+['thaiexpress : NA']
+Total words : 88036
+---------------------------------------
+['crate : 26573', 'barrel : 5341', 'oaks : 8991']
+Total words : 88036
+---------------------------------------
+['marks : 3362', 'spencer : 4998', 'cathay : 28738', 'jem : NA', 'park : 152', 'food : 655', 'court : 208']
+Total words : 88036
+---------------------------------------
+['saladstop! : NA', 'square : 543']
+Total words : 88036
+---------------------------------------
+['uob : NA', 'sale : 2123', 'ons : NA']
+Total words : 88036
+---------------------------------------
+['citylink : NA']
+Total words : 88036
+---------------------------------------
+['yourself : NA', 'creative : 2643', 'tokyu : NA', 'hands : 1472']
+Total words : 88036
+---------------------------------------
+['look : 1443', 'out : NA', 'for : NA', 'brand : 1730', 'new : 3', 'retail : 3157', 'wing : 920', 'and : NA', 'shopping : 2804', 'options : 4117', 'your : NA', 'way : 186']
+Total words : 88036
+---------------------------------------
+['holland : 3827', 'exit : 4035', 'sasa : NA', 'make-up : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123', '12.50 : NA', 'smokin : NA', 'bbq : 30897', 'chicken : 5987', 'arrival : 2472', 'good : 355']
+Total words : 88036
+---------------------------------------
+['body : 377', 'shop : 2215', "it's : NA", 'big : 516', 'the : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['limited : 639', 'edition : 852', 'monthly : 3401', 'calendar : 3604', 'poster : 9957', 'collect : 5061']
+Total words : 88036
+---------------------------------------
+['kissjane : NA']
+Total words : 88036
+---------------------------------------
+['arm : 2314', 'looked : 3673', 'hot : 1082', 'colum : NA', 'minx : 40579']
+Total words : 88036
+---------------------------------------
+['fipper : NA', 'feel : 2618', 'the : NA', 'rubber! : NA']
+Total words : 88036
+---------------------------------------
+['outhaven : NA']
+Total words : 88036
+---------------------------------------
+['killney : NA', 'boad : NA', 'orchard : 10686', 'road : 162', 'lifts : 12526', 'serve : 1074', 'l10. : NA', 'access : 753', 'levels : 1103', '11/12 : NA', 'please : 6758', 'transfer : 1713', 'levels : 1103', 'b2/1/4/7/9 : NA', 'case : 353', 'approach : 1352', 'concierge : 38583', 'level : 260', 'orse : NA', 'not : NA', 'use : 67', 'lift. : NA', 'b-one : NA', 'the : NA', 'med : 18634']
+Total words : 88036
+---------------------------------------
+['the : NA', 'month : 878', 'wines : 7555', 'win : 410']
+Total words : 88036
+---------------------------------------
+["victoria's : NA", 'secret : 1489', 'secret : 1489', "victoria's : NA", 'secr : NA']
+Total words : 88036
+---------------------------------------
+['20% : NA', '40% : NA', 'criss : NA', 'cross : 558', 'lifestyle : 5342', 'streetwise. : NA', 'latest : 3205', 'collection : 689']
+Total words : 88036
+---------------------------------------
+['rage : 8158', 'sale : 2123', '50% : NA', 'free : 309']
+Total words : 88036
+---------------------------------------
+['green : 476', 'life : 55', 'shaklee : NA']
+Total words : 88036
+---------------------------------------
+['bakery : 13106', '100 : 85793']
+Total words : 88036
+---------------------------------------
+['storage : 2625', 'people : 38', 'the : NA', 'fresh : 3161', 'food : 655', 'cold : 1890', 'cheese : 6139', 'new : 3', 'make : 207', 'own : NA']
+Total words : 88036
+---------------------------------------
+['ion : 5811']
+Total words : 88036
+---------------------------------------
+['cans : 16063', 'tras : NA', 'recycle : 28106', 'lastic : NA', 'ans : 26786', 'here : NA']
+Total words : 88036
+---------------------------------------
+['body : 377', 'shop : 2215', '01-62 : NA', 'the : NA', 'free : 309', 'new : 3', 'location : 668', 'new : 3']
+Total words : 88036
+---------------------------------------
+['sensitiv : NA', 'spring : 973', 'water : 169', 'thermal : 5367', 'natural : 555', 'avente : NA', 'active : 625', 'efficacy : 12521', 'proven : 5712', 'for : NA']
+Total words : 88036
+---------------------------------------
+['mimosa : 37337', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['skylight : 32181', 'channel : 643', 'premium : 7520', 'gifts : 6499', 'skylight : 32181', 'skylight : 32181', '2014 : NA']
+Total words : 88036
+---------------------------------------
+['100 : 85793', 'cheese : 6139']
+Total words : 88036
+---------------------------------------
+['denizen : 49644', 'aurora : 8678']
+Total words : 88036
+---------------------------------------
+['hitachi : 24354']
+Total words : 88036
+---------------------------------------
+['shu : NA', 'shu : NA', 'shu : NA']
+Total words : 88036
+---------------------------------------
+['ody : NA', 'sale : 2123', 'exit : 4035', 'uni : 21360', 'qlo : NA']
+Total words : 88036
+---------------------------------------
+['the : NA', 'body : 377', 'shop : 2215', 'b2-40/41 : NA', 'sale : 2123', "it's : NA", 'big : 516', 'and : NA', "it's : NA", 'sale : 2123', 'uemura : NA']
+Total words : 88036
+---------------------------------------
+['american : 26', 'express : 1974']
+Total words : 88036
+---------------------------------------
+['armani : 29308', 'exchange : 1295', 'g-star : NA', 'calvin : 8626', 'klein : 8404', 'jeans : 15070', 'bread : 5771', 'butter : 10085', 'true : 1022', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['moleskine : NA', 'moleskine : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['swarovski : NA']
+Total words : 88036
+---------------------------------------
+['swarovski : NA', 'orchard : 10686', 'hat : 4248']
+Total words : 88036
+---------------------------------------
+['orchard : 10686', 'mrt : NA', 'ion : 5811', 'paterson : 11629', 'link : 2012']
+Total words : 88036
+---------------------------------------
+['1kg : NA', 'body : 377', 'xndo : NA', 'free : 309', 'free : 309', 'shee : NA', 'kimio : NA', 'blanc : NA', 'lose : 3345', 'composition : 2295']
+Total words : 88036
+---------------------------------------
+['east : 75', 'west : 60', 'line : 86', 'sleeper : 17822']
+Total words : 88036
+---------------------------------------
+['bank : 550', 'ocbc : NA', 'service : 120']
+Total words : 88036
+---------------------------------------
+['challenger : 8183', 'electrical : 2807', 'cables : 9192', 'cables : 9192']
+Total words : 88036
+---------------------------------------
+['optical88 : NA', 'rumah : NA', 'sayan : NA']
+Total words : 88036
+---------------------------------------
+['140 : NA', 'off : NA', 'off : NA', 'vichy : 15598', '50% : NA', 'beauty : 3057', '50% : NA', 'care : 922', '50% : NA', 'off : NA', 'eucerin : NA']
+Total words : 88036
+---------------------------------------
+['save : 1992', 'save : 1992', 'now! : NA']
+Total words : 88036
+---------------------------------------
+['shooting : 2694', 'ready : 2811', 'the : NA', 'world : 11', 'www.ite.edu.sg : NA', 'for : NA', 'award : 251', 'Unicode error', 'for : NA', 'success : 515', 'quality : 1024']
+Total words : 88036
+---------------------------------------
+['tois : NA', 'care : 922', 'bright : 3753', 'smile : 10536', 'feminine : 9622', 'mum : 21919', 'pharmacy : 8921', 'mum : 21919', 'mum : 21919', 'tois : NA', 'tols : NA', 'sale! : NA']
+Total words : 88036
+---------------------------------------
+['tots : 40884', 'mum : 21919', 'mum : 21919', 'tots : 40884', 'mum : 21919']
+Total words : 88036
+---------------------------------------
+['louis : 883', 'vuitton : 30228', 'prada : 28016']
+Total words : 88036
+---------------------------------------
+['harry : 1911', 'winston : 6756']
+Total words : 88036
+---------------------------------------
+['dolce : NA', 'gabbana : NA']
+Total words : 88036
+---------------------------------------
+['mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mento : NA']
+Total words : 88036
+---------------------------------------
+['furla : NA', 'ion : 5811', 'furla : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['singtel : NA']
+Total words : 88036
+---------------------------------------
+['the : NA', 'dressing : 9903', 'salon : 9355', '2070 : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'many : 13', 'items : 2216', '70% : NA', 'off : NA', 'topman : NA', 'com : 9845']
+Total words : 88036
+---------------------------------------
+['long : 93', 'day : 66', 'french : 184', 'bread : 5771', 'all : NA']
+Total words : 88036
+---------------------------------------
+['citylink : NA']
+Total words : 88036
+---------------------------------------
+['ritzbo : NA', 'mid : 536']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'mid : 536', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['bank : 550', 'hungry? : NA', 'biggie. : NA', 'big : 516', 'breakfast : 6361', 'glitter : 24725', 'glam : 18001']
+Total words : 88036
+---------------------------------------
+['2.35 : NA', '2.50 : NA', 'bank : 550', 'ocbc : NA', 'bank : 550', 'breakfast : 6361']
+Total words : 88036
+---------------------------------------
+['nailz : NA', 'vino : 35460', 'salon : 9355']
+Total words : 88036
+---------------------------------------
+['glitter : 24725', 'glam : 18001']
+Total words : 88036
+---------------------------------------
+['skylight : 32181']
+Total words : 88036
+---------------------------------------
+['dover : 8691', 'onsir : NA', 'ayer : NA', 'rajah : 23041', 'ave : 11860', 'ave : 11860', 'mmonwealth : NA', 'and : NA']
+Total words : 88036
+---------------------------------------
+['covenant : 9921', 'fsc : NA']
+Total words : 88036
+---------------------------------------
+["there's : NA", 'always : 757', 'time : 5', 'chill : 18237', 'new : 3', 'seasons : 978']
+Total words : 88036
+---------------------------------------
+['hiva : NA', 'great : 150', 'grans : 65417', 'plain : 3271', 'caution : 12501', 'plain : 3271', 'plain : 3271', 'panadol : NA', 'panadol : NA']
+Total words : 88036
+---------------------------------------
+['get : 425', 'more! : NA', 'members : 135', 'watsons : NA', 'points : 438', 'redeeme : NA', 'great : 150', 'touch : 3674', 'mooth : NA']
+Total words : 88036
+---------------------------------------
+['east : 75', 'west : 60', 'line : 86']
+Total words : 88036
+---------------------------------------
+['top : 173']
+Total words : 88036
+---------------------------------------
+['beware : 27048', 'teps : NA']
+Total words : 88036
+---------------------------------------
+['gap : 3528', 'platform : 1615', 'please : 6758', 'mind : 1780', 'the : NA', 'platform : 1615']
+Total words : 88036
+---------------------------------------
+['prepaid : 26543', 'sold : 421', 'telecom : NA', 'here! : NA', 'pop : 1211']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'topshop : NA', 'exit : 4035', 'topshop : NA', 'zara : 24692', 'lobby a : NA', 'topshop : NA', 'topman : NA']
+Total words : 88036
+---------------------------------------
+['overpass : 22521', 'use : 67']
+Total words : 88036
+---------------------------------------
+['better : 732', 'bag : 6406', 'down : NA', 'reserved : 5742', 'for : NA', 'caution : 12501', 'keep : 1140', 'clear : 1214', 'doors : 3475', 'ride : 2943', '4-hr : NA']
+Total words : 88036
+---------------------------------------
+['better : 732', 'matching : 7566', 'salary : 5937', 'matching : 7566', 'view : 861', 'jobs : 2803', 'jobstreet.com : NA', 'salary : 5937', 'for : NA', 'things : 1254', 'life : 55', 'first : 1', 'south : 27', 'east : 75', 'asia : 1279']
+Total words : 88036
+---------------------------------------
+['wildlife : 3102', 'experience : 952', 'ultimate : 3837', 'parks : 2666', 'price : 1423']
+Total words : 88036
+---------------------------------------
+['presious : NA', 'thots : NA']
+Total words : 88036
+---------------------------------------
+["victoria's : NA", 'secret : 1489', 'sale : 2123', 'aldo : 19252', 'ldo : NA']
+Total words : 88036
+---------------------------------------
+['full-time : NA', 'par : 8464', 'gho : NA', 'cha : NA', 'gong : 11711']
+Total words : 88036
+---------------------------------------
+['geox : NA']
+Total words : 88036
+---------------------------------------
+['reader" : NA', 'the : NA', 'exit : 4035', 'side-gate : NA', 'residents : 1108', '"scan" : NA', 'dear : 9873', 'your : NA', 'access : 753', 'card : 1711', '"card : NA', 'the : NA', 'right : 286', 'hand : 594', 'side : 187', 'the : NA', 'wall : 1184', 'and : NA', 'open : 295', 'gate. : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['$1.50 : NA']
+Total words : 88036
+---------------------------------------
+['docker : 44954']
+Total words : 88036
+---------------------------------------
+['blouses : 41877', 'all : NA', 'ant : 10589']
+Total words : 88036
+---------------------------------------
+['city : 9', 'dine : 23590', 'esplanade : 23301', 'hall : 357', 'the : NA']
+Total words : 88036
+---------------------------------------
+['system : 88', 'map : 2469']
+Total words : 88036
+---------------------------------------
+['flight : 1012']
+Total words : 88036
+---------------------------------------
+['shoppes : 49327', 'the : NA', 'more : NA', 'discover : 4643', 'marina : 7119', 'san : 303', 'ingapo : NA']
+Total words : 88036
+---------------------------------------
+['warehous : NA', 'hello : 11122', '2015! : NA', '$30 : NA', 'off : NA']
+Total words : 88036
+---------------------------------------
+['denizen : 49644', 'sale : 2123', 'off : NA', 'sal : 14719']
+Total words : 88036
+---------------------------------------
+['connection : 1882', 'denizen : 49644']
+Total words : 88036
+---------------------------------------
+['sale : 2123', '70% : NA', 'secret : 1489', "a's : NA"]
+Total words : 88036
+---------------------------------------
+['concierge@l3 : NA', 'osaka : 8578', 'ohsho : NA']
+Total words : 88036
+---------------------------------------
+['custom : 3844', 'yours : NA', 'make : 207']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'sale : 2123', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['iiaoiiao : NA']
+Total words : 88036
+---------------------------------------
+['wing : 920', 'it. : NA', 'proof : 4097', 'intense : 4378', 'colour : 3045', 'smudge : 46034', 'browhaus : NA', 'ust : 24310']
+Total words : 88036
+---------------------------------------
+['papparich : NA', 'ryoshi : NA']
+Total words : 88036
+---------------------------------------
+['island : 201', 'admissions : 10889', 'and : NA', 'unlimited : 9081', 'privileges! : NA', '25! : NA', 'enjoy : 4717', 'here : NA']
+Total words : 88036
+---------------------------------------
+['rowente : NA', 'rowente : NA', 'philips : 12534', 'rowenta : NA', 'philips : 12534', 'gom : NA']
+Total words : 88036
+---------------------------------------
+['yoga : 9156', 'lenovo : NA', 'lenovo : NA', '1099 : NA', '999 : NA', 'office : 262']
+Total words : 88036
+---------------------------------------
+['digital : 1129', 'style : 378']
+Total words : 88036
+---------------------------------------
+['new : 3', "york' : NA"]
+Total words : 88036
+---------------------------------------
+['shop : 2215', 'dorothy : 6590', 'perkins : 8853', 'online : 1234', '24/7 : NA', 'asia : 1279']
+Total words : 88036
+---------------------------------------
+['star : 453', 'mitsubishi : 11969', 'electric : 1381']
+Total words : 88036
+---------------------------------------
+['pric : NA', '$24 : NA', 'bird : 2098', 'park : 152', 'night : 419', 'sinagpore : NA', 'river : 84', 'sav : 45260', '5367 : NA', 'safa : NA', 'safa : NA', 'holland : 3827']
+Total words : 88036
+---------------------------------------
+['kun : NA', 'toastwich : NA']
+Total words : 88036
+---------------------------------------
+['(usp) : NA', 'auditorium : 6807', 'resource : 3835', 'centre : 401', 'town : 65', 'education : 192', 'green : 476', 'create : 877', 'utown : NA', 'residence : 2185', 'tembusu : NA', 'college : 81', 'cinnamon : 17454', 'college : 81', 'town : 65', 'plaza : 4468', 'seminar : 11287', 'rooms : 2278', '1-12 : NA', 'town : 65', 'plaza : 4468', 'research : 233', 'wing : 920', 'create : 877', 'tower : 1054', 'lobby : 8246']
+Total words : 88036
+---------------------------------------
+['slow : 2651', 'slow : 2651']
+Total words : 88036
+---------------------------------------
+['centre : 401', 'sbs : NA', 'service : 120', 'town : 65', 'passanger : NA', 'clementi : NA', 'ave : 11860', 'passenger : 1978']
+Total words : 88036
+---------------------------------------
+['#10-12 : NA', 'connexis : NA', 'tower : 1054', 'l10 : NA', '#10-10 : NA', 'north : 34', '#10-15 : NA']
+Total words : 88036
+---------------------------------------
+['evottica : NA', '149 : NA', 'nanoflex : NA', 'touch : 3674']
+Total words : 88036
+---------------------------------------
+['get : 425', 'fit : 3220', 'rewards : 12294']
+Total words : 88036
+---------------------------------------
+['connexis : NA', 'north : 34', 'tower : 1054']
+Total words : 88036
+---------------------------------------
+['world : 11', 'sports : 542', 'vip : 15711']
+Total words : 88036
+---------------------------------------
+['sakae : NA', 'sushi : 25214']
+Total words : 88036
+---------------------------------------
+['cha : NA']
+Total words : 88036
+---------------------------------------
+['i2r : NA']
+Total words : 88036
+---------------------------------------
+['than : NA', 'any : NA', 'rebate : 22511', 'more : NA', 'stores : 1943', 'enjoy : 4717', 'other : NA', 'card : 1711', 'retail : 3157', 'brands : 5313', 'ills : 32304']
+Total words : 88036
+---------------------------------------
+['rebajas : NA', 'sal : 14719', 'rasproda : NA']
+Total words : 88036
+---------------------------------------
+['the : NA', 'world : 11', 'delight : 13031', 'here. : NA', '$$120 : NA', 'uob : NA', 'joy : 5658']
+Total words : 88036
+---------------------------------------
+['week : 552', '1kg : NA', 'my4 : NA', 'lose : 3345', 'simple : 1514', 'steps : 3294']
+Total words : 88036
+---------------------------------------
+['compare! : NA']
+Total words : 88036
+---------------------------------------
+['dare : 12737', 'comparel : NA']
+Total words : 88036
+---------------------------------------
+['value : 998', 'buy : 2961', '4.20 : NA', '3.15 : NA', '3.15 : NA']
+Total words : 88036
+---------------------------------------
+['flowers : 2780', 'cut : 1047']
+Total words : 88036
+---------------------------------------
+['value : 998', 'ice : 929', 'cubes : 21766', 'cubes : 21766']
+Total words : 88036
+---------------------------------------
+['rand : 10318', 'low : 442', 'prices : 3469', 'daily : 1071', 'cubes : 21766']
+Total words : 88036
+---------------------------------------
+['drinks : 8164', 'ice : 929', 'cubes : 21766', 'dha : NA']
+Total words : 88036
+---------------------------------------
+['for : NA', "wall's : NA", 'wall : 1184']
+Total words : 88036
+---------------------------------------
+['jixiang : NA', 'zhai : NA']
+Total words : 88036
+---------------------------------------
+['tnling : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['jbrand : NA', 'john : 74', 'tenry : NA', 'blue : 611', "joe's : NA", 'denham : NA', 'kuro : NA', 'the : NA', 'strike : 2170', 'prps : NA', 'hydrogen : 5013', 'replay : 10050']
+Total words : 88036
+---------------------------------------
+['dior : 27791', '(i) : NA']
+Total words : 88036
+---------------------------------------
+['heatwave : 40766', 'et 1 : NA', 'roe : 13180']
+Total words : 88036
+---------------------------------------
+['hebe : 39210', 'worth : 2409', 'waiting : 3728', 'for : NA', 'sale : 2123', 'the : NA', 'here : NA', 'ocbc : NA', 'all : NA', 'round : 365', 'sale : 2123', 'ban : 3851']
+Total words : 88036
+---------------------------------------
+['hubl : NA', 'mardin : NA']
+Total words : 88036
+---------------------------------------
+['geox : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['zara : 24692']
+Total words : 88036
+---------------------------------------
+['discover : 4643', 'more : NA', 'crocs : NA', 'pore! : NA']
+Total words : 88036
+---------------------------------------
+['optical 88 : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'ebate : NA', 'here : NA', 'all : NA', 'year : 8', 'round : 365']
+Total words : 88036
+---------------------------------------
+['motherswork : NA']
+Total words : 88036
+---------------------------------------
+['marks : 3362', 'off : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['more : NA', 'shops : 3456', 'geiger : 23762', 'kurt : 6357', 'london : 205']
+Total words : 88036
+---------------------------------------
+['$100 : NA', 'off! : NA', 'alexis : 11533']
+Total words : 88036
+---------------------------------------
+['metro : 2626']
+Total words : 88036
+---------------------------------------
+['marks : 3362', 'spencer : 4998', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['sale : 2123']
+Total words : 88036
+---------------------------------------
+['chloe : 15377', 'love : 388', 'story : 292', 'chloe : 15377']
+Total words : 88036
+---------------------------------------
+['topman : NA', 'brooks : 5340', 'sal : 14719', 'sale : 2123', 'ite : NA', 'pbothers : NA', 'topshop : NA', 'sale : 2123', 'sale : 2123', 'many : 13']
+Total words : 88036
+---------------------------------------
+['grand : 577', 'ale : 13328', 'h2o : NA', 'h2o : NA', 'hollk : NA', 'grand : 577', 'sale : 2123', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['the : NA', 'skin : 2659', 'studio : 631', 'setan : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'sale : 2123', 'grand : 577', 'grand : 577', 'anniversary : 2515', 'sale : 2123', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['grand : 577', 'anniversary : 2515', 'grand : 577', 'anniversary : 2515', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'grand : 577', 'grand : 577', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['garrett : 9847', 'thefacesho : NA', 'limited : 639', 'eddition : NA', 'calendar : 3604', 'collect : 5061']
+Total words : 88036
+---------------------------------------
+['rebate : 22511', 'bank : 550', 'ocbc : NA', 'jose : 4541', 'eber : NA', 'year : 8', 'stores : 1943']
+Total words : 88036
+---------------------------------------
+['coast : 521', 'london : 205']
+Total words : 88036
+---------------------------------------
+['70% : NA', 'sale : 2123', 'aldo : 19252']
+Total words : 88036
+---------------------------------------
+['jay : 3574', 'gee : 16923', 'card : 1711', 'members : 135', 'get : 425', 'more : NA', 'get : 425', 'your : NA', '$150 : NA', 'voucher : 31011']
+Total words : 88036
+---------------------------------------
+['giordano : 23983', 'silver : 1018', 'cotton : 3649']
+Total words : 88036
+---------------------------------------
+['japan : 447', 'home : 87']
+Total words : 88036
+---------------------------------------
+['cache : 10600', 'cache : 10600', 'cache : 10600', 'cocho : NA', 'cache : 10600']
+Total words : 88036
+---------------------------------------
+['new : 3', 'best : 104', 'buy : 2961', '$428 : NA', '$71 : NA']
+Total words : 88036
+---------------------------------------
+['poh : NA', 'heng : NA']
+Total words : 88036
+---------------------------------------
+['1998 : NA', '1098 : NA', '1398 : NA', '2298 : NA', '949 : NA', '2198 : NA', '7698 : NA', '1gbps : NA', 'asus : NA', 'asus : NA', '1249 : NA']
+Total words : 88036
+---------------------------------------
+['2198 : NA', '299 : NA', '769 : NA', 'samsung : 14165', '1249 : NA', 'samsung : 14165', '1098 : NA', '199 : NA', 'acer : 22420', '2298 : NA', '1398 : NA', '1198 : NA']
+Total words : 88036
+---------------------------------------
+['sharp : 3735', 'aquos : NA', 'mrbt : NA', 'arp : NA']
+Total words : 88036
+---------------------------------------
+['samsung : 14165', 'gerator : NA', 'son : 179']
+Total words : 88036
+---------------------------------------
+['connexis : NA']
+Total words : 88036
+---------------------------------------
+['tops : 10730', '19.90 : NA']
+Total words : 88036
+---------------------------------------
+['wild : 1773', 'aurora : 8678']
+Total words : 88036
+---------------------------------------
+['50% : NA', 'off : NA', 'pandora : 20080']
+Total words : 88036
+---------------------------------------
+['basement : 5859', 'shops : 3456', 'coco : 16499', 'saturday : 2455', 'gourmet : 20990', 'paradise : 6487']
+Total words : 88036
+---------------------------------------
+['mango : 16518', 'pass : 1038', 'paul : 488', 'paul : 488', 'dollar : 4460']
+Total words : 88036
+---------------------------------------
+['cathay : 28738']
+Total words : 88036
+---------------------------------------
+["santa's : NA", 'cinaways : NA']
+Total words : 88036
+---------------------------------------
+['accessories : 9894', 'blogshopping : NA', 'buffet : 23318']
+Total words : 88036
+---------------------------------------
+['jam : 5787', 'giftaways : NA', 'xtreme : NA']
+Total words : 88036
+---------------------------------------
+['murdoch : 13324', 'multiply : 20276', 'routes : 2222', 'imod : NA', 'success : 515', 'with : NA', 'double : 988', 'Unicode error', 'choice : 1617', 'university : 22', 'ars : NA']
+Total words : 88036
+---------------------------------------
+['back : 95', 'school : 6', 'sales : 1418']
+Total words : 88036
+---------------------------------------
+['shu : NA', 'shu : NA', 'shu : NA', 'shu : NA', 'shu : NA', 'uemura : NA', 'shu : NA', 'shu : NA', 'shu : NA', 'shu : NA', 'shu : NA']
+Total words : 88036
+---------------------------------------
+['health : 422', 'beauty : 3057', 'are : NA']
+Total words : 88036
+---------------------------------------
+['joy : 5658', 'booth : 6836']
+Total words : 88036
+---------------------------------------
+['moving : 1136', 'moving : 1136', 'uui : NA', 'new : 3', 'out : NA', 'sale : 2123', 'moving : 1136', 'out : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['brenner : 23391', 'chocolate : 6775', 'bar : 1322', 'max : 2529']
+Total words : 88036
+---------------------------------------
+['toss : 14065', 'turn : 829', 'toss : 14065']
+Total words : 88036
+---------------------------------------
+['love : 388', 'free : 309', 'scan : 11486', 'life : 55', 'chi : 6118', 'spinal : 10006', 'spinal : 10006', 'scan : 11486']
+Total words : 88036
+---------------------------------------
+['chiropractic: : NA', 'live : 266', 'the : NA', 'life : 55', "you'd : NA", 'love : 388', 'live. : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['vivomart : NA']
+Total words : 88036
+---------------------------------------
+['vacancy : 8111', 'grisham : NA', 'john : 74', 'charlie : 3064', 'higson : NA', 'hunted : 12061', 'charlie : 3064', 'higson : NA', 'hunted : 12061', 'enovo : NA', 'way : 186', 'lenovo : NA', 'way : 186', 'nelson : 2965', 'demille : NA', 'quest : 5368', 'mille : NA', 'fst : NA', 'rowling : 23173', 'j.k. : NA', 'rowling : 23173', 'casual : 9675', 'gray : 3042', 'mountain : 681', 'rosie : 14844', 'uniain : NA', 'ray : 1662']
+Total words : 88036
+---------------------------------------
+['year : 8', 'new : 3', 'new : 3', 'beginning : 551', 'inspired : 1658', 'motivated : 7657', 'lego : 17803', 'joo : NA']
+Total words : 88036
+---------------------------------------
+['lifestyle : 5342', 'filofax : 69606', 'parker : 3621', 'accessories : 9894', 'accessories : 9894', 'engui : NA', 'lifestyle : 5342', 'times : 185']
+Total words : 88036
+---------------------------------------
+['investment : 2160', "children's : NA", 'finance : 2431', 'lego : 17803', 'rade : NA']
+Total words : 88036
+---------------------------------------
+['srim : NA', 'chaeng : NA']
+Total words : 88036
+---------------------------------------
+['lego : 17803', 'lego : 17803']
+Total words : 88036
+---------------------------------------
+['love : 388', 'life : 55', 'live : 266', 'life : 55', 'riding : 2891', 'pep : 18828']
+Total words : 88036
+---------------------------------------
+['keep : 1140', 'calm : 8564', 'and : NA', 'stay : 1810', 'cool : 4581']
+Total words : 88036
+---------------------------------------
+['dbs : NA']
+Total words : 88036
+---------------------------------------
+['marks& : NA', 'spencer : 4998']
+Total words : 88036
+---------------------------------------
+['here : NA', 'the : NA', 'pulse : 7931', 'success : 515']
+Total words : 88036
+---------------------------------------
+['ready : 2811', 'for : NA', 'the : NA', 'world : 11', "we're : NA", 'shooting : 2694', 'for : NA', 'success : 515', 'ite : NA']
+Total words : 88036
+---------------------------------------
+['photo : 4203', 'photo : 4203', 'photo : 4203', 'photos : 5098', 'photo : 4203']
+Total words : 88036
+---------------------------------------
+['coffee : 3756', 'club : 90']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'rreis : NA', 'l10 : NA']
+Total words : 88036
+---------------------------------------
+['10-21 : NA', '[05] : NA', 'carpark : NA']
+Total words : 88036
+---------------------------------------
+['unrail : NA', 'ease : 6449']
+Total words : 88036
+---------------------------------------
+['level : 260']
+Total words : 88036
+---------------------------------------
+['stand : 1518', 'out : NA']
+Total words : 88036
+---------------------------------------
+['photo : 4203', 'post : 347', 'box : 1401', 'block : 1448', 'sam : 2221', 'lecture : 6069', 'theatre : 610', 'library : 727', 'mae : 11069', 'our : NA']
+Total words : 88036
+---------------------------------------
+['most : NA', 'one : 2', 'the : NA', 'making : 334', "world's : NA", "we're : NA", 'beautiful : 2248', 'more : NA', 'beautiful : 2248']
+Total words : 88036
+---------------------------------------
+['connexis : NA', 'north : 34', 'tower : 1054', '10-10 to 11 : NA', '10-12 to 14 : NA', '10-15 to 16 : NA', 'l10 : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'i2r : NA']
+Total words : 88036
+---------------------------------------
+['off : NA', 'minutes : 989', 'cuts : 4763', '$10 : NA']
+Total words : 88036
+---------------------------------------
+['lower : 523', 'calorie : 28739', 'meals : 8969', 'serve : 1074', 'whole-grain : NA', 'optons : NA']
+Total words : 88036
+---------------------------------------
+['ave : 11860', 'ayer : NA', 'the : NA', 'road : 162', 'safety : 1363', "children's : NA", 'rajah : 23041', 'ave : 11860']
+Total words : 88036
+---------------------------------------
+['serc : NA', 'services : 280', 'shared : 1921']
+Total words : 88036
+---------------------------------------
+['sydney : 1439', 'stirling : 9630', 'southampton : 6393', 'warwick : 7960', 'reserved : 5742', 'seating : 6282', 'simge.edu.sg : NA', 'university : 22', 'rmit : NA', 'university : 22']
+Total words : 88036
+---------------------------------------
+['shop : 2215', 'dine : 23590', 'smrt : NA']
+Total words : 88036
+---------------------------------------
+['ew15 : NA', 'tanjong : NA', 'pagar : NA', 'caution : 12501']
+Total words : 88036
+---------------------------------------
+['nanyang : NA', 'university : 22', 'technological : 5756']
+Total words : 88036
+---------------------------------------
+['lift : 4633', 'mrt : NA']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
+['trying : 1900', 'stuff : 8881', 'columbia : 1166']
+Total words : 88036
+---------------------------------------
+['fourskin : NA', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['rld : NA', 'sports : 542']
+Total words : 88036
+---------------------------------------
+['crocs : NA', 'crocs : NA']
+Total words : 88036
+---------------------------------------
+['food : 655', 'court : 208', '(at : NA', 'level : 260']
+Total words : 88036
+---------------------------------------
+['sennheiser : NA']
+Total words : 88036
+---------------------------------------
+['you : NA', 'smile : 10536', 'person : 624']
+Total words : 88036
+---------------------------------------
+['picket : 17492', 'rail : 1369']
+Total words : 88036
+---------------------------------------
+['simmons : 9330']
+Total words : 88036
+---------------------------------------
+['tep : NA', 'ound : NA', 'year : 8', 'ocbc : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['robinso : NA', 'robinsons : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['morris : 3350', 'robin : 3388', 'sal : 14719']
+Total words : 88036
+---------------------------------------
+['period : 232', 'height : 2003', 'limit : 2595', 'max. : NA', 'min : 7815', '1.7m : NA', 'grace : 3466', 'more : NA', 'ots : NA', 'entrance : 2169']
+Total words : 88036
+---------------------------------------
+['zero : 2835', 'spot : 2207', '100% : NA', 'care : 922', 'zero : 2835', 'spot : 2207', 'laundry : 14423', '6852 : NA', '1771 : NA', 'www.zerospot.com : NA']
+Total words : 88036
+---------------------------------------
+['bread : 5771', 'freshly : 21594', 'baked : 14097', 'crunchy : 38486', 'specials : 10705', 'garlic : 16258', 'course : 660', 'below : NA']
+Total words : 88036
+---------------------------------------
+['blush! : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'zara : 24692']
+Total words : 88036
+---------------------------------------
+['this : NA', '510 : NA', '511 : 85592', '513 : NA', '504 : NA', '505 : NA', "levi's : NA"]
+Total words : 88036
+---------------------------------------
+['live : 266', 'this : NA', 'chinese : 557', 'new : 3', 's10 : NA', '511 : 85592', '513 : NA', '505 : NA', '504 : NA']
+Total words : 88036
+---------------------------------------
+['calvin : 8626', 'klein : 8404', 'underwear : 18946']
+Total words : 88036
+---------------------------------------
+['stradivarius : 37795', 'man : 199']
+Total words : 88036
+---------------------------------------
+['place : 98']
+Total words : 88036
+---------------------------------------
+['calvin : 8626', 'klein : 8404']
+Total words : 88036
+---------------------------------------
+['off : NA', 'sale : 2123', 'sale : 2123', 'lancome : NA', 'shu : NA', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['robinsons : NA', 'eba : NA', 'all : NA', 'year : 8', 'round : 365', 'brands : 5313', 'ocbc : NA', 'bank : 550', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'philip : 2334', 'kate : 5045', 'spade : 21366']
+Total words : 88036
+---------------------------------------
+['reebok : 28730', 'camelbak : NA', 'got : 797', 'your : NA', 'ogio : NA', 'speedo : 43454', 'mps : NA']
+Total words : 88036
+---------------------------------------
+['osim : NA']
+Total words : 88036
+---------------------------------------
+['pull : 5319', 'pull : 5319']
+Total words : 88036
+---------------------------------------
+['hosereel : NA']
+Total words : 88036
+---------------------------------------
+['isons : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'sale : 2123', 'sale : 2123', 'sale : 2123', 'have : NA', 'top : 173', 'shop : 2215']
+Total words : 88036
+---------------------------------------
+['vivo : NA', 'vivl : NA', 'bear : 2427', 'sal : 14719', 'pue : NA', 'pull : 5319']
+Total words : 88036
+---------------------------------------
+['lobby : 8246', 'orchard : 10686', 'jewellery : 13089', 'street : 220', 'singpost : NA', 'ion : 5811', 'ion : 5811']
+Total words : 88036
+---------------------------------------
+['bath : 4629', 'sensation : 10531', 'revion : NA', 'sensation : 10531', 'bath : 4629']
+Total words : 88036
+---------------------------------------
+['chaumet : NA', 'exit : 4035']
+Total words : 88036
+---------------------------------------
+['topshop : NA']
+Total words : 88036
+---------------------------------------
+['make : 207', 'store : 1246', 'klein : 8404']
+Total words : 88036
+---------------------------------------
+['vacheron : NA', 'constantin : NA', '#02-07 : NA']
+Total words : 88036
+---------------------------------------
+['the : NA']
+Total words : 88036
+---------------------------------------
+['ham & cheese : NA', 'egg : 5190', 'mayo : 9184', '$2.50 : NA', 'tuna : 16527', 'sandwiches : 20973', 'toast : 18444', '1.60 : NA', 'eggs : 3877', '1.50 : NA', 'kaya : NA', 'butter : 10085', 'butter : 10085', 'suga : NA', 'peamt : NA', 'honey : 6873', 'drinks : 8164', 'iced : 27039', 'teas!! : NA', '2.50 : NA', '3.50 : NA']
+Total words : 88036
+---------------------------------------
+['stop : 1120', 'sft0242p : NA']
+Total words : 88036
+---------------------------------------
+['dior : 27791']
+Total words : 88036
+---------------------------------------
+['singtel : NA', 'remit : 23174', 'start : 656', 'your : NA', 'account : 1462', 'at: : NA', '#01-26/27 : NA']
+Total words : 88036
+---------------------------------------
+['hangten : NA', 'asian : 1247', '1000 : NA']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'sale : 2123', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'ing : 13415', 'big : 516', 'great : 150']
+Total words : 88036
+---------------------------------------
+['salon : 9355', 'sale : 2123', 'match : 408', 'for : NA', 'uty : NA']
+Total words : 88036
+---------------------------------------
+['ayam : NA', 'ria : 27489', 'smashed : 16120', 'fried : 9917', 'chicken : 5987']
+Total words : 88036
+---------------------------------------
+['since : 44', '1890 : NA', 'miguel : 5382', 'excellence : 4408']
+Total words : 88036
+---------------------------------------
+['for : NA', 'your : NA', 'visa : 9523', 'higest : NA', 'price : 1423', 'nets : 10660', 'offers : 1179', 'nets : 10660', 'gold : 532', 'items : 2216', 'based : 69', 'daily : 1071', 'gold : 532', 'rates : 2777']
+Total words : 88036
+---------------------------------------
+['goldenland : NA', 'watch : 2592']
+Total words : 88036
+---------------------------------------
+['shop : 2215', 'shop : 2215', 'hair : 2479', 'salon : 9355', 'barber : 8534', 'tip : 4600', 'top : 173', 'joy : 5658']
+Total words : 88036
+---------------------------------------
+['delicacies : 33904', 'seafood : 14461']
+Total words : 88036
+---------------------------------------
+['re           lles : NA', 'ett : NA', 'citylink : NA']
+Total words : 88036
+---------------------------------------
+['mds : NA', 'vrg : NA', 'friends : 844', 'make : 207']
+Total words : 88036
+---------------------------------------
+['veil : 14517']
+Total words : 88036
+---------------------------------------
+['quickpick : NA']
+Total words : 88036
+---------------------------------------
+['breadtalk : NA']
+Total words : 88036
+---------------------------------------
+['connexis : NA', 'symbiosis : 29589', 'fusionopolis : NA', 'car : 495', 'park : 152']
+Total words : 88036
+---------------------------------------
+['prettyfit : NA']
+Total words : 88036
+---------------------------------------
+['zara : 24692', 'zara : 24692']
+Total words : 88036
+---------------------------------------
+['ank : NA', 'uob : NA', 'don : NA', 'don : NA']
+Total words : 88036
+---------------------------------------
+['jem : NA', 'exit : 4035', "jack's : NA", 'ush : NA']
+Total words : 88036
+---------------------------------------
+['standard : 584']
+Total words : 88036
+---------------------------------------
+['golden : 1347', 'sun : 1171', 'california : 279', 'available : 364', 'here! : NA', 'singtel : NA', 'sold : 421', 'love : 388']
+Total words : 88036
+---------------------------------------
+['candy : 7614', 'empire : 737', 'toastbox : NA']
+Total words : 88036
+---------------------------------------
+['furla : NA']
+Total words : 88036
+---------------------------------------
+['singapore : 2181', 'airlines : 3459']
+Total words : 88036
+---------------------------------------
+['hair : 2479', 'atelier : 23160']
+Total words : 88036
+---------------------------------------
+['nheim : NA', 'nue : NA', 'london : 205', 'alice : 3600', 'and : NA', 'olivia : 10183', 'stacey : 16316', 'bendet : NA', 'sale : 2123', 'off : NA', 'alice : 3600']
+Total words : 88036
+---------------------------------------
+['pols : 56566']
+Total words : 88036
+---------------------------------------
+['marc : 4977']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'alice : 3600', 'blenheim : 22859', 'avenue : 1168']
+Total words : 88036
+---------------------------------------
+['philip : 2334', 'stein : 10226', 'give : 766', 'love : 388', 'barret : NA', 'merci : NA']
+Total words : 88036
+---------------------------------------
+['poh : NA', 'kim : 3379']
+Total words : 88036
+---------------------------------------
+['therapist : 15251', 'cleaner : 14501', "nature's : NA", 'jea : NA', 'hair : 2479', 'spa : 7588', 'perfect : 2849', 'jean : 1495', 'yip : 27304', 'are : NA', 'hiring : 9694', 'hair : 2479', 'consultant : 4983', 'hair : 2479', 'assistant : 1095', 'stylist : 24988', 'hair : 2479', 'spa : 7588', 'with : NA', 'experience : 952', 'preferred : 3809', 'good : 355', 'benefits : 3160', 'please : 6758', 'call : 921', '8200 : NA', '7403 : NA', 'walk : 2438', 'interview : 1833', 'thank : 10831', 'you! : NA', 'botan : NA']
+Total words : 88036
+---------------------------------------
+['shop : 2215']
+Total words : 88036
+---------------------------------------
+['running : 670', 'lab : 4999', 'net : 3129']
+Total words : 88036
+---------------------------------------
+['ion : 5811', 'art : 236', 'ion : 5811', 'salt : 2533', 'grill : 14646']
+Total words : 88036
+---------------------------------------
+['patch : 6861', 'sale : 2123', 'fox : 1707', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['volendam : NA', 'start : 656', '1600 mrs : NA', 'lot : 1747']
+Total words : 88036
+---------------------------------------
+['aeroline : NA']
+Total words : 88036
+---------------------------------------
+['drop-off : NA', 's on : NA']
+Total words : 88036
+---------------------------------------
+['where : NA', 'welcome : 5995', 'friends : 844', 'best : 104', 'harbourfront : NA', 'ver : NA']
+Total words : 88036
+---------------------------------------
+['accent : 8489']
+Total words : 88036
+---------------------------------------
+['candle : 14434', 'sasa : NA']
+Total words : 88036
+---------------------------------------
+['global : 1250', 'trave : NA', 'jmg : NA']
+Total words : 88036
+---------------------------------------
+['02-59 : NA', 'available : 364', 'foot : 1757', 'vices : 28569']
+Total words : 88036
+---------------------------------------
+['happy : 2936', 'phoenix : 3636', '#02-81 : NA']
+Total words : 88036
+---------------------------------------
+['alteration : 15129', 'services : 280', '$10 : NA', '$10 : NA']
+Total words : 88036
+---------------------------------------
+['s.k. : NA', 'leather : 5960', 'house : 72']
+Total words : 88036
+---------------------------------------
+['amor : NA', 'noy : NA', 'express : 1974', '02-46 : NA', 's.k : NA', 'exit : 4035', '$10 : NA']
+Total words : 88036
+---------------------------------------
+['the : NA', 'gift : 3821', 'shop : 2215', 'ing : 13415']
+Total words : 88036
+---------------------------------------
+['counter/kitchen : NA', 'assistant : 1095', 'wanted: : NA', 'wanted; : NA', 'remittance : 39769', '03-26 : NA', 'clerk : 5094', 'atted : NA', 'sexy : 13513', '7380921 : NA']
+Total words : 88036
+---------------------------------------
+['harbourfront : NA', '$10 : NA']
+Total words : 88036
+---------------------------------------
+['pte : NA', 'kabayan : NA', '02-25 : NA', 'kabayan : NA', 'filipino : 5898', 'ltd : 3273', 'pte : NA', 'restaurant : 2523', 'ltd : 3273', 'filipino : 5898', 'yan : NA', 'ltd : 3273', 'pte : NA', 'rant : 32226']
+Total words : 88036
+---------------------------------------
+['piano : 1950', 'kawai : NA', 'music : 51', 'school : 6', 'sus : NA', 'sushi : 25214', 'tei : NA', 'i.mages : NA', 'china : 489', 'commune : 1829']
+Total words : 88036
+---------------------------------------
+['mexico : 857', 'china : 489', 'france : 284', 'canada : 325', 'italy : 825', 'spain : 951', 'germany : 369', 'hong : 1633', 'kong : 1594', 'singapore : 2181', 'korea : 1765', 'thailand : 3404', 'philippines : 2134', 'vietnam : 1959', 'turkey : 2251', 'morroco : NA', 'south : 27', 'africa : 664', 'malaysia : 2996', 'india : 330', 'srocr : NA']
+Total words : 88036
+---------------------------------------
+['warehouse : 7011', 'sale : 2123']
+Total words : 88036
+---------------------------------------
+['matahari : NA', 'ucno:12c6009 : NA', 'attention! : NA', 'filipin : NA', 'domes : 16798', 'helpe : NA', 'salary : 5937', 'work : 48']
+Total words : 88036
+---------------------------------------
+['aeropostale : NA', 'last : 144', 'day : 66', 'jeans : 15070', 'b  ata : NA']
+Total words : 88036
+---------------------------------------
+['10% : NA', 'off : NA', 'obar : NA', 'amin : NA', '$10 : NA']
+Total words : 88036
+---------------------------------------
+['action : 501', 'salon : 9355']
+Total words : 88036
+---------------------------------------
+['because : NA', 'you : NA', 'will : NA']
+Total words : 88036
+---------------------------------------
+['$7.90 : NA', 'management : 529', 'titles : 1416']
+Total words : 88036
+---------------------------------------
+['welkome : NA', 'blks : NA', '1-5 : NA']
+Total words : 88036
+---------------------------------------
+['$1.00 : NA', 'offer : 1384', 'the : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'exit : 4035', 'toilet : 11229', 'note : 1132', 'leave : 1060', 'note : 1132']
+Total words : 88036
+---------------------------------------
+['south : 27', 'l14 : NA', '#14-01 : NA', '#14-03 : NA', 'tower : 1054']
+Total words : 88036
+---------------------------------------
+['december : 137', 'cinemas : 12018', 'and : NA', 'kings : 2281', 'gods : 4200', 'exodus : 10810', 'eserved : NA', 'seating : 6282', 'cctv : 19981', 'caution : 12501', 'from : NA', 'the : NA', 'director : 281', 'gladiator : 18546']
+Total words : 88036
+---------------------------------------
+['infulse : NA']
+Total words : 88036
+---------------------------------------
+['chef : 7207', 'wan : 10137', 'buffet : 23318', 'book : 157', 'now! : NA', '6341 : NA', '9159 : NA']
+Total words : 88036
+---------------------------------------
+['sesame : 13533', 'street : 220', 'birds : 1792']
+Total words : 88036
+---------------------------------------
+['city : 9', 'changer : 33240', 'money : 638', 'the : NA', 'laundry : 14423', 'changer : 33240', 'best : 104', 'club : 90']
+Total words : 88036
+---------------------------------------
+['juicy : 27656', 'guess : 11373', 'gucci : 28017']
+Total words : 88036
+---------------------------------------
+['50% : NA', 'off : NA', 'banana : 10333', 'republic : 593']
+Total words : 88036
+---------------------------------------
+['sale : 2123']
+Total words : 88036
+---------------------------------------
+['madden : 15278', 'jimmy : 2840', 'steve : 1677', 'fossil : 5982', 'gucci : 28017']
+Total words : 88036
+---------------------------------------
+['fossil : 5982', 'steve : 1677', 'queen : 807']
+Total words : 88036
+---------------------------------------
+['sale : 2123', 'charles : 491']
+Total words : 88036
+---------------------------------------
+['guess : 11373']
+Total words : 88036
+---------------------------------------
+['swatc : NA', 'banana : 10333']
+Total words : 88036
+---------------------------------------
+['motherswork : NA', 'minds : 7731', 'discover : 4643', 'more : NA', 'notherswork : NA']
+Total words : 88036
+---------------------------------------
+["don't : NA", 'just : NA', 'run. : NA', 'glide : 19216', 'our : NA', 'potential : 1386', 'with : NA']
+Total words : 88036
+---------------------------------------
+['royal : 294', 'selangor : NA']
+Total words : 88036
+---------------------------------------
+['way : 186', 'out : NA', 'ean : NA']
+Total words : 88036
+---------------------------------------
+['bleem : NA', 'crocs : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'the : NA', 'bay : 549']
+Total words : 88036
+---------------------------------------
+['dior : 27791']
+Total words : 88036
+---------------------------------------
+['adidas : 21556', "don't : NA", 'just : NA']
+Total words : 88036
+---------------------------------------
+['off : NA', 'off : NA']
+Total words : 88036
+---------------------------------------
+['aldo : 19252', 'giordano/ladies : NA']
+Total words : 88036
+---------------------------------------
+['zero : 2835', 'tidinas : NA', 'introducing.. : NA']
+Total words : 88036
+---------------------------------------
+['back : 95', 'school : 6', "beauty's : NA", 'beginning : 551']
+Total words : 88036
+---------------------------------------
+["l'occitane : NA", 'provenc : NA']
+Total words : 88036
+---------------------------------------
+["beauty's : NA", 'beginning : 551', 'health : 422', 'beauty : 3057', 'are : NA', 'reach : 1318', 'enjoy : 4717']
+Total words : 88036
+---------------------------------------
+['drink : 4373', 'food : 655']
+Total words : 88036
+---------------------------------------
+['bonia : NA', 'nov : 16899']
+Total words : 88036
+---------------------------------------
+['your : NA', 'deposits : 5303', '000 : NA']
+Total words : 88036
+---------------------------------------
+['aldo : 19252', 'aldo : 19252']
+Total words : 88036
+---------------------------------------
+['hol : NA', 'lis : NA', 'ter : 19584', 'braun : NA']
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['hantu : NA']
+Total words : 88036
+---------------------------------------
+['6-3388-680 : NA', 'health : 422', 'for : NA', 'beauty : 3057', 'for : NA', 'guardian : 4367', 'trichokare : NA', '#05-11 : NA', 'deserve : 17230', 'lon : 20822', 'www.tk-hair.com : NA', 'real : 517', 'results : 832', 'from : NA', 'experts! : NA', 'hair : 2479']
+Total words : 88036
+---------------------------------------
+['results : 832', 'real : 517', '#05-11 : NA', 'get : 425', 'from : NA', 'our : NA', 'hair : 2479', 'loss : 890', 'experts! : NA']
+Total words : 88036
+---------------------------------------
+['skincare : 47092', '$128 : NA', '$5 : NA', 'unity : 4379', 'unity : 4379', 'ments : NA']
+Total words : 88036
+---------------------------------------
+['offline : 18820', 'fossi : NA', 'digital : 1129', 'shopping : 2804', 'shop : 2215', 'with : NA']
+Total words : 88036
+---------------------------------------
+['enjoy : 4717', 'smarts : 41704', 'rebate : 22511', 'uob : NA', 'hour : 1283']
+Total words : 88036
+---------------------------------------
+['special : 335', 'win : 410', 'new : 3', 'special : 335', 'original : 178', 'original : 178', 'next : 229', 'custom : 3844', 'vanilla : 16533', 'almond : 17691', 'grain : 4987', 'panad : NA', 'special : 335']
+Total words : 88036
+---------------------------------------
+['university : 22', 'town : 65']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'smrt : NA']
+Total words : 88036
+---------------------------------------
+['citigems : NA']
+Total words : 88036
+---------------------------------------
+['havaianas : NA', 'havaianas : NA', 'havaianas : NA']
+Total words : 88036
+---------------------------------------
+['dumping : 17902', 'strictly : 5489', 'prohibited : 6058']
+Total words : 88036
+---------------------------------------
+['$500 : NA', '$4.00 : NA', '$4.00 : NA', '$4.00 : NA', 'lower : 523', 'colorie : NA']
+Total words : 88036
+---------------------------------------
+['clementi : NA']
+Total words : 88036
+---------------------------------------
+['storey : NA', 'lobby : 8246', 'lift : 4633']
+Total words : 88036
+---------------------------------------
+['shops : 3456', 'gen is : NA', 'theatre : 610', 'place : 98', 'nursing : 5268', 'room : 721', 'fraser : 5881']
+Total words : 88036
+---------------------------------------
+['harbourfront : NA', 'cc22 : NA', 'bua : NA']
+Total words : 88036
+---------------------------------------
+['ipal : NA', 'ipal : NA', 'stude : NA']
+Total words : 88036
+---------------------------------------
+['lifestyle : 5342', 'choices : 7307', 'that : NA', 'for : NA', 'come : 570', 'shop : 2215', 'dine : 23590']
+Total words : 88036
+---------------------------------------
+['0000 : NA', 'who : NA', 'needs : 1663', 'nela : NA']
+Total words : 88036
+---------------------------------------
+['service : 120', 'mall : 3023', '173 : NA', '166 : NA', '175 : NA', '285 : NA', '285 : NA', 'add : 3141', 'value : 998', 'machine : 1287', 'clementi : NA', 'the : NA', 'pasenger : NA', 'toilet : 11229', 'berth : 12094']
+Total words : 88036
+---------------------------------------
+['get : 425', 'with : NA', 'asus : NA', 'lte : NA']
+Total words : 88036
+---------------------------------------
+['oto : NA', 'life : 55']
+Total words : 88036
+---------------------------------------
+['delicious : 20754', 'doughy : 61334', 'shell. : NA', 'sealed : 7214', 'and : NA', 'kaya : NA', 'crackers : 24998', 'toast : 18444', 'cubes : 21766', 'yakunkat : NA', 'introducucing... : NA', 'tidings : 41402', 'comfort : 7352', 'and : NA', 'joy! : NA', 'your : NA', 'toast? : NA', 'how : NA', 'would : 10', 'you : NA', 'like : 79']
+Total words : 88036
+---------------------------------------
+['get : 425', 'rewards : 12294', 'fit : 3220']
+Total words : 88036
+---------------------------------------
+['sennheiser : NA', 'planet : 2041']
+Total words : 88036
+---------------------------------------
+['gre : NA', 'boston : 1085', 'gre : NA']
+Total words : 88036
+---------------------------------------
+['ske : NA']
+Total words : 88036
+---------------------------------------
+['shka : NA', 'lobby : 8246', 'paterson : 11629', "victoria's : NA"]
+Total words : 88036
+---------------------------------------
+['exit : 4035']
+Total words : 88036
+---------------------------------------
+['pull : 5319', 'and : NA', 'bear : 2427', 'tcc : NA', 'promod : NA', 'sale : 2123', 'now! : NA', 'enjoyd : NA', '7698 : NA']
+Total words : 88036
+---------------------------------------
+['tcc : NA']
+Total words : 88036
+---------------------------------------
+['fossic : NA']
+Total words : 88036
+---------------------------------------
+['aucre : NA', 'brownies : 37440', 'loaves : 35541', 'tarts : 43362', 'parfaits : 69257', 'puddings : 44096', 'push : 4921', 'whoopies : NA']
+Total words : 88036
+---------------------------------------
+['zalora : NA', 'digital : 1129', 'off : NA']
+Total words : 88036
+---------------------------------------
+['ichiban : 53527', 'boshi : NA', 'lehiban : NA']
+Total words : 88036
+---------------------------------------
+['twelve : 1853', 'cup : 285', 'handmade : 21691']
+Total words : 88036
+---------------------------------------
+['banking : 4223', 'additional : 789', 'ocbc : NA', 'bank : 550', 'visa : 9523', 'plus : 2116', 'uob : NA', 'cash : 3050', 'deposit : 8009', 'cash : 3050', 'payment : 4543', 'for : NA', 'ocbc : NA', 'credit : 2071', 'card : 1711', 'bills : 4419', 'balance : 3306', 'engulry : NA', 'pin : 6037', 'bill : 709', 'payment : 4543', 'phone : 2735', 'banking : 4223', 'application : 1610', 'internet/ : NA', 'mobile : 1842', 'services : 280', 'application : 1610', 'update : 7111', 'contact : 1752', 'particulary : NA', 'top-up : NA', 'nets : 10660', 'cashcard/flashpay/ : NA', 'cards : 2416', 'investment : 2160', 'services : 280', 'accept : 2866', 'cards : 2416', 'cpf : NA', 'services : 280', 'other : NA', 'services : 280']
+Total words : 88036
+---------------------------------------
+['exit : 4035', 'kase : NA', 'strad : NA']
+Total words : 88036
+---------------------------------------
+['where : NA', 'people : 38', 'meet : 1212']
+Total words : 88036
+---------------------------------------
+['massage : 17206', 'acupuncture : 26077', 'massotherapy : NA', 'body : 377', 'massage : 17206']
+Total words : 88036
+---------------------------------------
+['steve : 1677', 'madden : 15278']
+Total words : 88036
+---------------------------------------
+[]
+Total words : 88036
+---------------------------------------
