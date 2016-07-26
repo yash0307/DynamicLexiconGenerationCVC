@@ -1,0 +1,15 @@
+import coco_text
+import numpy as np
+import skimage.io as io
+import matplotlib.pyplot as plt
+import pylab
+
+ct = coco_text.COCO_Text('/media/DADES/yash/COCO-Text/COCO_Text.json')
+imgs = ct.getImgIds(imgIds=ct.val)
+anns = ct.getAnnIds(imgIds=ct.val)
+dataDir = '/media/DADES/yash/MS-COCO/inceptionImages'
+dataType='validation'
+img = ct.loadImgs(imgIds = 460168)[0]
+I = io.imread('%s/%s/%s'%(dataDir,dataType,img['file_name']))
+plt.figure()
+plt.imshow(I)
