@@ -1,0 +1,4000 @@
+['dine : 9991', 'smrt : NA', 'iae : NA', 'shop : 737']
+Image url : img_732
+Total words : 88036
+---------------------------------------
+['unity : 11659', '$9.90 : NA', 'sanook : NA']
+Image url : img_114
+Total words : 88036
+---------------------------------------
+['kate : 16091', 'new : 788', 'york : 1675', 'marketplace : 2854', '50% : NA', 'off : NA']
+Image url : img_671
+Total words : 88036
+---------------------------------------
+['stop : 26', 'stop : 26']
+Image url : img_204
+Total words : 88036
+---------------------------------------
+["levi's : NA", "levi's : NA", '501 : NA']
+Image url : img_768
+Total words : 88036
+---------------------------------------
+['accessorize : 84270', 'love : 2210', 'sale : 946']
+Image url : img_769
+Total words : 88036
+---------------------------------------
+['orchardcentral : NA']
+Image url : img_973
+Total words : 88036
+---------------------------------------
+['weddings : 32294']
+Image url : img_972
+Total words : 88036
+---------------------------------------
+['sale : 781']
+Image url : img_878
+Total words : 88036
+---------------------------------------
+['ern : NA', 'watch : 390']
+Image url : img_879
+Total words : 88036
+---------------------------------------
+['and : NA', 'fruity : 14435', 'treats : 2235', 'beer : 675', 'beers : 4828', 'ciders : 83069']
+Image url : img_977
+Total words : 88036
+---------------------------------------
+['baking : 1238', 'soon : 7742', 'baking : 1238', 'soon : 7742']
+Image url : img_976
+Total words : 88036
+---------------------------------------
+['shea : 47809', 'b2-a7 : NA']
+Image url : img_975
+Total words : 88036
+---------------------------------------
+['nanyang : NA', 'old : 80', 'coffee : 143']
+Image url : img_974
+Total words : 88036
+---------------------------------------
+['grand : 2278', 'grand : 2278', 'anniversary : 7620', 'anniversary : 7620', 'sale : 874', 'sale : 874', 'colectpoint : NA', 'sale : 874']
+Image url : img_872
+Total words : 88036
+---------------------------------------
+['sale : 781', 'off : NA']
+Image url : img_873
+Total words : 88036
+---------------------------------------
+['maccha : NA', 'house : 127']
+Image url : img_979
+Total words : 88036
+---------------------------------------
+['blackclose : NA', 'collectpoint : NA', 'sal : 15418', 'sale : 896']
+Image url : img_871
+Total words : 88036
+---------------------------------------
+['ceylon : 38591', 'spa : 5795', 'luxury : 3615', 'ayurveda : 29293', 'sookee : NA']
+Image url : img_876
+Total words : 88036
+---------------------------------------
+['rever : NA', 'new : 584']
+Image url : img_877
+Total words : 88036
+---------------------------------------
+['sale : 1096', 'sis : 7638']
+Image url : img_874
+Total words : 88036
+---------------------------------------
+['spa : 4705', 'ceylon : 38591', 'dorot : NA', 'sal : 16871']
+Image url : img_875
+Total words : 88036
+---------------------------------------
+['one : 85', 'feel : 9132', 'singtel : NA', 'win : 6427', 'you : NA']
+Image url : img_508
+Total words : 88036
+---------------------------------------
+['asus : NA', 'samsung : 2451', 'tablets : 7218', 'sony : 3448', 'win : 7351']
+Image url : img_509
+Total words : 88036
+---------------------------------------
+['x-ing : NA', 'ahead : 1132']
+Image url : img_228
+Total words : 88036
+---------------------------------------
+['year : 7597', 'potential : 9738', 'key : 1504', 'stretch : 3038', 'mind : 11754', 'stretching : 2257', 'courses : 13750']
+Image url : img_502
+Total words : 88036
+---------------------------------------
+['express : 1368', 'foodfore : NA', 'foto : NA', 'exit : 1479', 'chartered : 83696']
+Image url : img_503
+Total words : 88036
+---------------------------------------
+['aojieojbakas : NA', 'econometrics : NA', '330 : NA', 'debunking : 80513', 'economics : 39010', '330 : NA', '122 : 65263']
+Image url : img_500
+Total words : 88036
+---------------------------------------
+['nlb : NA']
+Image url : img_501
+Total words : 88036
+---------------------------------------
+['auto : 8277', 'out : NA', 'theft : 12898', 'grand : 3102']
+Image url : img_506
+Total words : 88036
+---------------------------------------
+['looking : 50', 'kept : 1214', 'secret : 14799', 'best : 4133', 'good : 1247', 'union : 4727', 'ld of sports : NA']
+Image url : img_507
+Total words : 88036
+---------------------------------------
+['yellow : 53']
+Image url : img_504
+Total words : 88036
+---------------------------------------
+['standard : 6834', 'chartered : 83696', 'foodfare : NA']
+Image url : img_505
+Total words : 88036
+---------------------------------------
+['aldo : 45925', 'aldo : 45925']
+Image url : img_760
+Total words : 88036
+---------------------------------------
+['wheelock : NA', 'place : 619', 'ldo : NA']
+Image url : img_761
+Total words : 88036
+---------------------------------------
+['f&n : NA', 'magnolia : 77714']
+Image url : img_489
+Total words : 88036
+---------------------------------------
+['course : 1538', 'chinese : 1095', 'painting : 589', 'coursi : NA', 'tel: : NA']
+Image url : img_488
+Total words : 88036
+---------------------------------------
+['jobstreet : NA', 'better : 7548', 'things : 867', 'for : NA', 'life : 1825', 'com : 9130', 'salary : 64701', 'matching : 2171']
+Image url : img_483
+Total words : 88036
+---------------------------------------
+['jurong : NA', 'east : 3952']
+Image url : img_482
+Total words : 88036
+---------------------------------------
+['bioapex : NA', 'cosmeccutical : NA', 'school : 854', 'apex : 9475', 'business : 521']
+Image url : img_481
+Total words : 88036
+---------------------------------------
+['adidas : 2948', 'mens : NA', 'footwear : 6591', 'mens : NA', 'training : 3020']
+Image url : img_480
+Total words : 88036
+---------------------------------------
+['sunflower : 4488', 'sunflower : 4488', 'tel: : NA', '67782831 : NA']
+Image url : img_487
+Total words : 88036
+---------------------------------------
+['welcome : 1715', 'east : 2273', 'the : NA', 'jtc : NA', 'summit : 7292', 'toilet : 168', 'bus : 26', 'canteen : 68705', '197 : NA']
+Image url : img_486
+Total words : 88036
+---------------------------------------
+['506 : NA', '183 : NA', '183 : NA', 'berth : 16707']
+Image url : img_485
+Total words : 88036
+---------------------------------------
+['omg : NA', 'easier : 14333', 'way : 150', 'voted : 45676', 'the : NA', 'jobstreet : NA']
+Image url : img_484
+Total words : 88036
+---------------------------------------
+['art : 1190', 'artbox : NA']
+Image url : img_538
+Total words : 88036
+---------------------------------------
+['avenue : 1189']
+Image url : img_476
+Total words : 88036
+---------------------------------------
+["girls' : NA", 'generation : 15712', 'meets : 15420', 'baby-g : NA', 'baby-g : NA']
+Image url : img_477
+Total words : 88036
+---------------------------------------
+['starbucks : 4982', 'coffee : 279', 'christmas : 883']
+Image url : img_474
+Total words : 88036
+---------------------------------------
+['green : 43', 'tea : 1192', 'promotion : 8520', 'open : 106', 'perfume : 9128', 'you : NA', 'shion : NA']
+Image url : img_475
+Total words : 88036
+---------------------------------------
+['aster : 16909', 'skin : 4318', 'spr : NA']
+Image url : img_379
+Total words : 88036
+---------------------------------------
+['70% : NA', 'sushi : 2604', 'cuts : 2089', 'for : NA', 'the : NA', 'tei : NA', 'shopping : 662', 'sale : 647', 'sale : 647', 'rob : 9171']
+Image url : img_378
+Total words : 88036
+---------------------------------------
+['exit : 1502', 'payless : NA', 'shoesource : NA']
+Image url : img_470
+Total words : 88036
+---------------------------------------
+['javenue : NA', 'flipbooth : NA']
+Image url : img_471
+Total words : 88036
+---------------------------------------
+['minikin : NA', 'instinct : 83330', 'takes : 652', 'over : NA']
+Image url : img_375
+Total words : 88036
+---------------------------------------
+['season! : NA', 'celebrate : 2936', 'style : 532', '29.90 : NA', 'this : NA', 'jeans : 609']
+Image url : img_374
+Total words : 88036
+---------------------------------------
+['noise : 7791', 'world : 1442', 'salon : 6035']
+Image url : img_377
+Total words : 88036
+---------------------------------------
+['weston : 15756', 'corp : 4959']
+Image url : img_376
+Total words : 88036
+---------------------------------------
+['men : 38', 'kids : 231', 'sale : 957', 'sale : 957', 'sale : 957', 'ladies : 898', 'ladies : 898', '0-8 : NA', 'yrs : 54547', 'sanlas : NA']
+Image url : img_371
+Total words : 88036
+---------------------------------------
+["don't : NA", 'just : NA', 'adidas : 2154', 'crocs : NA', 'chomel : NA']
+Image url : img_370
+Total words : 88036
+---------------------------------------
+['crocs : NA', 'exit : 1216', 'sale : 562']
+Image url : img_373
+Total words : 88036
+---------------------------------------
+['exit : 1202', 'ale : 8460', 'sale : 683', 'sale : 683', 'sale : 683', 'sale : 683']
+Image url : img_372
+Total words : 88036
+---------------------------------------
+['bvlgari : NA', 'sale : 875']
+Image url : img_579
+Total words : 88036
+---------------------------------------
+['japanese : 1462', 'gour : NA', 'spicy : 2095']
+Image url : img_578
+Total words : 88036
+---------------------------------------
+['town : 162', 'garrett : 11138', 'gourmee : NA', 'popcorn : 12970']
+Image url : img_577
+Total words : 88036
+---------------------------------------
+['xpressflower.com : NA']
+Image url : img_576
+Total words : 88036
+---------------------------------------
+['the : NA', 'house : 144', 'burgers : 3690', 'chop : 5704']
+Image url : img_575
+Total words : 88036
+---------------------------------------
+['vivo : NA', 'city : 18', 'find : 6794', 'us! : NA', 'experience : 3234', 'the : NA', 'dream : 11210', 'train : 52', 'ride@ : NA']
+Image url : img_574
+Total words : 88036
+---------------------------------------
+['caution : 1096', 'floor : 169', 'vivo : NA']
+Image url : img_573
+Total words : 88036
+---------------------------------------
+['brothers : 6119', 'sale : 967', 'sacoor : NA', 'citing : 62815', 'privileges : 52337']
+Image url : img_572
+Total words : 88036
+---------------------------------------
+['gap : 2973', 'sale : 1287']
+Image url : img_571
+Total words : 88036
+---------------------------------------
+['lapalette : NA']
+Image url : img_570
+Total words : 88036
+---------------------------------------
+['for : NA', 'great : 729', 'fresh : 1024', 'today : 2488']
+Image url : img_397
+Total words : 88036
+---------------------------------------
+['esprit : 58192']
+Image url : img_396
+Total words : 88036
+---------------------------------------
+['the : NA', 'soup : 3242', 'spoon : 2716']
+Image url : img_395
+Total words : 88036
+---------------------------------------
+['mango : 4329', 'esprit : 58192']
+Image url : img_394
+Total words : 88036
+---------------------------------------
+['www.tissot.cn : NA']
+Image url : img_393
+Total words : 88036
+---------------------------------------
+['-70 : NA']
+Image url : img_392
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_258
+Total words : 88036
+---------------------------------------
+['b05 : NA', '154 : NA', 'ave : 931', 'clementi : NA', '17059 : NA', '188 : NA', '196 : NA', '201 : NA', '727 : NA', '963 : NA', '963r : NA']
+Image url : img_259
+Total words : 88036
+---------------------------------------
+['club : 2707', 'house : 192', 'swimming : 1323', 'pool : 895', 'tennis : 217', 'court : 485', 'bbq : 2390', 'pit : 1918']
+Image url : img_256
+Total words : 88036
+---------------------------------------
+['card : 1080', 'residents : 14358', 'exit : 1795', 'dear : 5669', 'side-gate : NA', 'magellan : 39501', '"scan" : NA', 'your : NA', 'access : 11065', 'card : 1080', 'the : NA', 'reader : 7518', 'the : NA', 'right : 587', 'hand : 69', 'side : 31', 'the : NA', 'wall : 117', 'and : NA', 'open : 54', 'gate : 726']
+Image url : img_257
+Total words : 88036
+---------------------------------------
+['52191 : NA']
+Image url : img_254
+Total words : 88036
+---------------------------------------
+['hump : 5883', 'ahead : 856']
+Image url : img_255
+Total words : 88036
+---------------------------------------
+['jtc : NA', 'launchpad : 38674']
+Image url : img_252
+Total words : 88036
+---------------------------------------
+['toastwich : NA']
+Image url : img_253
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_250
+Total words : 88036
+---------------------------------------
+['directory : 24706']
+Image url : img_251
+Total words : 88036
+---------------------------------------
+['learning : 2764', 'for : NA', 'university : 4800', 'has : NA', 'smaller : 1047', 'great : 1187', 'classes : 7636', 'better : 8965', 'sutd : NA', 'admissions : 66687', 'career : 47701', 'talk : 1409', 'dec : 3794', '7-9pm : NA', 'has : NA', '11:1 : NA', 'student : 2368', 'faculty : 14549', 'ratio. : NA']
+Image url : img_59
+Total words : 88036
+---------------------------------------
+['leadership : 6575', 'through : NA']
+Image url : img_58
+Total words : 88036
+---------------------------------------
+['samsung : 2660', 'samsung : 2660', '1 : 1678', 'home : 391']
+Image url : img_299
+Total words : 88036
+---------------------------------------
+['exit : 1786']
+Image url : img_207
+Total words : 88036
+---------------------------------------
+['have : NA', 'feedback : 78959', 'the : NA', 'nus : 67979', 'internal : 71275', 'shuttle : 3992', 'bus : 1', 'service : 2257', 'share : 2789', 'with : NA']
+Image url : img_51
+Total words : 88036
+---------------------------------------
+['cc23 : NA', 'one-north : NA']
+Image url : img_50
+Total words : 88036
+---------------------------------------
+['exit : 1548']
+Image url : img_53
+Total words : 88036
+---------------------------------------
+['harboufront : NA', 'lift : 1024']
+Image url : img_52
+Total words : 88036
+---------------------------------------
+['reserved : 9101', 'seating : 2775']
+Image url : img_55
+Total words : 88036
+---------------------------------------
+['circle : 1524', 'dhoby : NA', 'ghaut : NA', 'line : 238', 'marina : 2657', 'bay : 2436', 'platform : 144', 'transfer : 4741', 'promenade : 11604']
+Image url : img_54
+Total words : 88036
+---------------------------------------
+['koon : NA', 'line : 79', 'west : 5444', 'joo : NA', 'east : 6583', 'pasir : NA', 'ris : NA', 'changi : NA', 'airport : 318']
+Image url : img_57
+Total words : 88036
+---------------------------------------
+['east : 5094', 'west : 3823', 'line : 280', 'way : 266', 'out : NA']
+Image url : img_56
+Total words : 88036
+---------------------------------------
+['megastore : NA', 'city : 52', 'gain : 7681', 'our : NA']
+Image url : img_652
+Total words : 88036
+---------------------------------------
+['starbucks : 4587', 'coffee : 316']
+Image url : img_653
+Total words : 88036
+---------------------------------------
+['fourskin : NA', 'optics : 67164']
+Image url : img_650
+Total words : 88036
+---------------------------------------
+['house : 196', 'optics : 67164']
+Image url : img_651
+Total words : 88036
+---------------------------------------
+['subway : 585', 'city : 66', 'exit : 1598']
+Image url : img_656
+Total words : 88036
+---------------------------------------
+['little : 91', 'ydu : NA', 'th s : NA', 'home-grow : NA']
+Image url : img_657
+Total words : 88036
+---------------------------------------
+['starb : NA']
+Image url : img_654
+Total words : 88036
+---------------------------------------
+['more : NA', 'more : NA', 'level2 : NA', 'shops : 1003', 'shops : 1003', 'level2 : NA', 'viass : NA']
+Image url : img_655
+Total words : 88036
+---------------------------------------
+['john : 5533', 'little : 156']
+Image url : img_658
+Total words : 88036
+---------------------------------------
+['boutique : 11750']
+Image url : img_659
+Total words : 88036
+---------------------------------------
+['launch : 3579']
+Image url : img_894
+Total words : 88036
+---------------------------------------
+['arrival : 8583', 'exit : 1362', 'sale : 625']
+Image url : img_895
+Total words : 88036
+---------------------------------------
+['convention : 2721', 'omega : 81620', 'omega : 81620']
+Image url : img_719
+Total words : 88036
+---------------------------------------
+['siqueen : NA', 'fossil : 9908', 'steve : 3529', 'madden : 75366', 'cci : NA']
+Image url : img_718
+Total words : 88036
+---------------------------------------
+['dior : 20428', 'sale : 892', 'dior : 20428', 'eva : 6988']
+Image url : img_890
+Total words : 88036
+---------------------------------------
+['formula : 44145', 'diagnosis : 74299', '40 : NA', 'possible : 6753', 'technological : 12880', 'formulas : 57579', 'unique : 1153', 'skincare : 25669', 'for : NA', 'ioma : NA', 'creme : 3175', 'sale : 757', 'sellers : 8319']
+Image url : img_891
+Total words : 88036
+---------------------------------------
+['hermes : 66796', 'hermes : 66796']
+Image url : img_892
+Total words : 88036
+---------------------------------------
+['stores : 2208', 'retail : 3202', 'than : NA', 'thrills : 73048', 'brands : 5463', 'over : NA', 'ocbc : NA', 'robinsons : NA', 'group : 17', 'visa : 7682', 'card : 1299', 'any : NA']
+Image url : img_893
+Total words : 88036
+---------------------------------------
+['chanel : 11729', 'court : 602', 'restaurants : 5242', 'brity : NA', 'restaurants : 5242', 'food : 129', 'casino : 5552', 'guy : 464', 'halana : NA']
+Image url : img_713
+Total words : 88036
+---------------------------------------
+['sands : 5319', 'bay : 1995', 'marina : 2221', 'a-t : NA', 'shoppes : 25978', 'the : NA']
+Image url : img_712
+Total words : 88036
+---------------------------------------
+['hope : 2719']
+Image url : img_711
+Total words : 88036
+---------------------------------------
+['sushi : 2843', 'healthy : 2020', 'fresh : 658', 'delicious : 1496']
+Image url : img_710
+Total words : 88036
+---------------------------------------
+['mondial : NA']
+Image url : img_717
+Total words : 88036
+---------------------------------------
+['yellow : 74', 'korner : NA', 'paris : 4141']
+Image url : img_899
+Total words : 88036
+---------------------------------------
+['gardens : 11791', 'the : NA', 'hublot : NA', 'hublot : NA', 'aed : NA']
+Image url : img_715
+Total words : 88036
+---------------------------------------
+['dior : 20428', 'the : NA', 'vinci: : NA', 'cats : 958', 'shaping : 11359', 'future : 10218', 'gucci : 29914', 'gucci : 29914', 'gucci : 29914']
+Image url : img_714
+Total words : 88036
+---------------------------------------
+['prefer : 17056', 'visa : 12208', 'penang : 26049', 'culture : 12294']
+Image url : img_358
+Total words : 88036
+---------------------------------------
+['custom : 2741', 'new : 638']
+Image url : img_388
+Total words : 88036
+---------------------------------------
+['caution : 635', 'parade : 153']
+Image url : img_64
+Total words : 88036
+---------------------------------------
+['mind : 9308', '257 : NA', 'tal : NA']
+Image url : img_155
+Total words : 88036
+---------------------------------------
+['10% : NA', 'sale : 735', 'super : 2821', 'off : NA']
+Image url : img_154
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_157
+Total words : 88036
+---------------------------------------
+['university : 3802', 'technological : 13726', 'nanyang : NA']
+Image url : img_156
+Total words : 88036
+---------------------------------------
+['daikin : NA', 'every : 3097']
+Image url : img_151
+Total words : 88036
+---------------------------------------
+['walking : 20', 'stop : 8']
+Image url : img_150
+Total words : 88036
+---------------------------------------
+['all : NA', 'life! : NA', 'things : 861', 'board : 168', 'www.imob.sg : NA', 'space : 840', 'for : NA', 'imod : NA']
+Image url : img_153
+Total words : 88036
+---------------------------------------
+['kiosk : 7167', 'than : NA', 'sah : NA', 'more : NA']
+Image url : img_152
+Total words : 88036
+---------------------------------------
+['level : 1643', 'rink : 2846', 'the : NA']
+Image url : img_458
+Total words : 88036
+---------------------------------------
+['the : NA', 'clementi : NA', 'mall : 1707', '#03-01/02/03 : NA', 'call : 2111', '66591161 : NA', 'mary : 8696', 'chia : NA', 'homme : NA', 'end : 506', 'best : 2800', 'kept : 1788', 'secret : 12064', 'looking : 46', 'good! : NA', 'body : 564', 'spa : 4539', 'treatments : 8672', 'for : NA', '$128 : NA', 'face : 287']
+Image url : img_159
+Total words : 88036
+---------------------------------------
+['need : 3095', 'cheque : 58948', 'deposit : 9664', 'cash : 3000', 'deposit : 9664', 'cheque : 58948', 'passbo : NA', 'me : NA', 'life : 804', 'the : NA', 'being : NA']
+Image url : img_158
+Total words : 88036
+---------------------------------------
+['connection : 4990', 'exit : 2060']
+Image url : img_629
+Total words : 88036
+---------------------------------------
+['for : NA', 'next : 11', 'change : 1571', 'look : 239', 'out : NA', 'for : NA', 'out : NA', '... : NA']
+Image url : img_459
+Total words : 88036
+---------------------------------------
+['make : 903', 'seiko : 33713', 'mae : 11521', 'mak : NA', "l'occitane : NA", 'make : 903', 'ore : 14471']
+Image url : img_593
+Total words : 88036
+---------------------------------------
+['nature : 3737']
+Image url : img_610
+Total words : 88036
+---------------------------------------
+['emporio : NA', 'tag : 1654', 'armani : 23478']
+Image url : img_592
+Total words : 88036
+---------------------------------------
+['skechers : NA']
+Image url : img_368
+Total words : 88036
+---------------------------------------
+['course : 1495', 'junior : 8575', 'robotic : 7007', 'robotic : 7007', 'course : 1495', 'senior : 3895', 'yes! : NA']
+Image url : img_454
+Total words : 88036
+---------------------------------------
+['percent : 88019', 'off : NA', 'end : 295', 'season : 7497', 'sale : 847']
+Image url : img_369
+Total words : 88036
+---------------------------------------
+['exit : 1352', 'germany : 12500']
+Image url : img_455
+Total words : 88036
+---------------------------------------
+['city : 20', 'robinsons : NA', 'the : NA', 'jewellery : 16231', 'new : 552', 'year : 5302', 'sale : 683', '50% : NA', 'off : NA', 'london : 1030', 'los : 2453', 'angeles : 3341', 'new : 552', 'york : 1444', 'san : 6055', 'sh o : NA', 'new : 552', 'year : 5302', 'sale : 683', 'off : NA', '50% : NA']
+Image url : img_407
+Total words : 88036
+---------------------------------------
+['jubilant : 67866', 'christmas : 651', 'jubilant : 67866', 'christmas : 651']
+Image url : img_456
+Total words : 88036
+---------------------------------------
+['room : 18', 'sale : 837', 'heart : 1231', 'christmas : 678']
+Image url : img_406
+Total words : 88036
+---------------------------------------
+['changer : 13727', 'money : 1471', 'chan : 49301', 'oto : NA']
+Image url : img_614
+Total words : 88036
+---------------------------------------
+['ticketing : 58438']
+Image url : img_457
+Total words : 88036
+---------------------------------------
+['crime : 13485', 'and : NA', 'long-lasting : NA', 'color : 1105', 'improved : 80997', 'creamy : 4848', 'foam : 6613', 'with : NA', 'ahitargym : NA', 'shop : 390']
+Image url : img_611
+Total words : 88036
+---------------------------------------
+['imax : 47161', '#04-11 : NA', 'safra : NA']
+Image url : img_450
+Total words : 88036
+---------------------------------------
+['exit : 1806']
+Image url : img_206
+Total words : 88036
+---------------------------------------
+['tell : 3980', 'yours : NA', 'not : NA', 'jcub : NA']
+Image url : img_451
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_970
+Total words : 88036
+---------------------------------------
+['kemiuchi : NA']
+Image url : img_362
+Total words : 88036
+---------------------------------------
+['november : 12482', 'ttins : NA', 'one : 69']
+Image url : img_452
+Total words : 88036
+---------------------------------------
+['challenger : 20010', 'muji : NA', 'courts : 4186']
+Image url : img_363
+Total words : 88036
+---------------------------------------
+['made : 276', 'fre : NA']
+Image url : img_453
+Total words : 88036
+---------------------------------------
+['fiction : 13639', 'intermediate : 23252', 'fiction : 13639', 'children : 76', 'comics : 8819', 'toodlers : NA', 'eraiediate : NA']
+Image url : img_360
+Total words : 88036
+---------------------------------------
+['revlo : NA', 'dhc : NA', 'dhc : NA', 'yog : NA']
+Image url : img_425
+Total words : 88036
+---------------------------------------
+['magazines : 1983', 'english : 2546', 'magazines : 1983', 'english : 2546', 'ines : 33985']
+Image url : img_361
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_366
+Total words : 88036
+---------------------------------------
+['get : 697', 'fit : 2247']
+Image url : img_179
+Total words : 88036
+---------------------------------------
+['spring : 3811', 'spring : 3811', 'bricks : 2394', 'orld : NA', 'lego : 2527', 'game : 186', 'xtreme : NA']
+Image url : img_367
+Total words : 88036
+---------------------------------------
+['level : 1272', 'ion : 7436']
+Image url : img_843
+Total words : 88036
+---------------------------------------
+['proof : 11429']
+Image url : img_842
+Total words : 88036
+---------------------------------------
+['vom : NA', 'fass : NA', 'exit : 1285']
+Image url : img_841
+Total words : 88036
+---------------------------------------
+['health : 7405', 'beauty : 3044', 'naturally : 14071']
+Image url : img_840
+Total words : 88036
+---------------------------------------
+['ion : 7437', 'with : NA', 'global : 7199', 'link : 1773', 'count : 15672', 'casio : 2989', 'all : NA', 'across : 163', 'link : 1773']
+Image url : img_847
+Total words : 88036
+---------------------------------------
+['orchard : 7343', 'exit : 1319', 'lobby : 1597', 'taxi : 784']
+Image url : img_846
+Total words : 88036
+---------------------------------------
+['semi-annual : NA', 'off : NA', 'secret : 12652', 'sale : 698', 'kikki.k : NA']
+Image url : img_845
+Total words : 88036
+---------------------------------------
+['skinc : NA', 'lab : 2517', 'series : 865', 'gringare : NA', 'for : NA', 'ion : 7865']
+Image url : img_844
+Total words : 88036
+---------------------------------------
+['marina : 3682', 'ong : NA', 'east : 3799', 'will : NA', 'end : 455', 'half : 516', 'hour : 1823', 'earlier : 4054']
+Image url : img_849
+Total words : 88036
+---------------------------------------
+['ticketing : 58438', 'sim : NA', 'cards : 3064', 'changing : 1486', 'closed : 555', 'inl : NA', 'pass : 593', 'and : NA', 'connected : 1358', 'just : NA', 'marina : 2679', 'bay : 1939']
+Image url : img_848
+Total words : 88036
+---------------------------------------
+['any : NA', 'movie : 1333', 'any : NA', 'time : 448', 'any : NA', 'day. : NA']
+Image url : img_533
+Total words : 88036
+---------------------------------------
+['train : 40', 'dinosaur : 3103', 'pason : NA']
+Image url : img_532
+Total words : 88036
+---------------------------------------
+['wine : 172', 'spirits : 8281', 'wine&spirits : NA']
+Image url : img_438
+Total words : 88036
+---------------------------------------
+['falrprice : NA', 'horslanan : NA']
+Image url : img_439
+Total words : 88036
+---------------------------------------
+['sale : 1111', 'styles : 5031', 'sale : 1111', 'sale : 1111']
+Image url : img_537
+Total words : 88036
+---------------------------------------
+['sale : 1021']
+Image url : img_536
+Total words : 88036
+---------------------------------------
+['minidrones : NA', 'parrot : 1352', 'joy : 4940']
+Image url : img_535
+Total words : 88036
+---------------------------------------
+['centre : 2481']
+Image url : img_534
+Total words : 88036
+---------------------------------------
+['hair : 252', 'care : 2123', 'promotions : 59243', 'grooming : 4085', 'promotions : 59243']
+Image url : img_432
+Total words : 88036
+---------------------------------------
+['care : 2035', 'care : 2035', 'perfume : 9701', 'everyday : 13665']
+Image url : img_433
+Total words : 88036
+---------------------------------------
+['lobby : 1853']
+Image url : img_539
+Total words : 88036
+---------------------------------------
+['namo : NA', 'dynamo : 6442', 'dynamo : 6442']
+Image url : img_431
+Total words : 88036
+---------------------------------------
+['new! : NA', 'gabu : NA', 'gabu! : NA', 'refreshing : 11582', 'ice : 860', 'cream : 753', 'soda : 980', 'with : NA', 'real : 2076', 'milk! : NA', 'gabu : NA', 'gabu : NA', 'gabu : NA', 'gabu : NA']
+Image url : img_436
+Total words : 88036
+---------------------------------------
+['cordial : 81029', 'cordial : 81029', 'cordial : 81029', 'cordial : 81029', 'syrup : 1584', 'cordial : 81029']
+Image url : img_437
+Total words : 88036
+---------------------------------------
+['darlie : NA']
+Image url : img_434
+Total words : 88036
+---------------------------------------
+["l'oreal : NA", '$ 15 : NA', 'professionnel : NA', 'sms : NA', 'waxing : 6877', '#04-29 : NA', '$30 : NA', 'one : 76']
+Image url : img_923
+Total words : 88036
+---------------------------------------
+["m&m's : NA", 'm&m : NA', 'everyone : 2755', 'wants : 4246', 'them : NA', 'christmas : 705', "m&m's : NA", 'm&ms : NA']
+Image url : img_429
+Total words : 88036
+---------------------------------------
+['platform : 519']
+Image url : img_99
+Total words : 88036
+---------------------------------------
+['alcohol : 3106', 'sale : 579', 'tobacco : 14790', 'below : NA', "it's : NA", 'a... : NA', 'cash : 5843', 'accept : 12242', 'nets : 4437', 'nets : 4437', 'delight : 8114', 'visa : 7672', 'art : 978', 'common : 2268', 'personal : 503', 'choque : NA']
+Image url : img_98
+Total words : 88036
+---------------------------------------
+['stationery : 16675', 'event : 381', 'the : NA', 'year! : NA', 'cashier : 4292']
+Image url : img_95
+Total words : 88036
+---------------------------------------
+['fiction : 11856', 'textbook : 4842', 'sesoni : NA', 'non-fiction : NA', 'ways : 4338', 'fiction : 11856', 'order : 2316', 'online : 11536', '20% : NA', 'robin : 6769', 'ken : 6547', 'online : 11536', 'off : NA', 'sylvia : 71823', 'ephante : NA', 'varovich : NA', 'awood : NA', 'atwood : 49921', 'pop : 1865', 'atwood : 49921', 'mens : NA', 'weasel : 9248', 'mens : NA', 'beauty : 5041', 'slept : 3781', 'red : 38', 'rising : 1834', 'red : 38', 'rising : 1834', '000 : NA', 'elle : NA', 'jeffrey : 39950', 'jeffrey : 39950', 'archer : 12294', 'archer : 12294', 'world : 1408', 'target : 8300']
+Image url : img_94
+Total words : 88036
+---------------------------------------
+['cool : 2065', 'merci : NA', 'merci : NA']
+Image url : img_97
+Total words : 88036
+---------------------------------------
+['nescafe : 51316', 'ideal : 42047']
+Image url : img_96
+Total words : 88036
+---------------------------------------
+['shock : 9664', 'nathan : 7347', 'filer : 78196', 'the : NA', 'silkworm : 46727', 'robert : 7895', 'galaith : NA', 'fall : 2902', 'the : NA', 'silkworm : 46727']
+Image url : img_91
+Total words : 88036
+---------------------------------------
+['$20 : NA', '3 for : NA', 'fiction : 13022', '$20.00 : NA', 'assorted : 685', 'ssone : NA']
+Image url : img_90
+Total words : 88036
+---------------------------------------
+['win : 7082', 'sushi : 2052', 'electrical : 1709', 'ichiban : 15957', 'est : 7590']
+Image url : img_93
+Total words : 88036
+---------------------------------------
+['travel : 1165', 'your : NA', 'purchases : 5947', 'for : NA', 'top : 28', 'neck : 530', 'pillow. : NA']
+Image url : img_92
+Total words : 88036
+---------------------------------------
+['terminal : 784', 'prada : 26095', 'casino : 5177', 'hotel : 445', 'prada : 26095', 'coach : 1213', 'prada : 26095', 'bvlga : NA']
+Image url : img_696
+Total words : 88036
+---------------------------------------
+['versace : NA', 'versace : NA']
+Image url : img_697
+Total words : 88036
+---------------------------------------
+['pandora : 66111', 'coach : 2282', 'porsche : 4697']
+Image url : img_694
+Total words : 88036
+---------------------------------------
+['sound : 3106', 'stadium : 1640', 'stadium : 1640', 'sound : 3106', 'stadium : 1640', 'view : 138', 'view : 138', 'stadium : 1640', 'stadium : 1640', 'view : 138', 'stadium : 1640', 'sound : 3106']
+Image url : img_530
+Total words : 88036
+---------------------------------------
+['cats : 629', 'exit : 1591']
+Image url : img_692
+Total words : 88036
+---------------------------------------
+['master : 6689', 'card : 1335', 'theatres : 64815', 'box : 64', 'office : 465']
+Image url : img_693
+Total words : 88036
+---------------------------------------
+['jacket : 470', 'enhanced : 9250', 'like : 260', 'down : NA', 'down : NA', 'steroids : 70096', 'but : NA', "it's : NA", 'legal : 12961']
+Image url : img_690
+Total words : 88036
+---------------------------------------
+['sephora : NA']
+Image url : img_691
+Total words : 88036
+---------------------------------------
+['for : NA', 'nut : 4908', 'assorted : 656', '$10 : NA', 'best : 2307', 'chocolate : 728']
+Image url : img_928
+Total words : 88036
+---------------------------------------
+['one : 132', 'man : 9', 'one : 132', 'machine : 762']
+Image url : img_698
+Total words : 88036
+---------------------------------------
+['gucci : 29914', 'gucci : 29914']
+Image url : img_699
+Total words : 88036
+---------------------------------------
+['off : NA', 'off : NA', '70% : NA', 'off : NA']
+Image url : img_326
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_4
+Total words : 88036
+---------------------------------------
+['toast : 1382', 'box : 94', 'toast : 1382', 'box : 94', 'oco ichibi : NA']
+Image url : img_324
+Total words : 88036
+---------------------------------------
+['fingers : 2625']
+Image url : img_325
+Total words : 88036
+---------------------------------------
+['spalding : 37912', 'andi : NA', 'andi : NA', 'azura : NA', 'tyr : NA']
+Image url : img_289
+Total words : 88036
+---------------------------------------
+['level : 3079', 'new : 395', 'capit : NA', 'discovered : 55423', '11:42 : NA', 'retine : NA', 'soon : 9184']
+Image url : img_323
+Total words : 88036
+---------------------------------------
+['sale : 1000', 'fashion : 2048', 'outlet : 4064', 'store : 319', 'percent : 88019', 'off : NA', 'off : NA', 'teks : NA']
+Image url : img_320
+Total words : 88036
+---------------------------------------
+['factorie : NA', 'factorie : NA', 'sale : 853', 'sale : 853', 'sale : 853', '117 : NA', 'sale : 853']
+Image url : img_321
+Total words : 88036
+---------------------------------------
+['scc : NA', 'sale : 648']
+Image url : img_285
+Total words : 88036
+---------------------------------------
+['singapore : 9887', 'pro-am : NA', 'world : 1470', 'part : 908', "singapore's : NA", 'leading : 1004', 'sports : 1013', 'retailer : 22966', 'sports : 1013', 'world : 1470', 'basketball : 1831', 'league : 2343', 'www.sbl.sg : NA', '2015 : NA', 'pro : 1765']
+Image url : img_284
+Total words : 88036
+---------------------------------------
+['sale : 1033', 'salomon : NA']
+Image url : img_287
+Total words : 88036
+---------------------------------------
+['hurley : 15374']
+Image url : img_286
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_281
+Total words : 88036
+---------------------------------------
+['exit : 2028', 'lobby : 1216']
+Image url : img_280
+Total words : 88036
+---------------------------------------
+['lovis : NA', 'bega : NA']
+Image url : img_328
+Total words : 88036
+---------------------------------------
+['lovis : NA', 'diamonds : 6737', '15% : NA', 'lovs : NA', 'ssha : NA']
+Image url : img_329
+Total words : 88036
+---------------------------------------
+['korean : 3542', 'bbq : 3120', 'buffet : 1422', 'cook : 2039']
+Image url : img_991
+Total words : 88036
+---------------------------------------
+['metro : 823', 'stro : NA', 'price : 1056']
+Image url : img_924
+Total words : 88036
+---------------------------------------
+['soma : 82745', 'soma : 82745', 'evolve : 21763', 'mixed : 1352']
+Image url : img_993
+Total words : 88036
+---------------------------------------
+['hot : 515', 'stuff : 923', 'style : 596', 'mma : NA']
+Image url : img_992
+Total words : 88036
+---------------------------------------
+['stara : NA', 'bridal : 5240', 'gowns : 7020', 'promotion!! : NA']
+Image url : img_995
+Total words : 88036
+---------------------------------------
+['gown : 4853', 'gowns : 5544', 'stara : NA', 'br  al : NA', 'bridal : 4896']
+Image url : img_994
+Total words : 88036
+---------------------------------------
+['price : 2478', 'get : 560', 'your : NA', "students' : NA", 'imax : 47161', 'imax : 47161', 'ima : NA', 'blockbuster : 27632', 'tickets : 4738']
+Image url : img_449
+Total words : 88036
+---------------------------------------
+['very : NA', 'merry : 6334', 'christmas : 772']
+Image url : img_448
+Total words : 88036
+---------------------------------------
+['recycling : 8874', 'corner : 321']
+Image url : img_447
+Total words : 88036
+---------------------------------------
+['urg al : NA', 'recycling : 8155']
+Image url : img_446
+Total words : 88036
+---------------------------------------
+['today : 3445', 'too : NA', 'christmas : 696', 'enjoy : 1759']
+Image url : img_445
+Total words : 88036
+---------------------------------------
+['oil : 2580', 'dried : 2450', 'food : 52', 'cooking : 515']
+Image url : img_444
+Total words : 88036
+---------------------------------------
+['dzen : NA', 'pork : 2967']
+Image url : img_443
+Total words : 88036
+---------------------------------------
+['seafood : 3247']
+Image url : img_442
+Total words : 88036
+---------------------------------------
+['dairy : 5127', 'seae : NA']
+Image url : img_441
+Total words : 88036
+---------------------------------------
+['sprite : 3744', 'dary : NA', 'sprite : 3744', 'sottis : NA']
+Image url : img_440
+Total words : 88036
+---------------------------------------
+['barielle : NA', 'jean y : NA']
+Image url : img_267
+Total words : 88036
+---------------------------------------
+['jea : NA', 'restaurant : 239']
+Image url : img_266
+Total words : 88036
+---------------------------------------
+['ippudo : NA', 'ippudo : NA', 'bread : 387', 'talk : 1847', 'Unicode error']
+Image url : img_265
+Total words : 88036
+---------------------------------------
+['winners : 9574', 'winner : 8524', 'with : NA', 'singtel : NA', 'prepaid : 26365', 'prizes : 4544', 'win: : NA', 'hi! : NA', 'sony : 4742', 'xperia : NA', 'handset : 14330', 'datatalk$22 : NA', 'top-up : NA', 'cards : 2206', 'sets : 1032', 'worth : 14083', '$264 : NA', 'total : 11446', 'promotion : 3431', 'january : 16099', '2015 : NA', 'how : NA', 'win: : NA', 'purchase : 7750', 'any : NA', 'data/social : NA', 'plan : 2635', 'triple : 4622', 'your : NA', 'chances: : NA', 'low : 741', 'for : NA', 'data : 10245', '$0.50 : NA']
+Image url : img_264
+Total words : 88036
+---------------------------------------
+['cte : NA', 'airport : 316', 'pier : 646']
+Image url : img_263
+Total words : 88036
+---------------------------------------
+['chinatown : 10087', 'fish : 622', "delight's : NA"]
+Image url : img_262
+Total words : 88036
+---------------------------------------
+['card : 1502', 'reader : 10447', 'exit : 1332', 'side-gate : NA', 'residents : 15095', 'scan : 15944', 'dear : 6153', 'your : NA', 'access : 12179', 'card : 1502', 'the : NA', 'the : NA', 'right : 544', 'hand : 185', 'side : 28', 'the : NA', 'wall : 75', 'and : NA', 'open : 93', 'gate : 643', 'themanagement : NA']
+Image url : img_108
+Total words : 88036
+---------------------------------------
+['prefer : 16779', 'visa : 8118', 'ootoya : NA', 'japanese : 2186', 'restaurant : 269']
+Image url : img_109
+Total words : 88036
+---------------------------------------
+['berth : 15709']
+Image url : img_106
+Total words : 88036
+---------------------------------------
+['canon : 2353', 'mamma : 6481', 'mia! : NA']
+Image url : img_107
+Total words : 88036
+---------------------------------------
+['coach : 926', 'bag : 394']
+Image url : img_104
+Total words : 88036
+---------------------------------------
+['thank : 2362', 'you : NA', 'for : NA', 'queueing : NA']
+Image url : img_105
+Total words : 88036
+---------------------------------------
+['shop : 492', 'dine : 3313', 'smrt : NA']
+Image url : img_102
+Total words : 88036
+---------------------------------------
+['guardian : 84034']
+Image url : img_103
+Total words : 88036
+---------------------------------------
+['way : 204', 'out : NA', 'line : 178', 'platform : 233']
+Image url : img_100
+Total words : 88036
+---------------------------------------
+['care : 2046', 'sticker : 2162', 'for : NA', 'more : NA']
+Image url : img_101
+Total words : 88036
+---------------------------------------
+['pull : 891', 'pull : 891']
+Image url : img_20
+Total words : 88036
+---------------------------------------
+['the : NA', 'world : 1305', 'you : NA', 'bring : 3963']
+Image url : img_21
+Total words : 88036
+---------------------------------------
+['have : NA', 'nus : 67979', 'share : 2570', 'wiht : NA']
+Image url : img_22
+Total words : 88036
+---------------------------------------
+['agsc2015 : NA', 'your : NA', 'notes : 1498', 'trials : 15386', 'bus : 9', 'rale : NA', 'sell : 4214']
+Image url : img_23
+Total words : 88036
+---------------------------------------
+['nus : 67979', 'nus : 67979', 'faculty : 14794', 'engine : 531', 'internal : 71275', 'shuttle : 4477', 'bus : 0']
+Image url : img_24
+Total words : 88036
+---------------------------------------
+['mrt : NA', 'kent : 14820', 'ridge : 9358']
+Image url : img_25
+Total words : 88036
+---------------------------------------
+['one : 59', 'level : 1187', 'down : NA']
+Image url : img_26
+Total words : 88036
+---------------------------------------
+['love : 2612']
+Image url : img_27
+Total words : 88036
+---------------------------------------
+['smrt : NA']
+Image url : img_28
+Total words : 88036
+---------------------------------------
+['straits : 50298', 'optical : 14047']
+Image url : img_29
+Total words : 88036
+---------------------------------------
+['jatz : NA', 'shapes : 1403', 'shapes : 1403', 'jatz : NA', 'vietnam : 4581', 'international : 5392']
+Image url : img_435
+Total words : 88036
+---------------------------------------
+['blackclose : NA', 'collectpoint : NA', 'sale : 896', 'sale : 896']
+Image url : img_870
+Total words : 88036
+---------------------------------------
+['ave : 837', 'west : 2027', 'you : NA', 'can : NA', 'pay : 4085', 'less? : NA', "singapore's : NA", 'no.1 : NA']
+Image url : img_61
+Total words : 88036
+---------------------------------------
+['dessert : 1045', 'cco : NA', 'plated : 1294', 'dessert : 1045', 'tarts : 5367', 'gus : 19857', 'fne : NA']
+Image url : img_978
+Total words : 88036
+---------------------------------------
+['mcdonalds : NA']
+Image url : img_62
+Total words : 88036
+---------------------------------------
+['hitachi : 16441']
+Image url : img_218
+Total words : 88036
+---------------------------------------
+['the : NA', 'trilina : NA']
+Image url : img_63
+Total words : 88036
+---------------------------------------
+['cte : NA', '1pm : NA', '1am : NA', 'closed : 362', 'orchard : 7549', 'est : 5371', 'to: : NA', 'mins : NA']
+Image url : img_199
+Total words : 88036
+---------------------------------------
+['apache : 63908', 'nomads : 24312', 'danger : 2497', 'out! : NA']
+Image url : img_198
+Total words : 88036
+---------------------------------------
+['exit : 1161']
+Image url : img_210
+Total words : 88036
+---------------------------------------
+['exit : 1255']
+Image url : img_211
+Total words : 88036
+---------------------------------------
+['noodle : 3749', 'age : 2650', 'prince : 7197', 'khalifa : NA']
+Image url : img_216
+Total words : 88036
+---------------------------------------
+['school : 247', 'zone : 869']
+Image url : img_217
+Total words : 88036
+---------------------------------------
+['325 : NA', 'posb : NA']
+Image url : img_214
+Total words : 88036
+---------------------------------------
+['s2.30 : NA', 'set : 221', 'set : 221', 'set : 221', 'hot : 402', '$2..30 : NA', '$2.00 : NA']
+Image url : img_215
+Total words : 88036
+---------------------------------------
+['$24 : NA', 'wildlife : 2694', 'experience : 2447', 'save : 6311', 'ultimate : 5171', "singapore's : NA", 'parks : 2248', 'price : 2953']
+Image url : img_191
+Total words : 88036
+---------------------------------------
+['exit : 1653']
+Image url : img_190
+Total words : 88036
+---------------------------------------
+['st.marc : NA', 'cafe : 1718', 'gko : NA']
+Image url : img_661
+Total words : 88036
+---------------------------------------
+['max : 8497', 'height : 3147', '3.3m : NA']
+Image url : img_192
+Total words : 88036
+---------------------------------------
+["mcdonald's : NA", 'uno : NA', 'public : 300']
+Image url : img_195
+Total words : 88036
+---------------------------------------
+['give : 1364', 'way : 123', 'buses : 184', 'exiting : 1958']
+Image url : img_194
+Total words : 88036
+---------------------------------------
+['501 : NA', 'lei : 6867', 'levi : 8587', "levi's : NA"]
+Image url : img_197
+Total words : 88036
+---------------------------------------
+['doors : 444', 'reserved : 10173', 'keep : 2721', 'clear : 657', 'seating : 2178', 'jangan : NA', 'berdiri : NA', 'dekat : NA', 'pintu : NA']
+Image url : img_196
+Total words : 88036
+---------------------------------------
+['gap : 2794']
+Image url : img_68
+Total words : 88036
+---------------------------------------
+['nasal : 42811', 'spray : 1220', 'sato : NA', 'caution : 2086', 'pharma : NA']
+Image url : img_69
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_1000
+Total words : 88036
+---------------------------------------
+['gcha : NA', 'fesiat : NA', 'bos : NA', 'delifrance : NA']
+Image url : img_427
+Total words : 88036
+---------------------------------------
+['long : 111', 'john : 8392', 'silvers : 62502']
+Image url : img_540
+Total words : 88036
+---------------------------------------
+['win : 7238', 'the : NA', 'month : 14554', 'sush : NA', 'wines : 2833', 'win : 7238', 'win : 7238', 'win : 7238']
+Image url : img_960
+Total words : 88036
+---------------------------------------
+['sushi : 2785', 'seafood : 2160', 'our : NA', 'choice : 7749', 'milo : 83979', 'nescafe : 51316', 'stars : 3694', '100 : 2811']
+Image url : img_961
+Total words : 88036
+---------------------------------------
+['freshly : 946', 'made : 330', 'salad : 283']
+Image url : img_962
+Total words : 88036
+---------------------------------------
+['meat : 186']
+Image url : img_963
+Total words : 88036
+---------------------------------------
+['seafood : 2673']
+Image url : img_964
+Total words : 88036
+---------------------------------------
+['sushi : 2587', 'recipes : 8905']
+Image url : img_965
+Total words : 88036
+---------------------------------------
+['herbs : 2572', 'spices : 1532']
+Image url : img_966
+Total words : 88036
+---------------------------------------
+['recipes : 11583']
+Image url : img_967
+Total words : 88036
+---------------------------------------
+['pepero : NA', 'lotte : NA', 'get : 752', 'milo : 83979', 'pepero : NA', 'kitkat : NA', 'free : 1356']
+Image url : img_968
+Total words : 88036
+---------------------------------------
+['mister : 10304', 'minit : NA']
+Image url : img_969
+Total words : 88036
+---------------------------------------
+['onsen : NA', '01-06 : NA', 'osen : NA']
+Image url : img_678
+Total words : 88036
+---------------------------------------
+['ralph : 40984', 'lauren : 13996', 'lauren : 13996', 'adidas : 2144', 'cans : 2206', 'plastic : 413']
+Image url : img_679
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_398
+Total words : 88036
+---------------------------------------
+['kurt : 4494', 'geiger : 69540', 'london : 1256', 'geigers : NA']
+Image url : img_776
+Total words : 88036
+---------------------------------------
+['adu : NA', 'author : 6565']
+Image url : img_498
+Total words : 88036
+---------------------------------------
+['faces : 1298']
+Image url : img_499
+Total words : 88036
+---------------------------------------
+['choice : 9204', 'ban : 7142', 'soon : 8907', 'sewing : 2584', 'machine : 1108']
+Image url : img_490
+Total words : 88036
+---------------------------------------
+['yeo : NA', 'trading : 7616', 'laundry : 3503', 'chor : NA', 'hong : 4738', 'the : NA', 'doctors : 8228', 'heng : NA', 'furniture : 466']
+Image url : img_491
+Total words : 88036
+---------------------------------------
+['redman : NA']
+Image url : img_492
+Total words : 88036
+---------------------------------------
+['pain : 8248', 'back : 188', 'foot : 1073', 'knee : 1825', 'your : NA', 'stop : 78', 'our : NA', 'solution : 12134']
+Image url : img_493
+Total words : 88036
+---------------------------------------
+['aster : 16010', 'spring : 3967', 'origin : 9394', 'beauty : 3209', 'european h : NA']
+Image url : img_494
+Total words : 88036
+---------------------------------------
+['post : 746', 'office : 495']
+Image url : img_495
+Total words : 88036
+---------------------------------------
+['alan : 77322', 'guys : 730']
+Image url : img_496
+Total words : 88036
+---------------------------------------
+['nlb : NA', 'public : 247', 'library : 2293', 'clementi : NA', 'www : 3515']
+Image url : img_497
+Total words : 88036
+---------------------------------------
+['forever : 37509', 'citibank : 45873']
+Image url : img_793
+Total words : 88036
+---------------------------------------
+['shops : 413', 'ahead : 1223', 'esplanade : 7866', 'xchange : NA', 'shop : 353']
+Image url : img_670
+Total words : 88036
+---------------------------------------
+['forever : 37509']
+Image url : img_791
+Total words : 88036
+---------------------------------------
+['warehouse : 1998', 'sale : 798', 'sale : 798']
+Image url : img_790
+Total words : 88036
+---------------------------------------
+['lobby : 1755', 'g-star : NA', 'armani : 23478', 'exchange : 5009', 'ion : 5588', 'g-star : NA', 'directory : 24706']
+Image url : img_797
+Total words : 88036
+---------------------------------------
+['c  mper : NA', 'love : 1832', 'new : 712', 'openin : NA', 'i o n : NA', 'ingapore : NA', 'ural : 33990', 'orchard : 6547', 'sales : 2747', 'rebajas : NA', 'soldes : NA', 'znizanje : NA', 'uta : NA']
+Image url : img_796
+Total words : 88036
+---------------------------------------
+['exit : 1752', 'g-star : NA', 'calvin : 65296', 'klein : 36242', 'jeans : 866', 'off : NA', 'singa : NA']
+Image url : img_795
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_794
+Total words : 88036
+---------------------------------------
+['bread : 621', 'butter : 1373']
+Image url : img_799
+Total words : 88036
+---------------------------------------
+['evisu : NA']
+Image url : img_798
+Total words : 88036
+---------------------------------------
+['atch : NA', 'the : NA', 'lensmen : NA', 'casio : 4017', 'bab : NA']
+Image url : img_403
+Total words : 88036
+---------------------------------------
+['topman : NA', 'further : NA', 'reduction : 51744', 'off : NA', '70% : NA']
+Image url : img_402
+Total words : 88036
+---------------------------------------
+['robinsons : NA', 'cathay : 16523', 'topshop : NA', 'topma : NA', 'topshop : NA', 'jem : NA', 'food : 147', 'court : 317']
+Image url : img_401
+Total words : 88036
+---------------------------------------
+['topshop : NA']
+Image url : img_400
+Total words : 88036
+---------------------------------------
+['cartier : 68735', 'giorgio : 46779', 'miu : NA', 'miu : NA', 'giorgio : 46779']
+Image url : img_818
+Total words : 88036
+---------------------------------------
+['iwc : NA']
+Image url : img_819
+Total words : 88036
+---------------------------------------
+['yourself : NA', 'sale : 937', 'christmas : 818', 'merry : 7611', 'all : NA']
+Image url : img_405
+Total words : 88036
+---------------------------------------
+['keith : 39740', 'sephora : NA', 'sephora : NA']
+Image url : img_404
+Total words : 88036
+---------------------------------------
+['maxmara : NA']
+Image url : img_814
+Total words : 88036
+---------------------------------------
+['bottega : NA', 'veneta : NA']
+Image url : img_815
+Total words : 88036
+---------------------------------------
+["natures's : NA", 'farm : 562', 'fairprice : NA', 'cra : NA', 'dic : NA']
+Image url : img_409
+Total words : 88036
+---------------------------------------
+['robinsons : NA', 'estee : NA', 'lauder : 71778']
+Image url : img_408
+Total words : 88036
+---------------------------------------
+['bartoux : NA']
+Image url : img_810
+Total words : 88036
+---------------------------------------
+['f. nielly : NA']
+Image url : img_811
+Total words : 88036
+---------------------------------------
+['tagheuer : NA']
+Image url : img_812
+Total words : 88036
+---------------------------------------
+['bar : 155', 'galeries : NA', 'exit : 1457', 'bartoux : NA']
+Image url : img_813
+Total words : 88036
+---------------------------------------
+['skating : 711', 'hotel : 255', 'skypark : NA', 'casino : 5049', 'hotel : 255', 'coach : 1151', 'terminal : 1035', 'prada : 26095', 'prada : 26095', 'louis : 4806', 'vuitton : 9803', 'vuitton : 9803', 'louis : 4806']
+Image url : img_695
+Total words : 88036
+---------------------------------------
+['sale : 700', 'storewide : NA']
+Image url : img_568
+Total words : 88036
+---------------------------------------
+['bpalette : NA', 'superdrystore. : NA', 'superdry. : NA']
+Image url : img_569
+Total words : 88036
+---------------------------------------
+['$15 : NA', '$15 : NA', 'dress : 419', 'accessories : 1256', 'bottoms : 8229', 'tops : 1086', 's31 : NA', '$36 : NA', '$33 : NA', '$28 : NA']
+Image url : img_564
+Total words : 88036
+---------------------------------------
+['route: : NA', 'alternate : 67020', 'mins : NA']
+Image url : img_565
+Total words : 88036
+---------------------------------------
+['mac : 3757', 'origins : 15117', 'chanel : 6907']
+Image url : img_566
+Total words : 88036
+---------------------------------------
+['new : 605', 'york : 1240', 'coa : NA']
+Image url : img_567
+Total words : 88036
+---------------------------------------
+['asus : NA', 'search : 7769', 'asus : NA', 'tech@vogue : NA', 'asus : NA', 'smile : 1373', 'family : 57']
+Image url : img_560
+Total words : 88036
+---------------------------------------
+['tech@vogue : NA', 'asus : NA', 'asus : NA', '$15 : NA']
+Image url : img_561
+Total words : 88036
+---------------------------------------
+['salads : 5015', 'serenity : 71725', 'rice : 1099', 'diskes : NA', 'suckling : 6121', 'soups : 12525']
+Image url : img_562
+Total words : 88036
+---------------------------------------
+['team : 942', 'salon : 2482', 'aveda : 49604']
+Image url : img_563
+Total words : 88036
+---------------------------------------
+['sale : 894', 'i am : NA']
+Image url : img_384
+Total words : 88036
+---------------------------------------
+['circle : 1459', 'line : 243', 'one : 94', 'level : 2422', 'down : NA', 'east : 4309', 'west : 3576']
+Image url : img_65
+Total words : 88036
+---------------------------------------
+['sbs : NA', 'transist : NA']
+Image url : img_66
+Total words : 88036
+---------------------------------------
+['fresever : NA', 'mao : 11455', 'pteltd : NA']
+Image url : img_67
+Total words : 88036
+---------------------------------------
+['exit : 1291', 'bus : 2']
+Image url : img_60
+Total words : 88036
+---------------------------------------
+['speed : 951', 'merrell : NA', 'cushioning : 16985', '20% : NA']
+Image url : img_381
+Total words : 88036
+---------------------------------------
+['adidas : 2435', 'reebok : 11320', 'reebok : 11320', 'reebok : 11320', 'running : 284', 'running : 284', '10% : NA']
+Image url : img_382
+Total words : 88036
+---------------------------------------
+['sale : 1357', '70% : NA']
+Image url : img_383
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_223
+Total words : 88036
+---------------------------------------
+['food : 77', 'beverages : 1866', 'the : NA', 'cafe : 1091', 'lobby : 1989', 'bringing : 4893', 'hoac : NA', 'changing : 1113']
+Image url : img_222
+Total words : 88036
+---------------------------------------
+['smrt : NA', 'shop&dine : NA']
+Image url : img_221
+Total words : 88036
+---------------------------------------
+['murdoch : 87471']
+Image url : img_220
+Total words : 88036
+---------------------------------------
+['bos : NA', '182/182 : NA', '243 : NA', '179 : NA', '405 : NA', 'berth : 15968']
+Image url : img_227
+Total words : 88036
+---------------------------------------
+['actioncity : NA', 'gadget : 4994']
+Image url : img_226
+Total words : 88036
+---------------------------------------
+['new : 661', 'york : 1044']
+Image url : img_225
+Total words : 88036
+---------------------------------------
+['arnold : 68621', 'keppol : NA', 'etude : 17717', '19 99 : NA', 'etude : 17717', 'palme : NA']
+Image url : img_224
+Total words : 88036
+---------------------------------------
+['crazy : 4603', 'jem : NA', 'welcome : 3020']
+Image url : img_423
+Total words : 88036
+---------------------------------------
+['ayer : NA', 'rajah : 41145', 'ave : 489', 'nsrad : NA']
+Image url : img_203
+Total words : 88036
+---------------------------------------
+['blum : NA', 'co. : NA']
+Image url : img_708
+Total words : 88036
+---------------------------------------
+['tokyo : 4228', 'optical : 13468', 'sta : 6323']
+Image url : img_709
+Total words : 88036
+---------------------------------------
+['wild : 1136', 'aurora : 13794', 'factorie : NA', 'tems : NA', 'sale : 729']
+Image url : img_319
+Total words : 88036
+---------------------------------------
+['tent : 1132']
+Image url : img_318
+Total words : 88036
+---------------------------------------
+['sembonia : NA', 'sixties : 10702']
+Image url : img_317
+Total words : 88036
+---------------------------------------
+['air : 100', 'zoom : 10740', 'structure : 1040', 'never : 7415', 'been : NA']
+Image url : img_316
+Total words : 88036
+---------------------------------------
+['nike : 8500', 'stability : 30774', 'has : NA', 'never : 6324', 'been : NA', 'faster : 4317']
+Image url : img_315
+Total words : 88036
+---------------------------------------
+['aimer : NA', 'courts : 8645']
+Image url : img_314
+Total words : 88036
+---------------------------------------
+['bonia : NA', 'orogold : NA', 'orogol : NA', 'benefit : 16578']
+Image url : img_313
+Total words : 88036
+---------------------------------------
+['sale : 699', '75% : NA', 'off : NA', 'and : NA', 'jewellery : 16709']
+Image url : img_312
+Total words : 88036
+---------------------------------------
+['benefit : 11962', 'tiffany : 22649', 'wedding : 1917']
+Image url : img_311
+Total words : 88036
+---------------------------------------
+['e-pay : NA', 'axs : NA']
+Image url : img_310
+Total words : 88036
+---------------------------------------
+['get : 596', 'fit : 2724', 'rewards : 17325']
+Image url : img_137
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_5
+Total words : 88036
+---------------------------------------
+['tuckshop : NA']
+Image url : img_135
+Total words : 88036
+---------------------------------------
+['warning : 1021']
+Image url : img_134
+Total words : 88036
+---------------------------------------
+['atm : 4118', 'atm : 4118', 'posit : 59786', 'date : 5871', 'out : NA']
+Image url : img_133
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_132
+Total words : 88036
+---------------------------------------
+['exit : 1503', 'buzz : 7781', 'lee : 5902', 'man : 9', 'pays : 13827', 'car : 33', 'umisushi : NA', 'bento : 4121']
+Image url : img_131
+Total words : 88036
+---------------------------------------
+['japan : 6100', 'ipl : NA', 'ipl : NA', 'japan : 6100', 'ipl : NA', 'japan : 6100']
+Image url : img_130
+Total words : 88036
+---------------------------------------
+['citi : NA', 'smrt : NA']
+Image url : img_7
+Total words : 88036
+---------------------------------------
+['front : 22', 'm1-a1 : NA', 'pintu : NA', 'kecemasa : NA']
+Image url : img_139
+Total words : 88036
+---------------------------------------
+['best : 3558', 'served : 1158', 'oftly : NA', 'bring : 6728', 'out : NA', 'volume : 9840']
+Image url : img_138
+Total words : 88036
+---------------------------------------
+['gucci : 29914']
+Image url : img_700
+Total words : 88036
+---------------------------------------
+['reserve : 9665', 'caution : 4648']
+Image url : img_6
+Total words : 88036
+---------------------------------------
+['bus : 16', 'interchange : 83621']
+Image url : img_36
+Total words : 88036
+---------------------------------------
+['level : 2483', 'opi : NA']
+Image url : img_701
+Total words : 88036
+---------------------------------------
+['genaxis theatre : NA', '[06] : NA', '62-03 : NA', 'carpark : NA']
+Image url : img_1
+Total words : 88036
+---------------------------------------
+['zara : 16689', 'tang : 14377', 'roberto : 80315', 'cavalli : NA', 'zara : 16689', 'shanghai : 13354']
+Image url : img_702
+Total words : 88036
+---------------------------------------
+['sale : 644', 'salomon : NA', 'dupd : NA', 'etnies : NA', 'hi-tec : NA', 'aman : NA']
+Image url : img_288
+Total words : 88036
+---------------------------------------
+['action : 1080', 'hair : 786', 'isis : 19777', 'doc : 8812']
+Image url : img_703
+Total words : 88036
+---------------------------------------
+['fusionopolis : NA', 'fusionopolis : NA']
+Image url : img_3
+Total words : 88036
+---------------------------------------
+['choice : 5030', 'trading : 7945', 'first : 1423', 'factory : 2421', 'price : 1021', 'year : 7081', 'end : 476', 'sale : 625', 'filipino : 34937', 'nut : 5493', 'chocolate : 612', 'assorted : 592', 'for : NA', 'for : NA']
+Image url : img_929
+Total words : 88036
+---------------------------------------
+['exit : 1440', 'i2r : NA']
+Image url : img_2
+Total words : 88036
+---------------------------------------
+['hottis : NA', 'bon : 5828', 'appetit! : NA', 'crate : 1261', 'cream : 836', 'the : NA', 'ice : 817', 'quick : 8519', 'big : 125']
+Image url : img_705
+Total words : 88036
+---------------------------------------
+['unionpay : NA', 'meps : NA', 'maestro : 74996', 'visa : 8035', 'ocbc : NA', 'cirrus : 19719', 'uob : NA', 'by: : NA', 'nisp : NA', 'visa : 8035']
+Image url : img_142
+Total words : 88036
+---------------------------------------
+['koon : NA', 'chang : 38475', 'airport : 109']
+Image url : img_143
+Total words : 88036
+---------------------------------------
+['south : 4711', 'pasir : NA', 'ris : NA', 'changi : NA', 'airport : 143']
+Image url : img_140
+Total words : 88036
+---------------------------------------
+['jem : NA']
+Image url : img_141
+Total words : 88036
+---------------------------------------
+["world's : NA", 'finest : 16619', 'delivering : 3942', 'you : NA', 'the : NA', 'freshest : 50069', 'juices : 11610', 'from : NA', 'the : NA', 'fruits : 422', '62620220 : NA']
+Image url : img_146
+Total words : 88036
+---------------------------------------
+['expectations : 9417', 'open : 37', 'all : NA', 'seating : 2661', 'foreigners : 6390', 'reserved : 9121', 'country : 867', 'garden : 794', "group's : NA", 'first : 1393', 'outside : 88', 'china : 2995', 'that : NA', 'country : 867', 'garden : 794', 'danga : NA', 'bay : 2489', '(cgdb) : NA', 'joho : NA', 'iskadar : NA', 'malaysia : 9289', 'with : NA', 'cgdb : NA', 'unseated : 56336', 'market : 620', 'hit : 381', 'sales : 1653', 'rms : NA', 'billion : 66036', '(us$1 : NA', 'billion) : NA', 'the : NA', 'day : 254', 'launch. : NA', 'more : NA', 'than : NA', '6 : 1594', 'from : NA', 'all : NA', 'over : NA', 'the : NA', 'world : 926', 'proudly : 8106', 'garden : 794', 'bay : 2489', 'home. : NA']
+Image url : img_147
+Total words : 88036
+---------------------------------------
+['wind : 1025', 'mind : 3024']
+Image url : img_144
+Total words : 88036
+---------------------------------------
+['saves : 12246', 'recycle! : NA', 'changi : NA', 'recycle! : NA', 'airport : 308', 'hut : 1849', 'eve : 9299']
+Image url : img_145
+Total words : 88036
+---------------------------------------
+['stop : 2']
+Image url : img_148
+Total words : 88036
+---------------------------------------
+['stop : 3', 'faber : NA', 'sjf1790x : NA']
+Image url : img_149
+Total words : 88036
+---------------------------------------
+['serv : NA', 'more : NA', 'shopping : 954', 'souvenirs : 6827', 'home : 412']
+Image url : img_638
+Total words : 88036
+---------------------------------------
+['sale : 794', 'geox : NA']
+Image url : img_639
+Total words : 88036
+---------------------------------------
+['lift : 411', 'lift : 411']
+Image url : img_176
+Total words : 88036
+---------------------------------------
+['christmas : 384', 'greetings : 16939', "season's : NA", 'special : 2839', 'step : 1701', 'into : NA', 'off : NA']
+Image url : img_136
+Total words : 88036
+---------------------------------------
+['bottega : NA', 'veneta : NA']
+Image url : img_816
+Total words : 88036
+---------------------------------------
+['exit : 1607', 'stage : 1227']
+Image url : img_9
+Total words : 88036
+---------------------------------------
+['why : NA', 'pay : 2815', 'for : NA', 'nothing? : NA']
+Image url : img_8
+Total words : 88036
+---------------------------------------
+['columbia : 8208', 'cohmb : NA', 'trying : 403']
+Image url : img_283
+Total words : 88036
+---------------------------------------
+['yamaha : 6164', 'dtx : NA']
+Image url : img_282
+Total words : 88036
+---------------------------------------
+['soma : 82745']
+Image url : img_990
+Total words : 88036
+---------------------------------------
+['hom : 43559', 'yoga : 3191']
+Image url : img_997
+Total words : 88036
+---------------------------------------
+['sales : 2540', '20% : NA']
+Image url : img_996
+Total words : 88036
+---------------------------------------
+['sookee : NA', 'pavillion : NA', 'ion : 4927']
+Image url : img_850
+Total words : 88036
+---------------------------------------
+['one : 72', 'ar. : NA', 'play : 687', 'exclusives : 57871', 'gest : NA']
+Image url : img_999
+Total words : 88036
+---------------------------------------
+['breadtalk : NA', 'charles : 9894', 'keith : 39740', 'sale : 784', 'eli : 11954', 'exit : 1280']
+Image url : img_852
+Total words : 88036
+---------------------------------------
+['talk : 1724', 'breadtalk : NA']
+Image url : img_853
+Total words : 88036
+---------------------------------------
+['on:sal : NA', 'on sale : NA', 'talk : 1881', 'talk : 1881']
+Image url : img_854
+Total words : 88036
+---------------------------------------
+['exit : 1440', 'toastbox : NA', 'breadtalk : NA']
+Image url : img_855
+Total words : 88036
+---------------------------------------
+['graphics : 2779', 'tees : 15211', 'for : NA']
+Image url : img_856
+Total words : 88036
+---------------------------------------
+['cotton : 6689', 'exit : 1227']
+Image url : img_857
+Total words : 88036
+---------------------------------------
+['secret : 12359', 'sale : 710', 'sale : 710', 'lock : 4221']
+Image url : img_858
+Total words : 88036
+---------------------------------------
+['new : 615', 'tradition : 28833', 'celebrate : 3486']
+Image url : img_472
+Total words : 88036
+---------------------------------------
+['for : NA', 'admire : 1442', 'for : NA', '$12 : NA', '$20 : NA', 'chrec : NA']
+Image url : img_473
+Total words : 88036
+---------------------------------------
+['maids : 10926', 'exit : 2093']
+Image url : img_919
+Total words : 88036
+---------------------------------------
+['lowest : 16733', 'prices!! : NA', 'duty : 6914', 'free : 1424', 'perfumes : 17583', 'scent : 13616', 'dollars : 3992', 'scent : 13616', 'explosive : 13613', 'fantastic : 17097', 'discounts!! : NA', 'massive : 1985', 'savings!! : NA']
+Image url : img_925
+Total words : 88036
+---------------------------------------
+['clementi : NA', 'thank : 8751', 'you : NA', 'for : NA', 'your : NA', 'patronage : 35219', 'clementi : NA']
+Image url : img_522
+Total words : 88036
+---------------------------------------
+['ew23 : NA', 'clementi : NA']
+Image url : img_523
+Total words : 88036
+---------------------------------------
+['drepublic : NA']
+Image url : img_524
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_809
+Total words : 88036
+---------------------------------------
+['samsung : 2183', 'do you note? : NA']
+Image url : img_526
+Total words : 88036
+---------------------------------------
+['kick : 963', 'the : NA', 'new : 553', 'year : 6196', 'start : 1730', 'off : NA']
+Image url : img_527
+Total words : 88036
+---------------------------------------
+['the : NA', 'new : 721', 'explosive : 13103']
+Image url : img_528
+Total words : 88036
+---------------------------------------
+['win : 5126', 'electrical : 1110', 'game : 155', 'ost : NA']
+Image url : img_529
+Total words : 88036
+---------------------------------------
+['eleven : 5584']
+Image url : img_913
+Total words : 88036
+---------------------------------------
+['pane : 4714', 'officine : NA']
+Image url : img_808
+Total words : 88036
+---------------------------------------
+['singtel : NA', 'prepaid : 26365', 'cards : 3722', 'sold : 2204', 'here! : NA', 'singtel : NA']
+Image url : img_915
+Total words : 88036
+---------------------------------------
+['asagao : NA', 'minimart : NA', 'kiri : NA', 'tea : 654', 'tea : 654']
+Image url : img_914
+Total words : 88036
+---------------------------------------
+['singtel : NA']
+Image url : img_917
+Total words : 88036
+---------------------------------------
+['exit : 1639']
+Image url : img_916
+Total words : 88036
+---------------------------------------
+['officine : NA', 'panerai : NA']
+Image url : img_807
+Total words : 88036
+---------------------------------------
+['miu : NA', 'miu : NA']
+Image url : img_806
+Total words : 88036
+---------------------------------------
+['fficine : NA', 'panerai : NA']
+Image url : img_805
+Total words : 88036
+---------------------------------------
+['singtel : NA', 'prepaid : 26365', 'cards : 2897']
+Image url : img_926
+Total words : 88036
+---------------------------------------
+['sephora : NA', 'sephora : NA']
+Image url : img_804
+Total words : 88036
+---------------------------------------
+['l1/l2/l3 : NA', 'samantha : 85594', 'thave : NA']
+Image url : img_803
+Total words : 88036
+---------------------------------------
+['use : 1136', 'main : 3157', 'entrance : 2145']
+Image url : img_831
+Total words : 88036
+---------------------------------------
+['mango : 4756', 'touch : 2199']
+Image url : img_869
+Total words : 88036
+---------------------------------------
+['swarovs : NA', 'shops : 2140', 'l1/l2/l3/l4 : NA', 'orchard : 6503', 'mrt : NA', 'more : NA', 'samantha : 85594', 'thai : 5124', 'thava : NA']
+Image url : img_802
+Total words : 88036
+---------------------------------------
+['exit : 1368']
+Image url : img_177
+Total words : 88036
+---------------------------------------
+['ferrero : NA', 'rocher : NA']
+Image url : img_428
+Total words : 88036
+---------------------------------------
+['mcdonalds : NA', 'smiggle : NA', 'sale! : NA', 'special : 2069', 'deluxe : 10255']
+Image url : img_478
+Total words : 88036
+---------------------------------------
+['minor : 13789', 'environmental : 11655', 'sustainability : 75002']
+Image url : img_229
+Total words : 88036
+---------------------------------------
+['massive : 2634', 'clearance : 12470', 'sale : 1008', 'moving : 317']
+Image url : img_479
+Total words : 88036
+---------------------------------------
+['tel. : NA', 'no.: : NA', '( +65) 6732 2900 : NA', 'philoxenos : NA', 'venice : 10807']
+Image url : img_927
+Total words : 88036
+---------------------------------------
+['sephora : NA']
+Image url : img_817
+Total words : 88036
+---------------------------------------
+['acer : 8361', 'explore : 11489', 'beyond : 3805']
+Image url : img_353
+Total words : 88036
+---------------------------------------
+['macbook : NA', 'air : 309']
+Image url : img_352
+Total words : 88036
+---------------------------------------
+['top : 14', 'mount : 7702', 'compressor : 10960', 'primefresh : NA', '299 : NA']
+Image url : img_298
+Total words : 88036
+---------------------------------------
+['mcafee : NA', 'print : 1770', 'domain : 72813', 'print : 1770', 'domain : 72813']
+Image url : img_350
+Total words : 88036
+---------------------------------------
+['lock : 3137']
+Image url : img_357
+Total words : 88036
+---------------------------------------
+['2015 : NA', 'sale : 540', 'festive : 6589', 'courts : 7487', 'must : 2859', 'courts : 7487', 'buy : 2135', 'galaxy : 10281', 'can! : NA', 'cam : 9985']
+Image url : img_356
+Total words : 88036
+---------------------------------------
+['brate : NA', 'sony : 3148', 'sony : 3148', 'sale : 639', 'your : NA', 'year : 7410', 'end : 496', 'colourfully : NA', 'sony : 3148', 'days : 5711', '2014 : NA']
+Image url : img_355
+Total words : 88036
+---------------------------------------
+['twenty : 6370', 'everything : 3357', 'amazingly : 16418', '4g. : NA']
+Image url : img_354
+Total words : 88036
+---------------------------------------
+['story : 656', 'gain : 9772', 'city : 20']
+Image url : img_292
+Total words : 88036
+---------------------------------------
+['canon : 3904', '1299 : NA', '1249 : NA', 'nikon : 11092', 'you : NA', 'noto : NA']
+Image url : img_293
+Total words : 88036
+---------------------------------------
+['genereal : NA', 'fiction : 11703', 'dan brown : NA', 'brown : 42']
+Image url : img_359
+Total words : 88036
+---------------------------------------
+['exit : 1560', 'lobby : 886', 'classics : 38324']
+Image url : img_291
+Total words : 88036
+---------------------------------------
+['mc.2 : NA', 'style : 547']
+Image url : img_296
+Total words : 88036
+---------------------------------------
+['sleep : 1975', 'clinic : 8823', 'bedding : 1184', 'furniture : 481', 'samsung : 3006', '28.888 : NA', 'upgrade : 14493', 'and : NA', 'shopping : 540', 'eco : 7129', 'full-flat : NA', 'vouchers : 17261']
+Image url : img_297
+Total words : 88036
+---------------------------------------
+['samsung : 2766']
+Image url : img_294
+Total words : 88036
+---------------------------------------
+['ol:lo : NA', 'camera : 250', 'oppo : NA', 'the : NA', 'Unicode error', 'thinnest : 67685', 'you : NA']
+Image url : img_295
+Total words : 88036
+---------------------------------------
+['lou : 73165', 'yau : NA', '=b2-25 : NA']
+Image url : img_595
+Total words : 88036
+---------------------------------------
+['astron : NA']
+Image url : img_594
+Total words : 88036
+---------------------------------------
+['asian : 473']
+Image url : img_597
+Total words : 88036
+---------------------------------------
+['superdry. : NA', 'novope : NA', 'level1 : NA', '- #01 : NA']
+Image url : img_596
+Total words : 88036
+---------------------------------------
+['calvin : 65296', 'calvin : 65296', 'citigems : NA']
+Image url : img_591
+Total words : 88036
+---------------------------------------
+['warehouse : 2381', 'esprit : 58192', 'dbs : NA', 'rehouse : 36947']
+Image url : img_590
+Total words : 88036
+---------------------------------------
+['5years : NA', 'ramen : NA', 'ton : 3880']
+Image url : img_988
+Total words : 88036
+---------------------------------------
+['garden : 779', 'this : NA', 'lift : 1840', 'lobby : 1677', 'l12 : NA', 'serves : 2912', '#12-02 : NA', 'beer : 598']
+Image url : img_989
+Total words : 88036
+---------------------------------------
+['exceptional : 10256', 'quality : 4119']
+Image url : img_986
+Total words : 88036
+---------------------------------------
+['syears : NA', 'verandah : NA', 'ramen : NA', 'champion : 14221', 'nantsutte : NA', 'singapore : 10799']
+Image url : img_987
+Total words : 88036
+---------------------------------------
+['the : NA', 'carpark : NA', 'ramp : 504', 'exchange : 5852', 'the : NA', 'indulge : 65668', 'the : NA', 'runway : 300', 'indulge : 65668', 'the : NA', 'runway : 300', 'indulge : 65668', 'discovery : 59295', 'walk : 242', 'b-one : NA', 'the : NA', 'med : 15804', 'med : 15804', 'l12 : NA', 'l11 : NA', 'l10 : NA', 'access : 6866', 'all : NA', 'floors. : NA', 'please : 5009', 'transfer : 6993', 'level : 2325', 'roof : 960', 'garden : 757', 'roof : 960', 'garden : 757', 'carpark : NA', 'verandah : NA', 'carpark : NA', 'verandah : NA', 'carpark : NA', 'the : NA', 'ramp : 504', 'carpark : NA']
+Image url : img_984
+Total words : 88036
+---------------------------------------
+['level : 2755', 'amkisoki : NA', 'the : NA']
+Image url : img_985
+Total words : 88036
+---------------------------------------
+['snaffles : 43078', 'b2-k15 : NA']
+Image url : img_599
+Total words : 88036
+---------------------------------------
+['ztp : NA', 'koi : NA', 'snaffles : 43078']
+Image url : img_598
+Total words : 88036
+---------------------------------------
+['nds : NA', "beauty's : NA", 'beginning : 4239', 'nds : NA']
+Image url : img_980
+Total words : 88036
+---------------------------------------
+['side : 44', 'label : 3030']
+Image url : img_981
+Total words : 88036
+---------------------------------------
+['with : NA', 'sheets : 419', 'aurora : 14802', 'alpha : 4063', 'strip : 1839', 'cut : 297', 'ribbon : 1609', 's1060sb : NA', 'wastebin : NA', 'as1060sb : NA', 'alpha : 4063', 'der : NA']
+Image url : img_274
+Total words : 88036
+---------------------------------------
+['files : 4815', 'organizer : 12961']
+Image url : img_275
+Total words : 88036
+---------------------------------------
+['champion : 8110', 'approach : 2280', 'readers : 14969', 'for : NA', 'life : 1801']
+Image url : img_276
+Total words : 88036
+---------------------------------------
+['coming : 486', 'soon : 4915', 'bank : 1550', 'china : 2422']
+Image url : img_277
+Total words : 88036
+---------------------------------------
+['digi : NA', 'free : 1267', 'sound : 4801', 'jean : 4495']
+Image url : img_270
+Total words : 88036
+---------------------------------------
+['scrapbooking : NA']
+Image url : img_271
+Total words : 88036
+---------------------------------------
+['office : 433', 'equipment : 597', 'office : 433']
+Image url : img_272
+Total words : 88036
+---------------------------------------
+['acrylic : 9569', 'display : 79', 'stand : 168']
+Image url : img_273
+Total words : 88036
+---------------------------------------
+['charcoal : 8712', 'deep : 1923', 'and : NA', 'remove : 6413', 'clean : 1129', '17x : NA']
+Image url : img_173
+Total words : 88036
+---------------------------------------
+['hitachi : 16891']
+Image url : img_172
+Total words : 88036
+---------------------------------------
+['correct : 10157', 'you : NA', 'for : NA', 'travelling : NA', 'thank : 5582', 'with : NA', 'notice : 4291', 'have : NA', 'nice : 497', 'day. : NA', 'safe : 4442', 'please : 5536', 'the : NA', 'tap : 8151', 'out : NA', 'card : 1163', 'you : NA', 'sbge : NA']
+Image url : img_171
+Total words : 88036
+---------------------------------------
+['ayer : NA', 'rajah : 41145', 'ave : 448', 'keh : NA', 'engineering : 16391', 'pte : NA', 'ltd : 7409']
+Image url : img_170
+Total words : 88036
+---------------------------------------
+['healthway : NA', 'medical : 3431', 'penny : 8791', 'tan : 742', 'medical : 3431']
+Image url : img_278
+Total words : 88036
+---------------------------------------
+['hello : 2533', 'singapore : 8715']
+Image url : img_279
+Total words : 88036
+---------------------------------------
+['mrt : NA', 'commonwealth : 65126', 'ave : 2457', 'west : 3640', 'exit : 1391']
+Image url : img_175
+Total words : 88036
+---------------------------------------
+['give : 1075', 'way : 87', 'buses : 104', 'exiting : 1273']
+Image url : img_174
+Total words : 88036
+---------------------------------------
+['shops : 951', 'radiant : 85332', 'slimming : 28984', 'angle : 1962', 'yip : 72865']
+Image url : img_269
+Total words : 88036
+---------------------------------------
+['times : 5054', 'minute; : NA', 'know : 2956', 'that : NA', 'the : NA', 'you : NA', 'average : 4140', 'heart : 2099', 'adult : 323', 'beats : 5168', '100 : 4217', 'times : 5054', 'day; : NA', '36 : 4045', 'times : 5054', 'yea : 57179', 'seating : 2674', 'human : 2110', 'bdt : NA', 'expirience : NA', '#ilovesciencecentre : NA']
+Image url : img_39
+Total words : 88036
+---------------------------------------
+['has : NA', 'your : NA', 'loved : 7837', 'been : NA', 'one : 68']
+Image url : img_38
+Total words : 88036
+---------------------------------------
+['shop : 411', 'dine : 3450', 'smrt : NA', 'ice : 1687']
+Image url : img_37
+Total words : 88036
+---------------------------------------
+['employment : 61080', 'agency : 87714', 'kong : 3604', 'licence : NA', 'sing : 4469', 'no: : NA', '03c5262 : NA', 'maids : 13494', 'indonesian : 18630', 'development : 12618', 'documentation : 14244', '6825 : NA']
+Image url : img_921
+Total words : 88036
+---------------------------------------
+['henderson : 68237', 'waves : 839']
+Image url : img_35
+Total words : 88036
+---------------------------------------
+['earth : 4139', 'trail : 834']
+Image url : img_34
+Total words : 88036
+---------------------------------------
+['smoking : 1262']
+Image url : img_33
+Total words : 88036
+---------------------------------------
+['city : 4', 'singapura : NA', 'ngee : NA', 'ann : 11456', 'city : 4', 'ion : 7606', 'orchard : 3742', 'paragon : 72707', 'plaze : NA', 'raffles : 46143', 'suntec : NA', 'city : 4', 'tangs : 13279', '197 : NA', 'occitane : NA', 'provence : 79957', 'victoria : 5139']
+Image url : img_32
+Total words : 88036
+---------------------------------------
+['marigold : 36882']
+Image url : img_31
+Total words : 88036
+---------------------------------------
+['phoon : NA', 'huat : NA', 'since : 7248', '!947 : NA', 'baking : 2351', 'made : 435', 'easy : 2674', 'baking : 2351', 'made : 435', 'easy : 2674']
+Image url : img_30
+Total words : 88036
+---------------------------------------
+['skylight : 3781']
+Image url : img_186
+Total words : 88036
+---------------------------------------
+['insead : NA', 'the : NA', 'school : 207', 'world : 1143']
+Image url : img_187
+Total words : 88036
+---------------------------------------
+['sexy! : NA', 'want : 3093', 'see : 658', 'more : NA', "don't : NA", 'fall : 2573', 'for : NA', 'her : NA']
+Image url : img_184
+Total words : 88036
+---------------------------------------
+['tiong : NA', 'woon : NA', 'tower : 291', 'crane : 2649', 'pte. : NA', 'ltd. : NA']
+Image url : img_185
+Total words : 88036
+---------------------------------------
+['stop : 2']
+Image url : img_182
+Total words : 88036
+---------------------------------------
+['hump : 9260']
+Image url : img_183
+Total words : 88036
+---------------------------------------
+['joint : 2320', 'pain : 9338']
+Image url : img_180
+Total words : 88036
+---------------------------------------
+['walking : 117', 'within : 1700', 'bus : 79', 'park : 38']
+Image url : img_181
+Total words : 88036
+---------------------------------------
+['giorda : NA']
+Image url : img_541
+Total words : 88036
+---------------------------------------
+['psi : 11271']
+Image url : img_188
+Total words : 88036
+---------------------------------------
+['mania : 63366']
+Image url : img_189
+Total words : 88036
+---------------------------------------
+['sale : 754', 'promod : NA', 'now! : NA', '-70% : NA']
+Image url : img_771
+Total words : 88036
+---------------------------------------
+['sale : 747']
+Image url : img_770
+Total words : 88036
+---------------------------------------
+['lora : 43457', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'sale : 676', 'ale : 7409', 'sal : 12738', 'ale : 7409', 'sal : 12738', 'sale : 676', 'ale : 7409', 'ale : 7409']
+Image url : img_773
+Total words : 88036
+---------------------------------------
+['exit : 1894', 'b1/b3 : NA', 'zara : 13645', 'topshop : NA', 'uniqlo : NA', 'zalora : NA']
+Image url : img_772
+Total words : 88036
+---------------------------------------
+['lobby : 1275', 'uniqlo : NA', 'topshop : NA']
+Image url : img_775
+Total words : 88036
+---------------------------------------
+['zara : 16435']
+Image url : img_774
+Total words : 88036
+---------------------------------------
+['kurt : 6178', 'geiger : 69540']
+Image url : img_777
+Total words : 88036
+---------------------------------------
+['latina : 11912']
+Image url : img_922
+Total words : 88036
+---------------------------------------
+['1/2 : NA', 'price : 1851', 'sale : 909']
+Image url : img_779
+Total words : 88036
+---------------------------------------
+['dior : 20428']
+Image url : img_778
+Total words : 88036
+---------------------------------------
+['market : 364', 'vitality : 35638', 'court : 438', 'podi : NA']
+Image url : img_672
+Total words : 88036
+---------------------------------------
+['ane : NA', 'swatch : 15134', 'robinsons : NA', 'sale : 731']
+Image url : img_673
+Total words : 88036
+---------------------------------------
+['bossini : NA']
+Image url : img_385
+Total words : 88036
+---------------------------------------
+['all : NA', 'blouses : 11949', '$1990 : NA', 'sant : NA']
+Image url : img_675
+Total words : 88036
+---------------------------------------
+['dbs : NA', 'giant : 920', 'toast : 2215', 'food : 43']
+Image url : img_676
+Total words : 88036
+---------------------------------------
+['foodrepublic : NA', 'town : 559']
+Image url : img_677
+Total words : 88036
+---------------------------------------
+['harland : NA', 'tast : NA']
+Image url : img_426
+Total words : 88036
+---------------------------------------
+['joy : 7684', 'joy : 7684', 'love : 2235']
+Image url : img_421
+Total words : 88036
+---------------------------------------
+["men's : NA", 'hair : 507', 'care : 2129', 'gorg : NA']
+Image url : img_420
+Total words : 88036
+---------------------------------------
+['ramenplay : NA']
+Image url : img_424
+Total words : 88036
+---------------------------------------
+['restaurant : 255', 'kabayan : NA', 'filipino : 34937', 'restaurant : 255', 'pte : NA', 'ltd : 5046', 'filipino : 34937', 'kabayan : NA', 'restaurant : 255']
+Image url : img_931
+Total words : 88036
+---------------------------------------
+['saladworks : NA', 'sale : 857', 'fre : NA']
+Image url : img_386
+Total words : 88036
+---------------------------------------
+['pastamania! : NA']
+Image url : img_549
+Total words : 88036
+---------------------------------------
+['"we : NA', 'insurance : 33350', '154 : NA', 'redefining : 38483', 'more : NA', 'than : NA', 'manage : 13638', 'claims. : NA', 'also : 1137', 'help : 2398', 'rebuild : 28788', 'lives." : NA']
+Image url : img_201
+Total words : 88036
+---------------------------------------
+['thaiexpress : NA']
+Image url : img_634
+Total words : 88036
+---------------------------------------
+['crate : 1590', 'barrel : 3940', 'oaks : 16205']
+Image url : img_839
+Total words : 88036
+---------------------------------------
+['marks : 3359', 'spencer : 50630', 'cathay : 17081', 'jem : NA', 'park : 191', 'food : 141', 'court : 395']
+Image url : img_391
+Total words : 88036
+---------------------------------------
+['saladstop! : NA', 'square : 446']
+Image url : img_635
+Total words : 88036
+---------------------------------------
+['uob : NA', 'sale : 1165', 'ons : NA']
+Image url : img_390
+Total words : 88036
+---------------------------------------
+['citylink : NA']
+Image url : img_636
+Total words : 88036
+---------------------------------------
+['yourself : NA', 'creative : 5872', 'tokyu : NA', 'hands : 435']
+Image url : img_982
+Total words : 88036
+---------------------------------------
+['look : 313', 'out : NA', 'for : NA', 'brand : 3701', 'new : 789', 'retail : 2039', 'wing : 1358', 'and : NA', 'shopping : 806', 'options : 6159', 'your : NA', 'way : 230']
+Image url : img_637
+Total words : 88036
+---------------------------------------
+['holland : 14209', 'exit : 1630', 'sasa : NA', 'make-up : NA']
+Image url : img_863
+Total words : 88036
+---------------------------------------
+['sale : 884', '12.50 : NA', 'smokin : NA', 'bbq : 4421', 'chicken : 1009', 'arrival : 6871', 'good : 1324']
+Image url : img_387
+Total words : 88036
+---------------------------------------
+['body : 385', 'shop : 491', "it's : NA", 'big : 122', 'the : NA', 'sale : 853']
+Image url : img_630
+Total words : 88036
+---------------------------------------
+['limited : 5350', 'edition : 8656', 'monthly : 80333', 'calendar : 4466', 'poster : 1243', 'collect : 8938']
+Image url : img_862
+Total words : 88036
+---------------------------------------
+['kissjane : NA']
+Image url : img_631
+Total words : 88036
+---------------------------------------
+['arm : 922', 'looked : 7256', 'hot : 128', 'colum : NA', 'minx : 39206']
+Image url : img_689
+Total words : 88036
+---------------------------------------
+['fipper : NA', 'feel : 8580', 'the : NA', 'rubber! : NA']
+Image url : img_632
+Total words : 88036
+---------------------------------------
+['outhaven : NA']
+Image url : img_633
+Total words : 88036
+---------------------------------------
+['killney : NA', 'boad : NA', 'orchard : 4784', 'road : 31', 'lifts : 4912', 'serve : 2054', 'l10. : NA', 'access : 14663', 'levels : 3037', '11/12 : NA', 'please : 8368', 'transfer : 7148', 'levels : 3037', 'b2/1/4/7/9 : NA', 'case : 353', 'approach : 2484', 'concierge : 25358', 'level : 2044', 'orse : NA', 'not : NA', 'use : 764', 'lift. : NA', 'b-one : NA', 'the : NA', 'med : 16400']
+Image url : img_983
+Total words : 88036
+---------------------------------------
+['the : NA', 'month : 13997', 'wines : 2238', 'win : 7571']
+Image url : img_959
+Total words : 88036
+---------------------------------------
+["victoria's : NA", 'secret : 12871', 'secret : 12871', "victoria's : NA", 'secr : NA']
+Image url : img_399
+Total words : 88036
+---------------------------------------
+['20% : NA', '40% : NA', 'criss : NA', 'cross : 434', 'lifestyle : 54524', 'streetwise. : NA', 'latest : 5838', 'collection : 602']
+Image url : img_380
+Total words : 88036
+---------------------------------------
+['rage : 9028', 'sale : 981', '50% : NA', 'free : 903']
+Image url : img_955
+Total words : 88036
+---------------------------------------
+['green : 42', 'life : 1539', 'shaklee : NA']
+Image url : img_954
+Total words : 88036
+---------------------------------------
+['bakery : 1260', '100 : 3524']
+Image url : img_957
+Total words : 88036
+---------------------------------------
+['storage : 1031', 'people : 2', 'the : NA', 'fresh : 543', 'food : 40', 'cold : 1493', 'cheese : 368', 'new : 634', 'make : 1011', 'own : NA']
+Image url : img_956
+Total words : 88036
+---------------------------------------
+['ion : 3265']
+Image url : img_951
+Total words : 88036
+---------------------------------------
+['cans : 2954', 'tras : NA', 'recycle : 9381', 'lastic : NA', 'ans : 10384', 'here : NA']
+Image url : img_950
+Total words : 88036
+---------------------------------------
+['body : 458', 'shop : 558', '01-62 : NA', 'the : NA', 'free : 1936', 'new : 974', 'location : 3450', 'new : 974']
+Image url : img_953
+Total words : 88036
+---------------------------------------
+['sensitiv : NA', 'spring : 2923', 'water : 68', 'thermal : 55831', 'natural : 2684', 'avente : NA', 'active : 3525', 'efficacy : 74672', 'proven : 61689', 'for : NA']
+Image url : img_952
+Total words : 88036
+---------------------------------------
+['mimosa : 10815', 'sale : 782']
+Image url : img_520
+Total words : 88036
+---------------------------------------
+['skylight : 2967', 'channel : 7859', 'premium : 11435', 'gifts : 3296', 'skylight : 2967', 'skylight : 2967', '2014 : NA']
+Image url : img_202
+Total words : 88036
+---------------------------------------
+['100 : 3411', 'cheese : 195']
+Image url : img_958
+Total words : 88036
+---------------------------------------
+['denizen : 79724', 'aurora : 11510']
+Image url : img_521
+Total words : 88036
+---------------------------------------
+['hitachi : 16370']
+Image url : img_200
+Total words : 88036
+---------------------------------------
+['shu : NA', 'shu : NA', 'shu : NA']
+Image url : img_780
+Total words : 88036
+---------------------------------------
+['ody : NA', 'sale : 902', 'exit : 1575', 'uni : 10108', 'qlo : NA']
+Image url : img_781
+Total words : 88036
+---------------------------------------
+['the : NA', 'body : 376', 'shop : 554', 'b2-40/41 : NA', 'sale : 1184', "it's : NA", 'big : 142', 'and : NA', "it's : NA", 'sale : 1184', 'uemura : NA']
+Image url : img_782
+Total words : 88036
+---------------------------------------
+['american : 1584', 'express : 1794']
+Image url : img_783
+Total words : 88036
+---------------------------------------
+['armani : 23478', 'exchange : 4132', 'g-star : NA', 'calvin : 65296', 'klein : 36242', 'jeans : 1644', 'bread : 621', 'butter : 1633', 'true : 7453', 'sale : 548']
+Image url : img_784
+Total words : 88036
+---------------------------------------
+['moleskine : NA', 'moleskine : NA']
+Image url : img_785
+Total words : 88036
+---------------------------------------
+['sale : 622', 'exit : 1444']
+Image url : img_786
+Total words : 88036
+---------------------------------------
+['swarovski : NA']
+Image url : img_787
+Total words : 88036
+---------------------------------------
+['swarovski : NA', 'orchard : 7443', 'hat : 277']
+Image url : img_788
+Total words : 88036
+---------------------------------------
+['orchard : 5629', 'mrt : NA', 'ion : 6496', 'paterson : 22557', 'link : 3069']
+Image url : img_789
+Total words : 88036
+---------------------------------------
+['1kg : NA', 'body : 492', 'xndo : NA', 'free : 1394', 'free : 1394', 'shee : NA', 'kimio : NA', 'blanc : NA', 'lose : 10129', 'composition : 16271']
+Image url : img_410
+Total words : 88036
+---------------------------------------
+['east : 2306', 'west : 1865', 'line : 114', 'sleeper : 5041']
+Image url : img_212
+Total words : 88036
+---------------------------------------
+['bank : 1507', 'ocbc : NA', 'service : 904']
+Image url : img_412
+Total words : 88036
+---------------------------------------
+['challenger : 20010', 'electrical : 1900', 'cables : 3225', 'cables : 3225']
+Image url : img_351
+Total words : 88036
+---------------------------------------
+['optical88 : NA', 'rumah : NA', 'sayan : NA']
+Image url : img_414
+Total words : 88036
+---------------------------------------
+['140 : NA', 'off : NA', 'off : NA', 'vichy : 47867', '50% : NA', 'beauty : 3399', '50% : NA', 'care : 2161', '50% : NA', 'off : NA', 'eucerin : NA']
+Image url : img_415
+Total words : 88036
+---------------------------------------
+['save : 7324', 'save : 7324', 'now! : NA']
+Image url : img_416
+Total words : 88036
+---------------------------------------
+['shooting : 3143', 'ready : 219', 'the : NA', 'world : 1751', 'www.ite.edu.sg : NA', 'for : NA', 'award : 3328', 'Unicode error', 'for : NA', 'success : 87071', 'quality : 5510']
+Image url : img_213
+Total words : 88036
+---------------------------------------
+['tois : NA', 'care : 1885', 'bright : 414', 'smile : 1039', 'feminine : 7725', 'mum : 23898', 'pharmacy : 7069', 'mum : 23898', 'mum : 23898', 'tois : NA', 'tols : NA', 'sale! : NA']
+Image url : img_418
+Total words : 88036
+---------------------------------------
+['tots : 7760', 'mum : 23898', 'mum : 23898', 'tots : 7760', 'mum : 23898']
+Image url : img_419
+Total words : 88036
+---------------------------------------
+['louis : 5161', 'vuitton : 7252', 'prada : 26095']
+Image url : img_823
+Total words : 88036
+---------------------------------------
+['harry : 6914', 'winston : 74984']
+Image url : img_822
+Total words : 88036
+---------------------------------------
+['dolce : NA', 'gabbana : NA']
+Image url : img_825
+Total words : 88036
+---------------------------------------
+['mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mentos : NA', 'mento : NA']
+Image url : img_669
+Total words : 88036
+---------------------------------------
+['furla : NA', 'ion : 7336', 'furla : NA']
+Image url : img_827
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_826
+Total words : 88036
+---------------------------------------
+['singtel : NA']
+Image url : img_559
+Total words : 88036
+---------------------------------------
+['the : NA', 'dressing : 3595', 'salon : 3911', '2070 : NA']
+Image url : img_558
+Total words : 88036
+---------------------------------------
+['sale : 801', 'many : 98', 'items : 238', '70% : NA', 'off : NA', 'topman : NA', 'com : 4822']
+Image url : img_668
+Total words : 88036
+---------------------------------------
+['long : 107', 'day : 190', 'french : 1949', 'bread : 1044', 'all : NA']
+Image url : img_551
+Total words : 88036
+---------------------------------------
+['citylink : NA']
+Image url : img_740
+Total words : 88036
+---------------------------------------
+['ritzbo : NA', 'mid : 579']
+Image url : img_553
+Total words : 88036
+---------------------------------------
+['sale : 717', 'mid : 1636', 'sale : 717']
+Image url : img_552
+Total words : 88036
+---------------------------------------
+['bank : 1652', 'hungry? : NA', 'biggie. : NA', 'big : 137', 'breakfast : 579', 'glitter : 71229', 'glam : 16344']
+Image url : img_555
+Total words : 88036
+---------------------------------------
+['2.35 : NA', '2.50 : NA', 'bank : 1202', 'ocbc : NA', 'bank : 1202', 'breakfast : 1487']
+Image url : img_554
+Total words : 88036
+---------------------------------------
+['nailz : NA', 'vino : 49400', 'salon : 3119']
+Image url : img_557
+Total words : 88036
+---------------------------------------
+['glitter : 71229', 'glam : 17045']
+Image url : img_556
+Total words : 88036
+---------------------------------------
+['skylight : 1781']
+Image url : img_238
+Total words : 88036
+---------------------------------------
+['dover : 65785', 'onsir : NA', 'ayer : NA', 'rajah : 41145', 'ave : 1157', 'ave : 1157', 'mmonwealth : NA', 'and : NA']
+Image url : img_239
+Total words : 88036
+---------------------------------------
+['covenant : 80874', 'fsc : NA']
+Image url : img_71
+Total words : 88036
+---------------------------------------
+["there's : NA", 'always : 3173', 'time : 404', 'chill : 9428', 'new : 697', 'seasons : 87134']
+Image url : img_70
+Total words : 88036
+---------------------------------------
+['hiva : NA', 'great : 1029', 'grans : 20716', 'plain : 1044', 'caution : 3089', 'plain : 1044', 'plain : 1044', 'panadol : NA', 'panadol : NA']
+Image url : img_77
+Total words : 88036
+---------------------------------------
+['get : 436', 'more! : NA', 'members : 2967', 'watsons : NA', 'points : 2303', 'redeeme : NA', 'great : 568', 'touch : 3077', 'mooth : NA']
+Image url : img_76
+Total words : 88036
+---------------------------------------
+['east : 5689', 'west : 4022', 'line : 321']
+Image url : img_75
+Total words : 88036
+---------------------------------------
+['top : 20']
+Image url : img_74
+Total words : 88036
+---------------------------------------
+['beware : 4020', 'teps : NA']
+Image url : img_230
+Total words : 88036
+---------------------------------------
+['gap : 1756', 'platform : 199', 'please : 4516', 'mind : 5216', 'the : NA', 'platform : 199']
+Image url : img_231
+Total words : 88036
+---------------------------------------
+['prepaid : 26365', 'sold : 1124', 'telecom : NA', 'here! : NA', 'pop : 5632']
+Image url : img_232
+Total words : 88036
+---------------------------------------
+['sale : 692', 'topshop : NA', 'exit : 1435', 'topshop : NA', 'zara : 16502', 'lobby a : NA', 'topshop : NA', 'topman : NA']
+Image url : img_743
+Total words : 88036
+---------------------------------------
+['overpass : 2211', 'use : 1250']
+Image url : img_234
+Total words : 88036
+---------------------------------------
+['better : 6230', 'bag : 257', 'down : NA', 'reserved : 9942', 'for : NA', 'caution : 5080', 'keep : 2864', 'clear : 586', 'doors : 409', 'ride : 345', '4-hr : NA']
+Image url : img_235
+Total words : 88036
+---------------------------------------
+['better : 8117', 'matching : 1490', 'salary : 64701', 'matching : 1490', 'view : 62', 'jobs : 7272', 'jobstreet.com : NA', 'salary : 64701', 'for : NA', 'things : 504', 'life : 1249', 'first : 1949', 'south : 4875', 'east : 4287', 'asia : 4402']
+Image url : img_236
+Total words : 88036
+---------------------------------------
+['wildlife : 3332', 'experience : 7884', 'ultimate : 4988', 'parks : 4466', 'price : 1376']
+Image url : img_237
+Total words : 88036
+---------------------------------------
+['presious : NA', 'thots : NA']
+Image url : img_663
+Total words : 88036
+---------------------------------------
+["victoria's : NA", 'secret : 15034', 'sale : 694', 'aldo : 45925', 'ldo : NA']
+Image url : img_662
+Total words : 88036
+---------------------------------------
+['full-time : NA', 'par : 10953', 'gho : NA', 'cha : NA', 'gong : 6020']
+Image url : img_582
+Total words : 88036
+---------------------------------------
+['geox : NA']
+Image url : img_81
+Total words : 88036
+---------------------------------------
+['reader" : NA', 'the : NA', 'exit : 1688', 'side-gate : NA', 'residents : 12206', '"scan" : NA', 'dear : 8207', 'your : NA', 'access : 10520', 'card : 1224', '"card : NA', 'the : NA', 'right : 605', 'hand : 86', 'side : 20', 'the : NA', 'wall : 93', 'and : NA', 'open : 64', 'gate. : NA']
+Image url : img_193
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_735
+Total words : 88036
+---------------------------------------
+['$1.50 : NA']
+Image url : img_734
+Total words : 88036
+---------------------------------------
+['docker : 73613']
+Image url : img_737
+Total words : 88036
+---------------------------------------
+['blouses : 11057', 'all : NA', 'ant : 9131']
+Image url : img_736
+Total words : 88036
+---------------------------------------
+['city : 63', 'dine : 6767', 'esplanade : 14217', 'hall : 2139', 'the : NA']
+Image url : img_731
+Total words : 88036
+---------------------------------------
+['system : 1661', 'map : 3919']
+Image url : img_730
+Total words : 88036
+---------------------------------------
+['flight : 1176']
+Image url : img_733
+Total words : 88036
+---------------------------------------
+['shoppes : 25978', 'the : NA', 'more : NA', 'discover : 51610', 'marina : 1183', 'san : 3434', 'ingapo : NA']
+Image url : img_704
+Total words : 88036
+---------------------------------------
+['warehous : NA', 'hello : 2677', '2015! : NA', '$30 : NA', 'off : NA']
+Image url : img_667
+Total words : 88036
+---------------------------------------
+['denizen : 79724', 'sale : 707', 'off : NA', 'sal : 14352']
+Image url : img_739
+Total words : 88036
+---------------------------------------
+['connection : 5947', 'denizen : 79724']
+Image url : img_738
+Total words : 88036
+---------------------------------------
+['sale : 832', '70% : NA', 'secret : 14073', "a's : NA"]
+Image url : img_666
+Total words : 88036
+---------------------------------------
+['concierge@l3 : NA', 'osaka : 35744', 'ohsho : NA']
+Image url : img_308
+Total words : 88036
+---------------------------------------
+['custom : 2476', 'yours : NA', 'make : 1035']
+Image url : img_309
+Total words : 88036
+---------------------------------------
+['sale : 722', 'sale : 722', 'sale : 722']
+Image url : img_583
+Total words : 88036
+---------------------------------------
+['iiaoiiao : NA']
+Image url : img_304
+Total words : 88036
+---------------------------------------
+['wing : 2291', 'it. : NA', 'proof : 7114', 'intense : 6221', 'colour : 27784', 'smudge : 75064', 'browhaus : NA', 'ust : 69429']
+Image url : img_305
+Total words : 88036
+---------------------------------------
+['papparich : NA', 'ryoshi : NA']
+Image url : img_306
+Total words : 88036
+---------------------------------------
+['island : 1769', 'admissions : 66687', 'and : NA', 'unlimited : 13521', 'privileges! : NA', '25! : NA', 'enjoy : 1584', 'here : NA']
+Image url : img_525
+Total words : 88036
+---------------------------------------
+['rowente : NA', 'rowente : NA', 'philips : 4226', 'rowenta : NA', 'philips : 4226', 'gom : NA']
+Image url : img_300
+Total words : 88036
+---------------------------------------
+['yoga : 5287', 'lenovo : NA', 'lenovo : NA', '1099 : NA', '999 : NA', 'office : 126']
+Image url : img_301
+Total words : 88036
+---------------------------------------
+['digital : 2637', 'style : 526']
+Image url : img_302
+Total words : 88036
+---------------------------------------
+['new : 848', "york' : NA"]
+Image url : img_303
+Total words : 88036
+---------------------------------------
+['shop : 539', 'dorothy : 16457', 'perkins : 36911', 'online : 7525', '24/7 : NA', 'asia : 4205']
+Image url : img_124
+Total words : 88036
+---------------------------------------
+['star : 1916', 'mitsubishi : 10585', 'electric : 820']
+Image url : img_125
+Total words : 88036
+---------------------------------------
+['pric : NA', '$24 : NA', 'bird : 388', 'park : 130', 'night : 206', 'sinagpore : NA', 'river : 433', 'sav : 79656', '5367 : NA', 'safa : NA', 'safa : NA', 'holland : 15281']
+Image url : img_126
+Total words : 88036
+---------------------------------------
+['kun : NA', 'toastwich : NA']
+Image url : img_127
+Total words : 88036
+---------------------------------------
+['(usp) : NA', 'auditorium : 4833', 'resource : 35326', 'centre : 2109', 'town : 279', 'education : 14839', 'green : 44', 'create : 8089', 'utown : NA', 'residence : 3834', 'tembusu : NA', 'college : 4354', 'cinnamon : 4364', 'college : 4354', 'town : 279', 'plaza : 1707', 'seminar : 11506', 'rooms : 5448', '1-12 : NA', 'town : 279', 'plaza : 1707', 'research : 6231', 'wing : 1555', 'create : 8089', 'tower : 164', 'lobby : 2321']
+Image url : img_120
+Total words : 88036
+---------------------------------------
+['slow : 800', 'slow : 800']
+Image url : img_121
+Total words : 88036
+---------------------------------------
+['centre : 1928', 'sbs : NA', 'service : 1656', 'town : 401', 'passanger : NA', 'clementi : NA', 'ave : 1620', 'passenger : 379']
+Image url : img_122
+Total words : 88036
+---------------------------------------
+['#10-12 : NA', 'connexis : NA', 'tower : 295', 'l10 : NA', '#10-10 : NA', 'north : 5075', '#10-15 : NA']
+Image url : img_123
+Total words : 88036
+---------------------------------------
+['evottica : NA', '149 : NA', 'nanoflex : NA', 'touch : 3542']
+Image url : img_868
+Total words : 88036
+---------------------------------------
+['get : 663', 'fit : 2162', 'rewards : 17325']
+Image url : img_128
+Total words : 88036
+---------------------------------------
+['connexis : NA', 'north : 3253', 'tower : 255']
+Image url : img_129
+Total words : 88036
+---------------------------------------
+['world : 1410', 'sports : 1035', 'vip : 80032']
+Image url : img_290
+Total words : 88036
+---------------------------------------
+['sakae : NA', 'sushi : 1814']
+Image url : img_674
+Total words : 88036
+---------------------------------------
+['cha : NA']
+Image url : img_706
+Total words : 88036
+---------------------------------------
+['i2r : NA']
+Image url : img_178
+Total words : 88036
+---------------------------------------
+['than : NA', 'any : NA', 'rebate : 73555', 'more : NA', 'stores : 783', 'enjoy : 1545', 'other : NA', 'card : 1818', 'retail : 1420', 'brands : 8098', 'ills : 38582']
+Image url : img_896
+Total words : 88036
+---------------------------------------
+['rebajas : NA', 'sal : 15383', 'rasproda : NA']
+Image url : img_801
+Total words : 88036
+---------------------------------------
+['the : NA', 'world : 1490', 'delight : 4323', 'here. : NA', '$$120 : NA', 'uob : NA', 'joy : 7639']
+Image url : img_601
+Total words : 88036
+---------------------------------------
+['week : 14033', '1kg : NA', 'my4 : NA', 'lose : 10971', 'simple : 2965', 'steps : 759']
+Image url : img_600
+Total words : 88036
+---------------------------------------
+['compare! : NA']
+Image url : img_603
+Total words : 88036
+---------------------------------------
+['dare : 70890', 'comparel : NA']
+Image url : img_602
+Total words : 88036
+---------------------------------------
+['value : 8602', 'buy : 2125', '4.20 : NA', '3.15 : NA', '3.15 : NA']
+Image url : img_605
+Total words : 88036
+---------------------------------------
+['flowers : 163', 'cut : 445']
+Image url : img_604
+Total words : 88036
+---------------------------------------
+['value : 12459', 'ice : 894', 'cubes : 7191', 'cubes : 7191']
+Image url : img_607
+Total words : 88036
+---------------------------------------
+['rand : 41421', 'low : 955', 'prices : 6607', 'daily : 3803', 'cubes : 6639']
+Image url : img_606
+Total words : 88036
+---------------------------------------
+['drinks : 382', 'ice : 1166', 'cubes : 7340', 'dha : NA']
+Image url : img_609
+Total words : 88036
+---------------------------------------
+['for : NA', "wall's : NA", 'wall : 71']
+Image url : img_608
+Total words : 88036
+---------------------------------------
+['jixiang : NA', 'zhai : NA']
+Image url : img_707
+Total words : 88036
+---------------------------------------
+['tnling : NA']
+Image url : img_219
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_688
+Total words : 88036
+---------------------------------------
+['jbrand : NA', 'john : 4687', 'tenry : NA', 'blue : 36', "joe's : NA", 'denham : NA', 'kuro : NA', 'the : NA', 'strike : 4225', 'prps : NA', 'hydrogen : 11720', 'replay : 55317']
+Image url : img_800
+Total words : 88036
+---------------------------------------
+['dior : 20428', '(i) : NA']
+Image url : img_745
+Total words : 88036
+---------------------------------------
+['heatwave : 58379', 'et 1 : NA', 'roe : 24145']
+Image url : img_389
+Total words : 88036
+---------------------------------------
+['hebe : 45965', 'worth : 15391', 'waiting : 161', 'for : NA', 'sale : 725', 'the : NA', 'here : NA', 'ocbc : NA', 'all : NA', 'round : 582', 'sale : 725', 'ban : 5300']
+Image url : img_898
+Total words : 88036
+---------------------------------------
+['hubl : NA', 'mardin : NA']
+Image url : img_716
+Total words : 88036
+---------------------------------------
+['geox : NA', 'sale : 536']
+Image url : img_746
+Total words : 88036
+---------------------------------------
+['zara : 17040']
+Image url : img_748
+Total words : 88036
+---------------------------------------
+['discover : 51610', 'more : NA', 'crocs : NA', 'pore! : NA']
+Image url : img_683
+Total words : 88036
+---------------------------------------
+['optical 88 : NA']
+Image url : img_422
+Total words : 88036
+---------------------------------------
+['sale : 873', 'ebate : NA', 'here : NA', 'all : NA', 'year : 7828', 'round : 644']
+Image url : img_897
+Total words : 88036
+---------------------------------------
+['motherswork : NA']
+Image url : img_682
+Total words : 88036
+---------------------------------------
+['marks : 675', 'off : NA', 'sale : 886']
+Image url : img_906
+Total words : 88036
+---------------------------------------
+['more : NA', 'shops : 1139', 'geiger : 69540', 'kurt : 5958', 'london : 785']
+Image url : img_747
+Total words : 88036
+---------------------------------------
+['$100 : NA', 'off! : NA', 'alexis : 36866']
+Image url : img_904
+Total words : 88036
+---------------------------------------
+['metro : 1284']
+Image url : img_905
+Total words : 88036
+---------------------------------------
+['marks : 2348', 'spencer : 50630', 'sale : 491']
+Image url : img_902
+Total words : 88036
+---------------------------------------
+['sale : 741']
+Image url : img_903
+Total words : 88036
+---------------------------------------
+['chloe : 31497', 'love : 1634', 'story : 1419', 'chloe : 31497']
+Image url : img_900
+Total words : 88036
+---------------------------------------
+['topman : NA', 'brooks : 8723', 'sal : 16213', 'sale : 784', 'ite : NA', 'pbothers : NA', 'topshop : NA', 'sale : 784', 'sale : 784', 'many : 49']
+Image url : img_901
+Total words : 88036
+---------------------------------------
+['grand : 2641', 'ale : 9231', 'h2o : NA', 'h2o : NA', 'hollk : NA', 'grand : 2641', 'sale : 824', 'sale : 824']
+Image url : img_865
+Total words : 88036
+---------------------------------------
+['the : NA', 'skin : 4832', 'studio : 2430', 'setan : NA']
+Image url : img_864
+Total words : 88036
+---------------------------------------
+['sale : 621', 'sale : 621', 'grand : 2688', 'grand : 2688', 'anniversary : 7540', 'sale : 621', 'sale : 621']
+Image url : img_867
+Total words : 88036
+---------------------------------------
+['grand : 3134', 'anniversary : 6966', 'grand : 3134', 'anniversary : 6966', 'sale : 491', 'sale : 491', 'sale : 491', 'sale : 491', 'grand : 3134', 'grand : 3134', 'sale : 491']
+Image url : img_866
+Total words : 88036
+---------------------------------------
+['garrett : 5938', 'thefacesho : NA', 'limited : 3743', 'eddition : NA', 'calendar : 6456', 'collect : 7681']
+Image url : img_861
+Total words : 88036
+---------------------------------------
+['rebate : 73555', 'bank : 1480', 'ocbc : NA', 'jose : 55002', 'eber : NA', 'year : 4773', 'stores : 973']
+Image url : img_860
+Total words : 88036
+---------------------------------------
+['coast : 5054', 'london : 972']
+Image url : img_908
+Total words : 88036
+---------------------------------------
+['70% : NA', 'sale : 774', 'aldo : 45925']
+Image url : img_909
+Total words : 88036
+---------------------------------------
+['jay : 9731', 'gee : 22230', 'card : 1519', 'members : 2692', 'get : 560', 'more : NA', 'get : 560', 'your : NA', '$150 : NA', 'voucher : 77138']
+Image url : img_519
+Total words : 88036
+---------------------------------------
+['giordano : 54609', 'silver : 244', 'cotton : 4382']
+Image url : img_518
+Total words : 88036
+---------------------------------------
+['japan : 2699', 'home : 411']
+Image url : img_515
+Total words : 88036
+---------------------------------------
+['cache : 52216', 'cache : 52216', 'cache : 52216', 'cocho : NA', 'cache : 52216']
+Image url : img_514
+Total words : 88036
+---------------------------------------
+['new : 692', 'best : 3059', 'buy : 1357', '$428 : NA', '$71 : NA']
+Image url : img_517
+Total words : 88036
+---------------------------------------
+['poh : NA', 'heng : NA']
+Image url : img_516
+Total words : 88036
+---------------------------------------
+['1998 : NA', '1098 : NA', '1398 : NA', '2298 : NA', '949 : NA', '2198 : NA', '7698 : NA', '1gbps : NA', 'asus : NA', 'asus : NA', '1249 : NA']
+Image url : img_511
+Total words : 88036
+---------------------------------------
+['2198 : NA', '299 : NA', '769 : NA', 'samsung : 2077', '1249 : NA', 'samsung : 2077', '1098 : NA', '199 : NA', 'acer : 9047', '2298 : NA', '1398 : NA', '1198 : NA']
+Image url : img_510
+Total words : 88036
+---------------------------------------
+['sharp : 2567', 'aquos : NA', 'mrbt : NA', 'arp : NA']
+Image url : img_513
+Total words : 88036
+---------------------------------------
+['samsung : 2102', 'gerator : NA', 'son : 1495']
+Image url : img_512
+Total words : 88036
+---------------------------------------
+['connexis : NA']
+Image url : img_261
+Total words : 88036
+---------------------------------------
+['tops : 1351', '19.90 : NA']
+Image url : img_741
+Total words : 88036
+---------------------------------------
+['wild : 781', 'aurora : 7081']
+Image url : img_340
+Total words : 88036
+---------------------------------------
+['50% : NA', 'off : NA', 'pandora : 66111']
+Image url : img_341
+Total words : 88036
+---------------------------------------
+['basement : 5161', 'shops : 706', 'coco : 7790', 'saturday : 4275', 'gourmet : 2610', 'paradise : 11358']
+Image url : img_342
+Total words : 88036
+---------------------------------------
+['mango : 7984', 'pass : 811', 'paul : 7784', 'paul : 7784', 'dollar : 3009']
+Image url : img_343
+Total words : 88036
+---------------------------------------
+['cathay : 16850']
+Image url : img_344
+Total words : 88036
+---------------------------------------
+["santa's : NA", 'cinaways : NA']
+Image url : img_345
+Total words : 88036
+---------------------------------------
+['accessories : 1482', 'blogshopping : NA', 'buffet : 1236']
+Image url : img_346
+Total words : 88036
+---------------------------------------
+['jam : 3301', 'giftaways : NA', 'xtreme : NA']
+Image url : img_347
+Total words : 88036
+---------------------------------------
+['murdoch : 87471', 'multiply : 86587', 'routes : 3529', 'imod : NA', 'success : 87071', 'with : NA', 'double : 148', 'Unicode error', 'choice : 6125', 'university : 6302', 'ars : NA']
+Image url : img_260
+Total words : 88036
+---------------------------------------
+['back : 129', 'school : 545', 'sales : 4638']
+Image url : img_349
+Total words : 88036
+---------------------------------------
+['shu : NA', 'shu : NA', 'shu : NA', 'shu : NA', 'shu : NA', 'uemura : NA', 'shu : NA', 'shu : NA', 'shu : NA', 'shu : NA', 'shu : NA']
+Image url : img_742
+Total words : 88036
+---------------------------------------
+['health : 6230', 'beauty : 3470', 'are : NA']
+Image url : img_334
+Total words : 88036
+---------------------------------------
+['joy : 8110', 'booth : 1164']
+Image url : img_469
+Total words : 88036
+---------------------------------------
+['moving : 421', 'moving : 421', 'uui : NA', 'new : 675', 'out : NA', 'sale : 850', 'moving : 421', 'out : NA', 'sale : 850']
+Image url : img_348
+Total words : 88036
+---------------------------------------
+['brenner : 86185', 'chocolate : 274', 'bar : 52', 'max : 10264']
+Image url : img_580
+Total words : 88036
+---------------------------------------
+['toss : 6620', 'turn : 533', 'toss : 6620']
+Image url : img_581
+Total words : 88036
+---------------------------------------
+['love : 1445', 'free : 1168', 'scan : 16291', 'life : 1333', 'chi : 58468', 'spinal : 51306', 'spinal : 51306', 'scan : 16291']
+Image url : img_586
+Total words : 88036
+---------------------------------------
+['chiropractic: : NA', 'live : 2309', 'the : NA', 'life : 1345', "you'd : NA", 'love : 1743', 'live. : NA']
+Image url : img_587
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_584
+Total words : 88036
+---------------------------------------
+['vivomart : NA']
+Image url : img_585
+Total words : 88036
+---------------------------------------
+['vacancy : 80763', 'grisham : NA', 'john : 3043', 'charlie : 4933', 'higson : NA', 'hunted : 60253', 'charlie : 4933', 'higson : NA', 'hunted : 60253', 'enovo : NA', 'way : 127', 'lenovo : NA', 'way : 127', 'nelson : 6529', 'demille : NA', 'quest : 13431', 'mille : NA', 'fst : NA', 'rowling : 9413', 'j.k. : NA', 'rowling : 9413', 'casual : 4674', 'gray : 369', 'mountain : 448', 'rosie : 75767', 'uniain : NA', 'ray : 6650']
+Image url : img_461
+Total words : 88036
+---------------------------------------
+['year : 6980', 'new : 684', 'new : 684', 'beginning : 3988', 'inspired : 4773', 'motivated : 82417', 'lego : 2019', 'joo : NA']
+Image url : img_460
+Total words : 88036
+---------------------------------------
+['lifestyle : 54524', 'filofax : 22679', 'parker : 16856', 'accessories : 1337', 'accessories : 1337', 'engui : NA', 'lifestyle : 54524', 'times : 1766']
+Image url : img_463
+Total words : 88036
+---------------------------------------
+['investment : 16413', "children's : NA", 'finance : 6946', 'lego : 2627', 'rade : NA']
+Image url : img_462
+Total words : 88036
+---------------------------------------
+['srim : NA', 'chaeng : NA']
+Image url : img_465
+Total words : 88036
+---------------------------------------
+['lego : 2331', 'lego : 2331']
+Image url : img_464
+Total words : 88036
+---------------------------------------
+['love : 1160', 'life : 1498', 'live : 3715', 'life : 1498', 'riding : 29', 'pep : 31613']
+Image url : img_467
+Total words : 88036
+---------------------------------------
+['keep : 2652', 'calm : 1681', 'and : NA', 'stay : 5519', 'cool : 1479']
+Image url : img_466
+Total words : 88036
+---------------------------------------
+['dbs : NA']
+Image url : img_168
+Total words : 88036
+---------------------------------------
+['marks& : NA', 'spencer : 50630']
+Image url : img_660
+Total words : 88036
+---------------------------------------
+['here : NA', 'the : NA', 'pulse : 43473', 'success : 87071']
+Image url : img_243
+Total words : 88036
+---------------------------------------
+['ready : 334', 'for : NA', 'the : NA', 'world : 1090', "we're : NA", 'shooting : 5406', 'for : NA', 'success : 87071', 'ite : NA']
+Image url : img_242
+Total words : 88036
+---------------------------------------
+['photo : 115', 'photo : 115', 'photo : 115', 'photos : 687', 'photo : 115']
+Image url : img_245
+Total words : 88036
+---------------------------------------
+['coffee : 192', 'club : 2283']
+Image url : img_244
+Total words : 88036
+---------------------------------------
+['exit : 1790', 'rreis : NA', 'l10 : NA']
+Image url : img_247
+Total words : 88036
+---------------------------------------
+['10-21 : NA', '[05] : NA', 'carpark : NA']
+Image url : img_246
+Total words : 88036
+---------------------------------------
+['unrail : NA', 'ease : 2335']
+Image url : img_160
+Total words : 88036
+---------------------------------------
+['level : 3113']
+Image url : img_161
+Total words : 88036
+---------------------------------------
+['stand : 110', 'out : NA']
+Image url : img_162
+Total words : 88036
+---------------------------------------
+['photo : 106', 'post : 743', 'box : 211', 'block : 674', 'sam : 5190', 'lecture : 8001', 'theatre : 3252', 'library : 1841', 'mae : 10904', 'our : NA']
+Image url : img_163
+Total words : 88036
+---------------------------------------
+['most : NA', 'one : 98', 'the : NA', 'making : 325', "world's : NA", "we're : NA", 'beautiful : 594', 'more : NA', 'beautiful : 594']
+Image url : img_164
+Total words : 88036
+---------------------------------------
+['connexis : NA', 'north : 5033', 'tower : 347', '10-10 to 11 : NA', '10-12 to 14 : NA', '10-15 to 16 : NA', 'l10 : NA']
+Image url : img_165
+Total words : 88036
+---------------------------------------
+['exit : 1227', 'i2r : NA']
+Image url : img_166
+Total words : 88036
+---------------------------------------
+['off : NA', 'minutes : 4504', 'cuts : 1775', '$10 : NA']
+Image url : img_167
+Total words : 88036
+---------------------------------------
+['lower : 1767', 'calorie : 13691', 'meals : 1407', 'serve : 1519', 'whole-grain : NA', 'optons : NA']
+Image url : img_48
+Total words : 88036
+---------------------------------------
+['ave : 899', 'ayer : NA', 'the : NA', 'road : 12', 'safety : 1766', "children's : NA", 'rajah : 41145', 'ave : 899']
+Image url : img_49
+Total words : 88036
+---------------------------------------
+['serc : NA', 'services : 7738', 'shared : 4375']
+Image url : img_42
+Total words : 88036
+---------------------------------------
+['sydney : 13965', 'stirling : 62549', 'southampton : 49357', 'warwick : 85553', 'reserved : 7543', 'seating : 1955', 'simge.edu.sg : NA', 'university : 5085', 'rmit : NA', 'university : 5085']
+Image url : img_43
+Total words : 88036
+---------------------------------------
+['shop : 541', 'dine : 4542', 'smrt : NA']
+Image url : img_40
+Total words : 88036
+---------------------------------------
+['ew15 : NA', 'tanjong : NA', 'pagar : NA', 'caution : 2437']
+Image url : img_41
+Total words : 88036
+---------------------------------------
+['nanyang : NA', 'university : 3914', 'technological : 12720']
+Image url : img_46
+Total words : 88036
+---------------------------------------
+['lift : 771', 'mrt : NA']
+Image url : img_47
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_44
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_45
+Total words : 88036
+---------------------------------------
+['trying : 611', 'stuff : 870', 'columbia : 10316']
+Image url : img_645
+Total words : 88036
+---------------------------------------
+['fourskin : NA', 'exit : 1534']
+Image url : img_644
+Total words : 88036
+---------------------------------------
+['exit : 1377', 'exit : 1377']
+Image url : img_647
+Total words : 88036
+---------------------------------------
+['rld : NA', 'sports : 1217']
+Image url : img_646
+Total words : 88036
+---------------------------------------
+['crocs : NA', 'crocs : NA']
+Image url : img_641
+Total words : 88036
+---------------------------------------
+['food : 63', 'court : 320', '(at : NA', 'level : 1339']
+Image url : img_640
+Total words : 88036
+---------------------------------------
+['sennheiser : NA']
+Image url : img_643
+Total words : 88036
+---------------------------------------
+['you : NA', 'smile : 1043', 'person : 23']
+Image url : img_468
+Total words : 88036
+---------------------------------------
+['picket : 8225', 'rail : 289']
+Image url : img_649
+Total words : 88036
+---------------------------------------
+['simmons : 13306']
+Image url : img_648
+Total words : 88036
+---------------------------------------
+['tep : NA', 'ound : NA', 'year : 9790', 'ocbc : NA', 'sale : 544']
+Image url : img_887
+Total words : 88036
+---------------------------------------
+['robinso : NA', 'robinsons : NA', 'sale : 903']
+Image url : img_886
+Total words : 88036
+---------------------------------------
+['morris : 76203', 'robin : 6628', 'sal : 16818']
+Image url : img_885
+Total words : 88036
+---------------------------------------
+['period : 7571', 'height : 4019', 'limit : 2181', 'max. : NA', 'min : 6942', '1.7m : NA', 'grace : 4615', 'more : NA', 'ots : NA', 'entrance : 1152']
+Image url : img_884
+Total words : 88036
+---------------------------------------
+['zero : 9103', 'spot : 1198', '100% : NA', 'care : 2057', 'zero : 9103', 'spot : 1198', 'laundry : 3785', '6852 : NA', '1771 : NA', 'www.zerospot.com : NA']
+Image url : img_883
+Total words : 88036
+---------------------------------------
+['bread : 758', 'freshly : 1722', 'baked : 1516', 'crunchy : 50364', 'specials : 8895', 'garlic : 6167', 'course : 1527', 'below : NA']
+Image url : img_882
+Total words : 88036
+---------------------------------------
+['blush! : NA']
+Image url : img_881
+Total words : 88036
+---------------------------------------
+['exit : 1728', 'zara : 17032']
+Image url : img_880
+Total words : 88036
+---------------------------------------
+['this : NA', '510 : NA', '511 : 34568', '513 : NA', '504 : NA', '505 : NA', "levi's : NA"]
+Image url : img_766
+Total words : 88036
+---------------------------------------
+['live : 3899', 'this : NA', 'chinese : 1795', 'new : 789', 's10 : NA', '511 : 34568', '513 : NA', '505 : NA', '504 : NA']
+Image url : img_767
+Total words : 88036
+---------------------------------------
+['calvin : 65296', 'klein : 36242', 'underwear : 3735']
+Image url : img_764
+Total words : 88036
+---------------------------------------
+['stradivarius : 78226', 'man : 5']
+Image url : img_765
+Total words : 88036
+---------------------------------------
+['place : 606']
+Image url : img_762
+Total words : 88036
+---------------------------------------
+['calvin : 65296', 'klein : 36242']
+Image url : img_763
+Total words : 88036
+---------------------------------------
+['off : NA', 'sale : 614', 'sale : 614', 'lancome : NA', 'shu : NA', 'sale : 614']
+Image url : img_889
+Total words : 88036
+---------------------------------------
+['robinsons : NA', 'eba : NA', 'all : NA', 'year : 6451', 'round : 587', 'brands : 10185', 'ocbc : NA', 'bank : 1248', 'sale : 892', 'sale : 892', 'sale : 892', 'sale : 892']
+Image url : img_888
+Total words : 88036
+---------------------------------------
+['exit : 1513', 'philip : 43092', 'kate : 14484', 'spade : 67916']
+Image url : img_829
+Total words : 88036
+---------------------------------------
+['reebok : 13327', 'camelbak : NA', 'got : 2195', 'your : NA', 'ogio : NA', 'speedo : 34635', 'mps : NA']
+Image url : img_998
+Total words : 88036
+---------------------------------------
+['osim : NA']
+Image url : img_411
+Total words : 88036
+---------------------------------------
+['pull : 2068', 'pull : 2068']
+Image url : img_72
+Total words : 88036
+---------------------------------------
+['hosereel : NA']
+Image url : img_413
+Total words : 88036
+---------------------------------------
+['isons : NA']
+Image url : img_665
+Total words : 88036
+---------------------------------------
+['sale : 918', 'sale : 918', 'sale : 918', 'sale : 918', 'have : NA', 'top : 31', 'shop : 442']
+Image url : img_588
+Total words : 88036
+---------------------------------------
+['vivo : NA', 'vivl : NA', 'bear : 188', 'sal : 16456', 'pue : NA', 'pull : 991']
+Image url : img_589
+Total words : 88036
+---------------------------------------
+['lobby : 1619', 'orchard : 6648', 'jewellery : 16092', 'street : 3', 'singpost : NA', 'ion : 2993', 'ion : 2993']
+Image url : img_851
+Total words : 88036
+---------------------------------------
+['bath : 511', 'sensation : 69380', 'revion : NA', 'sensation : 69380', 'bath : 511']
+Image url : img_417
+Total words : 88036
+---------------------------------------
+['chaumet : NA', 'exit : 1416']
+Image url : img_821
+Total words : 88036
+---------------------------------------
+['topshop : NA']
+Image url : img_744
+Total words : 88036
+---------------------------------------
+['make : 990', 'store : 259', 'klein : 36242']
+Image url : img_907
+Total words : 88036
+---------------------------------------
+['vacheron : NA', 'constantin : NA', '#02-07 : NA']
+Image url : img_820
+Total words : 88036
+---------------------------------------
+['the : NA']
+Image url : img_664
+Total words : 88036
+---------------------------------------
+['ham & cheese : NA', 'egg : 1222', 'mayo : 4422', '$2.50 : NA', 'tuna : 5169', 'sandwiches : 475', 'toast : 1514', '1.60 : NA', 'eggs : 1067', '1.50 : NA', 'kaya : NA', 'butter : 969', 'butter : 969', 'suga : NA', 'peamt : NA', 'honey : 3886', 'drinks : 713', 'iced : 2531', 'teas!! : NA', '2.50 : NA', '3.50 : NA']
+Image url : img_241
+Total words : 88036
+---------------------------------------
+['stop : 26', 'sft0242p : NA']
+Image url : img_169
+Total words : 88036
+---------------------------------------
+['dior : 20428']
+Image url : img_824
+Total words : 88036
+---------------------------------------
+['singtel : NA', 'remit : 78252', 'start : 2725', 'your : NA', 'account : 40746', 'at: : NA', '#01-26/27 : NA']
+Image url : img_948
+Total words : 88036
+---------------------------------------
+['hangten : NA', 'asian : 476', '1000 : NA']
+Image url : img_949
+Total words : 88036
+---------------------------------------
+['sale : 800', 'sale : 800', 'sale : 800']
+Image url : img_859
+Total words : 88036
+---------------------------------------
+['sale : 596', 'ing : 8482', 'big : 115', 'great : 1068']
+Image url : img_942
+Total words : 88036
+---------------------------------------
+['salon : 3844', 'sale : 664', 'match : 1164', 'for : NA', 'uty : NA']
+Image url : img_943
+Total words : 88036
+---------------------------------------
+['ayam : NA', 'ria : 87262', 'smashed : 5766', 'fried : 1713', 'chicken : 1016']
+Image url : img_940
+Total words : 88036
+---------------------------------------
+['since : 7344', '1890 : NA', 'miguel : 37762', 'excellence : 39561']
+Image url : img_941
+Total words : 88036
+---------------------------------------
+['for : NA', 'your : NA', 'visa : 10458', 'higest : NA', 'price : 944', 'nets : 6947', 'offers : 6185', 'nets : 6947', 'gold : 682', 'items : 107', 'based : 9518', 'daily : 5210', 'gold : 682', 'rates : 81276']
+Image url : img_946
+Total words : 88036
+---------------------------------------
+['goldenland : NA', 'watch : 377']
+Image url : img_947
+Total words : 88036
+---------------------------------------
+['shop : 310', 'shop : 310', 'hair : 479', 'salon : 3365', 'barber : 2161', 'tip : 5097', 'top : 26', 'joy : 7024']
+Image url : img_944
+Total words : 88036
+---------------------------------------
+['delicacies : 12404', 'seafood : 4433']
+Image url : img_945
+Total words : 88036
+---------------------------------------
+['re           lles : NA', 'ett : NA', 'citylink : NA']
+Image url : img_627
+Total words : 88036
+---------------------------------------
+['mds : NA', 'vrg : NA', 'friends : 601', 'make : 999']
+Image url : img_626
+Total words : 88036
+---------------------------------------
+['veil : 10016']
+Image url : img_625
+Total words : 88036
+---------------------------------------
+['quickpick : NA']
+Image url : img_249
+Total words : 88036
+---------------------------------------
+['breadtalk : NA']
+Image url : img_624
+Total words : 88036
+---------------------------------------
+['connexis : NA', 'symbiosis : 35516', 'fusionopolis : NA', 'car : 40', 'park : 103']
+Image url : img_248
+Total words : 88036
+---------------------------------------
+['prettyfit : NA']
+Image url : img_623
+Total words : 88036
+---------------------------------------
+['zara : 16526', 'zara : 16526']
+Image url : img_749
+Total words : 88036
+---------------------------------------
+['ank : NA', 'uob : NA', 'don : NA', 'don : NA']
+Image url : img_622
+Total words : 88036
+---------------------------------------
+['jem : NA', 'exit : 1700', "jack's : NA", 'ush : NA']
+Image url : img_364
+Total words : 88036
+---------------------------------------
+['standard : 3279']
+Image url : img_621
+Total words : 88036
+---------------------------------------
+['golden : 886', 'sun : 424', 'california : 3308', 'available : 3406', 'here! : NA', 'singtel : NA', 'sold : 2079', 'love : 1684']
+Image url : img_918
+Total words : 88036
+---------------------------------------
+['candy : 2911', 'empire : 16764', 'toastbox : NA']
+Image url : img_620
+Total words : 88036
+---------------------------------------
+['furla : NA']
+Image url : img_828
+Total words : 88036
+---------------------------------------
+['singapore : 11391', 'airlines : 1971']
+Image url : img_836
+Total words : 88036
+---------------------------------------
+['hair : 525', 'atelier : 26948']
+Image url : img_837
+Total words : 88036
+---------------------------------------
+['nheim : NA', 'nue : NA', 'london : 1740', 'alice : 13419', 'and : NA', 'olivia : 11806', 'stacey : 41457', 'bendet : NA', 'sale : 685', 'off : NA', 'alice : 13419']
+Image url : img_834
+Total words : 88036
+---------------------------------------
+['pols : 44388']
+Image url : img_835
+Total words : 88036
+---------------------------------------
+['marc : 12513']
+Image url : img_832
+Total words : 88036
+---------------------------------------
+['exit : 1400', 'alice : 10556', 'blenheim : 74663', 'avenue : 1244']
+Image url : img_833
+Total words : 88036
+---------------------------------------
+['philip : 43092', 'stein : 13703', 'give : 2291', 'love : 2187', 'barret : NA', 'merci : NA']
+Image url : img_830
+Total words : 88036
+---------------------------------------
+['poh : NA', 'kim : 6441']
+Image url : img_550
+Total words : 88036
+---------------------------------------
+['therapist : 84273', 'cleaner : 4438', "nature's : NA", 'jea : NA', 'hair : 633', 'spa : 5429', 'perfect : 3472', 'jean : 4372', 'yip : 72865', 'are : NA', 'hiring : 10070', 'hair : 633', 'consultant : 70822', 'hair : 633', 'assistant : 11844', 'stylist : 8854', 'hair : 633', 'spa : 5429', 'with : NA', 'experience : 4533', 'preferred : 12991', 'good : 1267', 'benefits : 14601', 'please : 4167', 'call : 2600', '8200 : NA', '7403 : NA', 'walk : 185', 'interview : 10219', 'thank : 7936', 'you! : NA', 'botan : NA']
+Image url : img_268
+Total words : 88036
+---------------------------------------
+['shop : 417']
+Image url : img_792
+Total words : 88036
+---------------------------------------
+['running : 398', 'lab : 1548', 'net : 1091']
+Image url : img_307
+Total words : 88036
+---------------------------------------
+['ion : 6442', 'art : 710', 'ion : 6442', 'salt : 3092', 'grill : 1044']
+Image url : img_838
+Total words : 88036
+---------------------------------------
+['patch : 1152', 'sale : 664', 'fox : 5790', 'sale : 664']
+Image url : img_365
+Total words : 88036
+---------------------------------------
+['volendam : NA', 'start : 2601', '1600 mrs : NA', 'lot : 98']
+Image url : img_546
+Total words : 88036
+---------------------------------------
+['aeroline : NA']
+Image url : img_547
+Total words : 88036
+---------------------------------------
+['drop-off : NA', 's on : NA']
+Image url : img_544
+Total words : 88036
+---------------------------------------
+['where : NA', 'welcome : 3113', 'friends : 236', 'best : 4427', 'harbourfront : NA', 'ver : NA']
+Image url : img_545
+Total words : 88036
+---------------------------------------
+['accent : 6463']
+Image url : img_542
+Total words : 88036
+---------------------------------------
+['candle : 1182', 'sasa : NA']
+Image url : img_543
+Total words : 88036
+---------------------------------------
+['global : 4797', 'trave : NA', 'jmg : NA']
+Image url : img_939
+Total words : 88036
+---------------------------------------
+['02-59 : NA', 'available : 4011', 'foot : 752', 'vices : 50637']
+Image url : img_938
+Total words : 88036
+---------------------------------------
+['happy : 985', 'phoenix : 50756', '#02-81 : NA']
+Image url : img_937
+Total words : 88036
+---------------------------------------
+['alteration : 15161', 'services : 7661', '$10 : NA', '$10 : NA']
+Image url : img_936
+Total words : 88036
+---------------------------------------
+['s.k. : NA', 'leather : 845', 'house : 148']
+Image url : img_935
+Total words : 88036
+---------------------------------------
+['amor : NA', 'noy : NA', 'express : 2531', '02-46 : NA', 's.k : NA', 'exit : 1314', '$10 : NA']
+Image url : img_934
+Total words : 88036
+---------------------------------------
+['the : NA', 'gift : 2581', 'shop : 411', 'ing : 7152']
+Image url : img_933
+Total words : 88036
+---------------------------------------
+['counter/kitchen : NA', 'assistant : 12793', 'wanted: : NA', 'wanted; : NA', 'remittance : 27481', '03-26 : NA', 'clerk : 7501', 'atted : NA', 'sexy : 4060', '7380921 : NA']
+Image url : img_932
+Total words : 88036
+---------------------------------------
+['harbourfront : NA', '$10 : NA']
+Image url : img_548
+Total words : 88036
+---------------------------------------
+['pte : NA', 'kabayan : NA', '02-25 : NA', 'kabayan : NA', 'filipino : 34937', 'ltd : 5493', 'pte : NA', 'restaurant : 203', 'ltd : 5493', 'filipino : 34937', 'yan : NA', 'ltd : 5493', 'pte : NA', 'rant : 41425']
+Image url : img_930
+Total words : 88036
+---------------------------------------
+['piano : 1799', 'kawai : NA', 'music : 2456', 'school : 557', 'sus : NA', 'sushi : 1841', 'tei : NA', 'i.mages : NA', 'china : 1830', 'commune : 44925']
+Image url : img_911
+Total words : 88036
+---------------------------------------
+['mexico : 9041', 'china : 1818', 'france : 4044', 'canada : 2673', 'italy : 7991', 'spain : 11185', 'germany : 6536', 'hong : 8015', 'kong : 4433', 'singapore : 10956', 'korea : 15580', 'thailand : 15625', 'philippines : 12791', 'vietnam : 5571', 'turkey : 2540', 'morroco : NA', 'south : 4188', 'africa : 5099', 'malaysia : 3833', 'india : 3102', 'srocr : NA']
+Image url : img_327
+Total words : 88036
+---------------------------------------
+['warehouse : 2113', 'sale : 720']
+Image url : img_910
+Total words : 88036
+---------------------------------------
+['matahari : NA', 'ucno:12c6009 : NA', 'attention! : NA', 'filipin : NA', 'domes : 11651', 'helpe : NA', 'salary : 64701', 'work : 920']
+Image url : img_920
+Total words : 88036
+---------------------------------------
+['aeropostale : NA', 'last : 2503', 'day : 150', 'jeans : 1140', 'b  ata : NA']
+Image url : img_628
+Total words : 88036
+---------------------------------------
+['10% : NA', 'off : NA', 'obar : NA', 'amin : NA', '$10 : NA']
+Image url : img_73
+Total words : 88036
+---------------------------------------
+['action : 1644', 'salon : 5478']
+Image url : img_912
+Total words : 88036
+---------------------------------------
+['because : NA', 'you : NA', 'will : NA']
+Image url : img_88
+Total words : 88036
+---------------------------------------
+['$7.90 : NA', 'management : 7203', 'titles : 13197']
+Image url : img_89
+Total words : 88036
+---------------------------------------
+['welkome : NA', 'blks : NA', '1-5 : NA']
+Image url : img_86
+Total words : 88036
+---------------------------------------
+['$1.00 : NA', 'offer : 11988', 'the : NA']
+Image url : img_87
+Total words : 88036
+---------------------------------------
+['exit : 1517', 'exit : 1517', 'toilet : 3', 'note : 2515', 'leave : 2600', 'note : 2515']
+Image url : img_84
+Total words : 88036
+---------------------------------------
+['south : 5113', 'l14 : NA', '#14-01 : NA', '#14-03 : NA', 'tower : 258']
+Image url : img_85
+Total words : 88036
+---------------------------------------
+['december : 15719', 'cinemas : 81364', 'and : NA', 'kings : 8897', 'gods : 15094', 'exodus : 85346', 'eserved : NA', 'seating : 2764', 'cctv : 67147', 'caution : 4315', 'from : NA', 'the : NA', 'director : 10270', 'gladiator : 6251']
+Image url : img_82
+Total words : 88036
+---------------------------------------
+['infulse : NA']
+Image url : img_83
+Total words : 88036
+---------------------------------------
+['chef : 1927', 'wan : 11190', 'buffet : 2011', 'book : 356', 'now! : NA', '6341 : NA', '9159 : NA']
+Image url : img_80
+Total words : 88036
+---------------------------------------
+['sesame : 4579', 'street : 13', 'birds : 431']
+Image url : img_531
+Total words : 88036
+---------------------------------------
+['city : 30', 'changer : 12422', 'money : 1359', 'the : NA', 'laundry : 2971', 'changer : 12422', 'best : 2958', 'club : 2373']
+Image url : img_971
+Total words : 88036
+---------------------------------------
+['juicy : 4956', 'guess : 16868', 'gucci : 29914']
+Image url : img_722
+Total words : 88036
+---------------------------------------
+['50% : NA', 'off : NA', 'banana : 350', 'republic : 6173']
+Image url : img_723
+Total words : 88036
+---------------------------------------
+['sale : 431']
+Image url : img_720
+Total words : 88036
+---------------------------------------
+['madden : 75366', 'jimmy : 10959', 'steve : 3178', 'fossil : 12942', 'gucci : 29914']
+Image url : img_721
+Total words : 88036
+---------------------------------------
+['fossil : 10941', 'steve : 3683', 'queen : 4434']
+Image url : img_726
+Total words : 88036
+---------------------------------------
+['sale : 880', 'charles : 9126']
+Image url : img_727
+Total words : 88036
+---------------------------------------
+['guess : 17075']
+Image url : img_724
+Total words : 88036
+---------------------------------------
+['swatc : NA', 'banana : 110']
+Image url : img_725
+Total words : 88036
+---------------------------------------
+['motherswork : NA', 'minds : 11233', 'discover : 51610', 'more : NA', 'notherswork : NA']
+Image url : img_681
+Total words : 88036
+---------------------------------------
+["don't : NA", 'just : NA', 'run. : NA', 'glide : 5975', 'our : NA', 'potential : 7821', 'with : NA']
+Image url : img_680
+Total words : 88036
+---------------------------------------
+['royal : 3224', 'selangor : NA']
+Image url : img_728
+Total words : 88036
+---------------------------------------
+['way : 262', 'out : NA', 'ean : NA']
+Image url : img_729
+Total words : 88036
+---------------------------------------
+['bleem : NA', 'crocs : NA']
+Image url : img_685
+Total words : 88036
+---------------------------------------
+['exit : 1814', 'the : NA', 'bay : 1604']
+Image url : img_684
+Total words : 88036
+---------------------------------------
+['dior : 20428']
+Image url : img_687
+Total words : 88036
+---------------------------------------
+['adidas : 2144', "don't : NA", 'just : NA']
+Image url : img_686
+Total words : 88036
+---------------------------------------
+['off : NA', 'off : NA']
+Image url : img_339
+Total words : 88036
+---------------------------------------
+['aldo : 45925', 'giordano/ladies : NA']
+Image url : img_338
+Total words : 88036
+---------------------------------------
+['zero : 8273', 'tidinas : NA', 'introducing.. : NA']
+Image url : img_205
+Total words : 88036
+---------------------------------------
+['back : 141', 'school : 517', "beauty's : NA", 'beginning : 3837']
+Image url : img_331
+Total words : 88036
+---------------------------------------
+["l'occitane : NA", 'provenc : NA']
+Image url : img_330
+Total words : 88036
+---------------------------------------
+["beauty's : NA", 'beginning : 3430', 'health : 7172', 'beauty : 3866', 'are : NA', 'reach : 2487', 'enjoy : 2601']
+Image url : img_333
+Total words : 88036
+---------------------------------------
+['drink : 439', 'food : 46']
+Image url : img_332
+Total words : 88036
+---------------------------------------
+['bonia : NA', 'nov : 55300']
+Image url : img_335
+Total words : 88036
+---------------------------------------
+['your : NA', 'deposits : 29961', '000 : NA']
+Image url : img_79
+Total words : 88036
+---------------------------------------
+['aldo : 45925', 'aldo : 45925']
+Image url : img_337
+Total words : 88036
+---------------------------------------
+['hol : NA', 'lis : NA', 'ter : 7552', 'braun : NA']
+Image url : img_336
+Total words : 88036
+---------------------------------------
+['exit : 1732']
+Image url : img_111
+Total words : 88036
+---------------------------------------
+['hantu : NA']
+Image url : img_110
+Total words : 88036
+---------------------------------------
+['6-3388-680 : NA', 'health : 8251', 'for : NA', 'beauty : 4297', 'for : NA', 'guardian : 84034', 'trichokare : NA', '#05-11 : NA', 'deserve : 24684', 'lon : 69300', 'www.tk-hair.com : NA', 'real : 2555', 'results : 14843', 'from : NA', 'experts! : NA', 'hair : 425']
+Image url : img_113
+Total words : 88036
+---------------------------------------
+['results : 9108', 'real : 4062', '#05-11 : NA', 'get : 427', 'from : NA', 'our : NA', 'hair : 731', 'loss : 56643', 'experts! : NA']
+Image url : img_233
+Total words : 88036
+---------------------------------------
+['skincare : 25669', '$128 : NA', '$5 : NA', 'unity : 11903', 'unity : 11903', 'ments : NA']
+Image url : img_115
+Total words : 88036
+---------------------------------------
+['offline : 24734', 'fossi : NA', 'digital : 2915', 'shopping : 1578', 'shop : 633', 'with : NA']
+Image url : img_751
+Total words : 88036
+---------------------------------------
+['enjoy : 2210', 'smarts : 67611', 'rebate : 73555', 'uob : NA', 'hour : 4434']
+Image url : img_117
+Total words : 88036
+---------------------------------------
+['special : 2240', 'win : 6115', 'new : 684', 'special : 2240', 'original : 9263', 'original : 9263', 'next : 8', 'custom : 2855', 'vanilla : 4645', 'almond : 9266', 'grain : 2528', 'panad : NA', 'special : 2240']
+Image url : img_116
+Total words : 88036
+---------------------------------------
+['university : 3156', 'town : 455']
+Image url : img_119
+Total words : 88036
+---------------------------------------
+['exit : 1531', 'smrt : NA']
+Image url : img_118
+Total words : 88036
+---------------------------------------
+['citigems : NA']
+Image url : img_619
+Total words : 88036
+---------------------------------------
+['havaianas : NA', 'havaianas : NA', 'havaianas : NA']
+Image url : img_322
+Total words : 88036
+---------------------------------------
+['dumping : 5300', 'strictly : 33309', 'prohibited : 8439']
+Image url : img_15
+Total words : 88036
+---------------------------------------
+['$500 : NA', '$4.00 : NA', '$4.00 : NA', '$4.00 : NA', 'lower : 1450', 'colorie : NA']
+Image url : img_14
+Total words : 88036
+---------------------------------------
+['clementi : NA']
+Image url : img_17
+Total words : 88036
+---------------------------------------
+['storey : NA', 'lobby : 766', 'lift : 1703']
+Image url : img_16
+Total words : 88036
+---------------------------------------
+['shops : 1092', 'gen is : NA', 'theatre : 3412', 'place : 667', 'nursing : 3526', 'room : 37', 'fraser : 62393']
+Image url : img_11
+Total words : 88036
+---------------------------------------
+['harbourfront : NA', 'cc22 : NA', 'bua : NA']
+Image url : img_10
+Total words : 88036
+---------------------------------------
+['ipal : NA', 'ipal : NA', 'stude : NA']
+Image url : img_13
+Total words : 88036
+---------------------------------------
+['lifestyle : 54524', 'choices : 7338', 'that : NA', 'for : NA', 'come : 2152', 'shop : 366', 'dine : 5673']
+Image url : img_12
+Total words : 88036
+---------------------------------------
+['0000 : NA', 'who : NA', 'needs : 5042', 'nela : NA']
+Image url : img_19
+Total words : 88036
+---------------------------------------
+['service : 2545', 'mall : 1315', '173 : NA', '166 : NA', '175 : NA', '285 : NA', '285 : NA', 'add : 9649', 'value : 11925', 'machine : 1183', 'clementi : NA', 'the : NA', 'pasenger : NA', 'toilet : 556', 'berth : 16822']
+Image url : img_18
+Total words : 88036
+---------------------------------------
+['get : 367', 'with : NA', 'asus : NA', 'lte : NA']
+Image url : img_112
+Total words : 88036
+---------------------------------------
+['oto : NA', 'life : 1376']
+Image url : img_615
+Total words : 88036
+---------------------------------------
+['delicious : 1017', 'doughy : 14178', 'shell. : NA', 'sealed : 8167', 'and : NA', 'kaya : NA', 'crackers : 2389', 'toast : 1667', 'cubes : 4894', 'yakunkat : NA', 'introducucing... : NA', 'tidings : 34176', 'comfort : 5774', 'and : NA', 'joy! : NA', 'your : NA', 'toast? : NA', 'how : NA', 'would : 2636', 'you : NA', 'like : 212']
+Image url : img_240
+Total words : 88036
+---------------------------------------
+['get : 732', 'rewards : 17325', 'fit : 2254']
+Image url : img_209
+Total words : 88036
+---------------------------------------
+['sennheiser : NA', 'planet : 11790']
+Image url : img_642
+Total words : 88036
+---------------------------------------
+['gre : NA', 'boston : 2988', 'gre : NA']
+Image url : img_208
+Total words : 88036
+---------------------------------------
+['ske : NA']
+Image url : img_757
+Total words : 88036
+---------------------------------------
+['shka : NA', 'lobby : 1886', 'paterson : 22557', "victoria's : NA"]
+Image url : img_756
+Total words : 88036
+---------------------------------------
+['exit : 1317']
+Image url : img_755
+Total words : 88036
+---------------------------------------
+['pull : 1236', 'and : NA', 'bear : 111', 'tcc : NA', 'promod : NA', 'sale : 669', 'now! : NA', 'enjoyd : NA', '7698 : NA']
+Image url : img_754
+Total words : 88036
+---------------------------------------
+['tcc : NA']
+Image url : img_753
+Total words : 88036
+---------------------------------------
+['fossic : NA']
+Image url : img_752
+Total words : 88036
+---------------------------------------
+['aucre : NA', 'brownies : 5070', 'loaves : 5856', 'tarts : 7242', 'parfaits : 77938', 'puddings : 73474', 'push : 3110', 'whoopies : NA']
+Image url : img_618
+Total words : 88036
+---------------------------------------
+['zalora : NA', 'digital : 3631', 'off : NA']
+Image url : img_750
+Total words : 88036
+---------------------------------------
+['ichiban : 13062', 'boshi : NA', 'lehiban : NA']
+Image url : img_616
+Total words : 88036
+---------------------------------------
+['twelve : 3794', 'cup : 161', 'handmade : 3221']
+Image url : img_617
+Total words : 88036
+---------------------------------------
+['banking : 11715', 'additional : 5468', 'ocbc : NA', 'bank : 1749', 'visa : 6756', 'plus : 5575', 'uob : NA', 'cash : 3356', 'deposit : 11174', 'cash : 3356', 'payment : 12394', 'for : NA', 'ocbc : NA', 'credit : 4983', 'card : 1340', 'bills : 4898', 'balance : 2393', 'engulry : NA', 'pin : 2727', 'bill : 3300', 'payment : 12394', 'phone : 95', 'banking : 11715', 'application : 4585', 'internet/ : NA', 'mobile : 1304', 'services : 8481', 'application : 4585', 'update : 55121', 'contact : 7460', 'particulary : NA', 'top-up : NA', 'nets : 4732', 'cashcard/flashpay/ : NA', 'cards : 2689', 'investment : 15935', 'services : 8481', 'accept : 11787', 'cards : 2689', 'cpf : NA', 'services : 8481', 'other : NA', 'services : 8481']
+Image url : img_78
+Total words : 88036
+---------------------------------------
+['exit : 1181', 'kase : NA', 'strad : NA']
+Image url : img_758
+Total words : 88036
+---------------------------------------
+['where : NA', 'people : 1', 'meet : 4521']
+Image url : img_612
+Total words : 88036
+---------------------------------------
+['massage : 11773', 'acupuncture : 66418', 'massotherapy : NA', 'body : 591', 'massage : 11773']
+Image url : img_613
+Total words : 88036
+---------------------------------------
+['steve : 5036', 'madden : 75366']
+Image url : img_759
+Total words : 88036
+---------------------------------------
+[]
+Image url : img_430
+Total words : 88036
+---------------------------------------
