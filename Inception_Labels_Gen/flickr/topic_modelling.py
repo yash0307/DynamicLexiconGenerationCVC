@@ -81,9 +81,9 @@ def main():
                 labels.append(topic_prob[topic_num])
             else:
                 labels.append(zero_constant)
-        if ((int(ind)%5 == 1) and (int(ind)%5==2) and (int(ind)%5==3)):
+        if ((int(ind)%5 == 1) or (int(ind)%5 == 2) or (int(ind)%5 == 3)):
             TARGET_LABEL_TRAIN[url] = labels
-        elif((int(ind)%5 == 0) and (int(ind)%5 == 4)):
+        elif((int(ind)%5 == 0) or (int(ind)%5 == 4)):
             TARGET_LABEL_VAL[url] = labels
         print "TOTAL = 25K something :  " + str(counter)
     train_label_url = "/home/yash/Data/flickr/Inception_labels/label_train_" + str(num_topics) + ".json"
