@@ -36,7 +36,7 @@ import numpy as np
 from six.moves import urllib
 import tensorflow as tf
 
-from tensorflow.python.client import graph_util
+from tensorflow.python.framework import graph_util
 from tensorflow.python.framework import tensor_shape
 from tensorflow.python.platform import gfile
 ##################################################################################################
@@ -180,6 +180,8 @@ def main():
         
         # Do this only for validation/testing images.
         if ((int(ind)%5 == 4) or (int(ind)%5 == 0)):
+	    if ((int(ind)==924) or (int(ind)==705)):
+		continue
             url = "im" + str(ind) + ".jpg"
             final_url = base_url_image + str(url)
 
