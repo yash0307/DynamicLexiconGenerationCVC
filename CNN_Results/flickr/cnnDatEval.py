@@ -61,7 +61,7 @@ def create_inception_graph():
     manipulating.
     """
     with tf.Session() as sess:
-        model_filename = '/home/yash/Data/flickr/Inception_models/output_graph_10.pb'
+        model_filename = '/home/yash/Data/flickr/Inception_models/output_graph_30.pb'
         with gfile.FastGFile(model_filename, 'rb') as f:
             graph_def = tf.GraphDef()
             graph_def.ParseFromString(f.read())
@@ -125,8 +125,7 @@ def main():
         
     # Initialize tensorflow params.
     tensorflow_init()
-    # Write the results in the .txt file.
-    f = open('results.txt','w')
+    
     # First, read the dictionary and make a dictionary.
     id2word = gensim.corpora.Dictionary.load_from_text('/home/yash/DynamicLexiconGenerationCVC/Dataset_Dictionary/gensim_flickr.txt')
     
