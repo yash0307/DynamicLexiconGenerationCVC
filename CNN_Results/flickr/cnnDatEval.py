@@ -4,13 +4,17 @@ from __future__ import print_function
 
 
 ### git @ yash0307 ###
+# This script does the following :
+# 1). Loads Deep CNN model
+# 2). Generates output for each image.
+# 3). Outputs and saves annotation for each image
+
 import gensim
 import json
 import os
 import sys
 import logging
-#sys.path.insert(0, '/home/yash/git_CVC/Dataset_APIs/COCO-Text')
-#import coco_text
+
 
 # Include Tensorflow deploy script in this
 # script only.
@@ -122,6 +126,9 @@ def main():
     global num_topics
 
     logging.basicConfig(stream=sys.stdout, level=logging.INFO)
+
+    # Open result file
+    RESULTS_JSON = {}
         
     # Initialize tensorflow params.
     tensorflow_init()
@@ -130,7 +137,7 @@ def main():
     id2word = gensim.corpora.Dictionary.load_from_text('/home/yash/DynamicLexiconGenerationCVC/Dataset_Dictionary/gensim_flickr.txt')
     
     # Specify the number of topics present in the LDA_model.
-    num_topics = 10
+    num_topics = 30
 
     # Image base_url.
     base_url_image = '/home/yash/Data/flickr/mirflickr/val/'
@@ -147,7 +154,7 @@ def main():
             pass
     
     # Now, read the LDA model built on Natural dictionary.
-    lda_model = gensim.models.ldamodel.LdaModel.load('/home/yash/Data/flickr/', mmap='r')
+    lda_model = gensim.models.ldamodel.LdaModel.load('/home/yash/Data/flickr/LDA_MODELS/lda_model_train_30.lda', mmap='r')
     
     # Read, all the Validation set captions.
     # Combine each of them and make a document
@@ -156,7 +163,7 @@ def main():
     
     # NOTE :The validation set of CNN is used here as 
     # Evaluation set for word-ranking.
-    eval_file = open('/media/DADES/yash/newInceptionLabels/im_cap_val.json','r')
+    eval_file = open('/home/yash/Data/flickr/data.json','r')
     eval_json = json.load(eval_file)
     
     # Get all the topics only once.
@@ -166,29 +173,16 @@ def main():
     # Iterate over each instance of eval set.
     counter_image = 0
     counter_word_instance = 0
-    for ind in im_ids_txt:
+    for ind in eval_json.keys():
         # Keep printing the counter values.
         counter_image += 1
-        if counter_image == 5000:
-            break
-        print ("Total 20K : " + str(counter_image))
-        words_present = []
-        value = eval_json[str(ind)]
-        captions = value['caption']
-        url = value['url']
-        final_url = base_url_image + str(url)
-        ann_ids_txt = coco_txt.getAnnIds(imgIds = ind)
-        ann_txt = coco_txt.loadAnns(ann_ids_txt)
-        for j in ann_txt:
-            try:
-                if j['utf8_string'] != '':
-                    counter_word_instance += 1
-                    words_present.append(j['utf8_string'])
-            except KeyError:
-                pass
-        if not words_present:
-            pass
-        else:
+        print ("Total 10K : " + str(counter_image))
+        
+        # Do this only for validation/testing images.
+        if ((int(ind)%5 == 4) or (int(ind)%5 == 0)):
+            url = "im" + str(ind) + ".jpg"
+            final_url = base_url_image + str(url)
+
             # For a given image now we have prob distribution
             # and words_present in the image. Now, we need to
             # make all ranked dictionary and make inference 
@@ -218,29 +212,13 @@ def main():
             final_ranks = []
             for i in final_ranking:
                 final_ranks.append(i[0].lower())
-            text_ranks = []
-            for text in words_present:
-                try:
-                    text_ranks.append(str(text) + " : " + str(final_ranks.index(str(text.lower()))))
-                except ValueError:
-                    try:
-                        text_ranks.append(str(text) + " : NA")
-                    except:
-                        text_ranks.append("Unicode error")
-            f.write(str(text_ranks) + "\n")
-            f.write("Image url : " + str(url) + "\n")
-            f.write("Total words : " + str(len(final_ranks)) + "\n")
-            f.write("---------------------------------------\n")
-            print (str(text_ranks))
-            print ("Image url : " + str(url) + "\n")
-            print ("Total words : " + str(len(final_ranks)))
-            print ("---------------------------------------")
+            RESULTS_JSON[url] = final_ranks
         # At the end make sure to make each word probs zero.
         # For next iteration.
         for i in dict_natural.keys():
             dict_natural[i] = []
-    print ("counter_word_instances : " + str(counter_word_instance))
-    f.close()
+    with open("/home/yash/Data/flickr/Results/result_30.json", "w") as fp:
+        json.dump(RESULTS_JSON, fp)
 def make_query(image_url):
     global id2word
     global lda_model
