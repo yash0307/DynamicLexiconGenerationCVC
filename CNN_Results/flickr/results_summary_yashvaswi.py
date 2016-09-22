@@ -27,5 +27,7 @@ for ind in load_res.keys():
 		if str(label) in load_res[ind]:
 			dict_natural[label].append(ind)
 
+
+# Save per category images
 with open("per_label_result.json") as fp:
 	json.dump(dict_natural, fp)
