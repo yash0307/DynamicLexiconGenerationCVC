@@ -1,10 +1,12 @@
 import json
+import gensim
 
 f_result = open("/home/yash/Data/flickr/Results/result_30.json")
 load_res = json.load(f_result)
 
 f_gt = open("/home/yash/Data/flickr/data.json")
 load_gt = json.load(f_gt)
+
 
 counter_image = 0
 instance_counter = 0
