@@ -20,4 +20,12 @@ for i in range(0,len(keys)):
     except:
         pass
 print str(dict_natural)
-print str(len(dict_natural.keys())
+print str(len(dict_natural.keys()))
+
+for ind in load_res.keys():
+	for label in dict_natural.keys():
+		if str(label) in load_res[ind]:
+			dict_natural[label].append(ind)
+
+with open("per_label_result.json") as fp:
+	json.dump(dict_natural, fp)
