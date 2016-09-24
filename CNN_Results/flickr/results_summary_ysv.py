@@ -3,7 +3,7 @@ from __future__ import division
 import gensim
 import json
 
-f_result = open("/home/yash/Data/flickr/Results/result_30.json")
+f_result = open("/home/yash/Data/flickr/Results/result_30_sum.json")
 data_result = json.load(f_result)
 
 f_gt = open("/home/yash/Data/flickr/data.json")
@@ -27,7 +27,7 @@ for i in range(0,len(keys)):
 		pass
 
 for ind_data in data_result.keys():
-	val = data_result[ind_data][:5]
+	val = data_result[ind_data][:4]
 	for j in val:
 		dict_labels_result[j].append(ind_data)
 
