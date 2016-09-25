@@ -5,7 +5,7 @@ import sys
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 
 id2word = gensim.corpora.Dictionary.load_from_text('/home/yash/DynamicLexiconGenerationCVC/Dataset_Dictionary/gensim_flickr.txt')
-mm = gensim.corpora.MmCorpus('/home/yash/Data/flickr/corpus_train.mm')
+mm = gensim.corpora.MmCorpus('/home/yash/Data/flickr/corpus.mm')
 
 #lda_model_400 = gensim.models.ldamulticore.LdaMulticore(corpus = mm, id2word=id2word ,num_topics = 400, workers=3)
 #lda_model_400.save('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_400.lda')
@@ -25,8 +25,8 @@ mm = gensim.corpora.MmCorpus('/home/yash/Data/flickr/corpus_train.mm')
 #lda_model_1000 = gensim.models.ldamulticore.LdaMulticore(corpus = mm, id2word=id2word ,num_topics = 1000, workers=3)
 #lda_model_1000.save('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_1000.lda')
 
-lda_model_2000 = gensim.models.ldamulticore.LdaMulticore(corpus = mm, id2word=id2word ,num_topics = 2000, workers=3)
-lda_model_2000.save('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_2000.lda')
+lda_model_2000 = gensim.models.ldamulticore.LdaMulticore(corpus = mm, id2word=id2word ,num_topics = 1500, workers=3)
+lda_model_2000.save('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/all_corpus/lda_model_train_1500.lda')
 
 #lda_model_80 = gensim.models.ldamulticore.LdaMulticore(corpus = mm, id2word=id2word ,num_topics = 80, workers=3)
 #lda_model_80.save('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_80.lda')
