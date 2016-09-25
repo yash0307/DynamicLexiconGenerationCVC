@@ -3,7 +3,7 @@ from __future__ import division
 import gensim
 import json
 
-f_result = open("/home/yash/Data/flickr/Results/result_30_sum.json")
+f_result = open("/home/yash/Data/flickr/Results/result_400_max.json")
 data_result = json.load(f_result)
 
 f_gt = open("/home/yash/Data/flickr/data.json")
@@ -27,7 +27,7 @@ for i in range(0,len(keys)):
 		pass
 
 for ind_data in data_result.keys():
-	val = data_result[ind_data][:4]
+	val = data_result[ind_data][:5]
 	for j in val:
 		dict_labels_result[j].append(ind_data)
 
@@ -69,5 +69,9 @@ for i in dict_labels_result.keys():
 		pass
 	print (str(i) +" : "+str(m3))
 
-print ("Average Precision" +  " : " + str(average_precision/average_counter))
-print ("Average Recall" + " : " + str(average_recall/average_counter))
+MAP = (average_precision/average_counter)
+MAR = (average_recall/average_counter)
+f_score = 2*((MAP*MAR)/(MAP + MAR))
+print ("Average Precision" +  " : " + str(MAP))
+print ("Average Recall" + " : " + str(MAR))
+print ("F-score : " + str(f_score))

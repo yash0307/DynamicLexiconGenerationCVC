@@ -14,13 +14,19 @@ logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 
 fp = open('/home/yash/Data/flickr/data.json','r')
 data = json.load(fp)
+data_train = {}
+for ind in data.keys():
+	if ((int(ind)%5==1) or (int(ind)%5==2) or (int(ind)%5==3)):
+		data_train[ind] = data[ind]
+
 data_corpus = []
 print str(len(data.keys()))
-for i in data.keys():
+print str(len(data_train.keys()))
+for i in data_train.keys():
     val = data[i]
     data_corpus.append(val)
 
 
 id2word = gensim.corpora.Dictionary.load_from_text('/home/yash/DynamicLexiconGenerationCVC/Dataset_Dictionary/gensim_flickr.txt')
 corpus = [id2word.doc2bow(text) for text in data_corpus]
-gensim.corpora.MmCorpus.serialize('/home/yash/Data/flickr/corpus.mm',corpus)
+gensim.corpora.MmCorpus.serialize('/home/yash/Data/flickr/corpus_train.mm',corpus)
