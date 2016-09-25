@@ -50,7 +50,7 @@ def main():
     ############################## Training Models ###########################################
     ##########################################################################################
     id2word = gensim.corpora.Dictionary.load_from_text('/home/yash/DynamicLexiconGenerationCVC/Dataset_Dictionary/gensim_flickr.txt')
-    lda_model_url = "/home/yash/Data/flickr/LDA_MODELS/lda_model_train_" + str(num_topics) + ".lda"
+    lda_model_url = "/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_" + str(num_topics) + ".lda"
     lda_model = gensim.models.ldamodel.LdaModel.load(lda_model_url, mmap='r')
     ###########################################################################################
     ############################# Read and Parse Input File ###################################

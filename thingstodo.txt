@@ -1,0 +1,3 @@
+1). Learn depp CNN for all the all_corpus, train_corpus for flickr 25K.
+2). Run evaluation for all these models.
+3). Do above 2 for MS-COCO
