@@ -3,7 +3,7 @@ from __future__ import division
 import gensim
 import json
 
-f_result = open("/home/yash/Data/flickr/Results/result_1000_max.json")
+f_result = open("/home/yash/Data/flickr/Results/result_train_500_max.json")
 data_result = json.load(f_result)
 
 f_gt = open("/home/yash/Data/flickr/data.json")

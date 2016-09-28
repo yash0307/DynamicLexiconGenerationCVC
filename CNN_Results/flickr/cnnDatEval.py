@@ -65,7 +65,7 @@ def create_inception_graph():
     manipulating.
     """
     with tf.Session() as sess:
-        model_filename = '/home/yash/Data/flickr/Inception_models/output_graph_1000.pb'
+        model_filename = '/home/yash/Data/flickr/Inception_models/output_graph_train_500.pb'
         with gfile.FastGFile(model_filename, 'rb') as f:
             graph_def = tf.GraphDef()
             graph_def.ParseFromString(f.read())
@@ -128,8 +128,8 @@ def main():
     logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 
     # Open result file
-    RESULTS_JSON = {}
-        
+    RESULTS_JSON_SUM = {}
+    RESULTS_JSON_MAX = {}
     # Initialize tensorflow params.
     tensorflow_init()
     
@@ -137,7 +137,7 @@ def main():
     id2word = gensim.corpora.Dictionary.load_from_text('/home/yash/DynamicLexiconGenerationCVC/Dataset_Dictionary/gensim_flickr.txt')
     
     # Specify the number of topics present in the LDA_model.
-    num_topics = 1000
+    num_topics = 500
 
     # Image base_url.
     base_url_image = '/home/yash/Data/flickr/mirflickr/val/'
@@ -154,7 +154,7 @@ def main():
             pass
     
     # Now, read the LDA model built on Natural dictionary.
-    lda_model = gensim.models.ldamodel.LdaModel.load('/home/yash/Data/flickr/LDA_MODELS/lda_model_train_1000.lda', mmap='r')
+    lda_model = gensim.models.ldamodel.LdaModel.load('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_500.lda', mmap='r')
     
     # Read, all the Validation set captions.
     # Combine each of them and make a document
@@ -176,7 +176,7 @@ def main():
     for ind in eval_json.keys():
         # Keep printing the counter values.
         counter_image += 1
-        print ("Total 10K : " + str(counter_image))
+        print ("Total 25K : " + str(counter_image))
         
         # Do this only for validation/testing images.
         if ((int(ind)%5 == 4) or (int(ind)%5 == 0)):
@@ -203,24 +203,33 @@ def main():
                     except:
                         pass
             # Choose the highest values for each of the words.
-            topic_word_ranks = []
+            topic_word_ranks_sum = []
+	    topic_word_ranks_max = []
             for j in dict_natural.keys():
                 try:
-                    topic_word_ranks.append((str(j),max(dict_natural[str(j)])))
+                    topic_word_ranks_sum.append((str(j),sum(dict_natural[str(j)])))
+		    topic_word_ranks_max.append((str(j),max(dict_natural[str(j)])))
                 except:
                     pass
             # Sort the dictionary and make final ranking prediction.
-            final_ranking = sorted(topic_word_ranks, key=lambda x:x[1],reverse=True)
-            final_ranks = []
-            for i in final_ranking:
-                final_ranks.append(i[0].lower())
-            RESULTS_JSON[url] = final_ranks
+            final_ranking_sum = sorted(topic_word_ranks_sum, key=lambda x:x[1],reverse=True)
+	    final_ranking_max = sorted(topic_word_ranks_max, key=lambda x:x[1],reverse=True)
+            final_ranks_sum = []
+	    final_ranks_max = []
+            for i in final_ranking_sum:
+                final_ranks_sum.append(i[0].lower())
+            RESULTS_JSON_SUM[url] = final_ranks_sum
+	    for i in final_ranking_max:
+		final_ranks_max.append(i[0].lower())
+	    RESULTS_JSON_MAX[url] = final_ranks_max
         # At the end make sure to make each word probs zero.
         # For next iteration.
         for i in dict_natural.keys():
             dict_natural[i] = []
-    with open("/home/yash/Data/flickr/Results/result_1000_max.json", "w") as fp:
-        json.dump(RESULTS_JSON, fp)
+    with open("/home/yash/Data/flickr/Results/result_train_500_sum.json", "w") as fp:
+        json.dump(RESULTS_JSON_SUM, fp)
+    with open("/home/yash/Data/flickr/Results/result_train_500_max.json", "w") as fp:
+	json.dump(RESULTS_JSON_MAX, fp)
 def make_query(image_url):
     global id2word
     global lda_model
