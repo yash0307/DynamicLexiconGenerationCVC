@@ -16,7 +16,7 @@ fp = open('/home/yash/Data/flickr/data.json','r')
 data = json.load(fp)
 data_train = {}
 for ind in data.keys():
-	if ((int(ind)%5==1) or (int(ind)%5==2) or (int(ind)%5==3)):
+	if ((int(ind)%2==1)):
 		data_train[ind] = data[ind]
 
 data_corpus = []
