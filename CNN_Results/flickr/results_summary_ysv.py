@@ -3,7 +3,7 @@ from __future__ import division
 import gensim
 import json
 
-f_result = open("/home/yash/Data/flickr/Results/result_train_500_max.json")
+f_result = open("/home/yash/Data/flickr/Results/result_train_25_1000_sum.json")
 data_result = json.load(f_result)
 
 f_gt = open("/home/yash/Data/flickr/data.json")
@@ -17,7 +17,7 @@ iterator = id2word.iteritems()
 keys = id2word.keys()
 dict_labels_result = {}
 dict_labels_gt = {}
-
+list_png = [1066, 924, 692, 608, 798, 942]
 for i in range(0,len(keys)):
 	temp_item = iterator.next()
 	try:
@@ -32,9 +32,9 @@ for ind_data in data_result.keys():
 		dict_labels_result[j].append(ind_data)
 
 for ind_data in data_gt.keys():
-	if ((int(ind_data)%5==4) or (int(ind_data)%5==0)):
+	if ((int(ind_data)%2==0)):
 		val = data_gt[ind_data]
-		if ((int(ind_data)!= 924) and (int(ind_data) != 705)):
+		if (int(ind_data) not in list_png):
 			for j in val:
 				temp_ind = "im" + str(ind_data) + ".jpg"
 				dict_labels_gt[j].append(temp_ind)

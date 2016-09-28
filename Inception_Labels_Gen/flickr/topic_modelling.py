@@ -38,7 +38,7 @@ def main():
 
     counter = 0
     analysis_type = 'lda'
-    num_topics = 1000
+    num_topics = 800
     zero_constant = 0
     TARGET_LABEL_TRAIN = {}
     TARGET_LABEL_VAL = {}

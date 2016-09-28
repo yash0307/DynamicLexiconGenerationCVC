@@ -65,7 +65,7 @@ def create_inception_graph():
     manipulating.
     """
     with tf.Session() as sess:
-        model_filename = '/home/yash/Data/flickr/Inception_models/output_graph_train_500.pb'
+        model_filename = '/home/yash/Data/flickr/Inception_models/output_graph_train_25_1000.pb'
         with gfile.FastGFile(model_filename, 'rb') as f:
             graph_def = tf.GraphDef()
             graph_def.ParseFromString(f.read())
@@ -137,7 +137,7 @@ def main():
     id2word = gensim.corpora.Dictionary.load_from_text('/home/yash/DynamicLexiconGenerationCVC/Dataset_Dictionary/gensim_flickr.txt')
     
     # Specify the number of topics present in the LDA_model.
-    num_topics = 500
+    num_topics = 1000
 
     # Image base_url.
     base_url_image = '/home/yash/Data/flickr/mirflickr/val/'
@@ -154,7 +154,7 @@ def main():
             pass
     
     # Now, read the LDA model built on Natural dictionary.
-    lda_model = gensim.models.ldamodel.LdaModel.load('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_500.lda', mmap='r')
+    lda_model = gensim.models.ldamodel.LdaModel.load('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_1000.lda', mmap='r')
     
     # Read, all the Validation set captions.
     # Combine each of them and make a document
@@ -169,20 +169,22 @@ def main():
     # Get all the topics only once.
     # YOU FETCH ONLY ONCE B-).
     # I'm bond! James Bond B-).
-
+    list_png = [1066, 924, 692, 608, 798, 942]
     # Iterate over each instance of eval set.
     counter_image = 0
     counter_word_instance = 0
     for ind in eval_json.keys():
-        
         # Do this only for validation/testing images.
         if (int(ind)%2==0):
 	    counter_image +=1
 	    print ("Total 12.5K : " + str(counter_image))
-
-            url = "im" + str(ind) + ".jpg"
+	    
+	    if (int(ind) in list_png):
+		continue
+	    else:
+            	url = "im" + str(ind) + ".jpg"
             final_url = base_url_image + str(url)
-
+	    print (final_url)
             # For a given image now we have prob distribution
             # and words_present in the image. Now, we need to
             # make all ranked dictionary and make inference 
@@ -224,9 +226,9 @@ def main():
         # For next iteration.
         for i in dict_natural.keys():
             dict_natural[i] = []
-    with open("/home/yash/Data/flickr/Results/result_train_500_sum.json", "w") as fp:
+    with open("/home/yash/Data/flickr/Results/result_train_25_1000_sum.json", "w") as fp:
         json.dump(RESULTS_JSON_SUM, fp)
-    with open("/home/yash/Data/flickr/Results/result_train_500_max.json", "w") as fp:
+    with open("/home/yash/Data/flickr/Results/result_train_25_1000_max.json", "w") as fp:
 	json.dump(RESULTS_JSON_MAX, fp)
 def make_query(image_url):
     global id2word
