@@ -174,14 +174,12 @@ def main():
     counter_image = 0
     counter_word_instance = 0
     for ind in eval_json.keys():
-        # Keep printing the counter values.
-        counter_image += 1
-        print ("Total 25K : " + str(counter_image))
         
         # Do this only for validation/testing images.
-        if ((int(ind)%5 == 4) or (int(ind)%5 == 0)):
-	    if ((int(ind)==924) or (int(ind)==705)):
-		continue
+        if (int(ind)%2==0):
+	    counter_image +=1
+	    print ("Total 12.5K : " + str(counter_image))
+
             url = "im" + str(ind) + ".jpg"
             final_url = base_url_image + str(url)
 
