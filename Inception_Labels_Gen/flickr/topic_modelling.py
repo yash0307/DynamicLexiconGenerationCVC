@@ -38,7 +38,7 @@ def main():
 
     counter = 0
     analysis_type = 'lda'
-    num_topics = 800
+    num_topics = 1000
     zero_constant = 0
     TARGET_LABEL_TRAIN = {}
     TARGET_LABEL_VAL = {}
@@ -86,10 +86,10 @@ def main():
         elif((int(ind)%2 == 0)): 
             TARGET_LABEL_VAL[url] = labels
         print "TOTAL = 25K something :  " + str(counter)
-    train_label_url = "/home/yash/Data/flickr/Inception_labels/inception_labels/train_corpus/label_train_" + str(num_topics) + ".json"
+    train_label_url = "/home/yash/Data/flickr/Inception_labels/inception_labels/train_corpus/label_train_auto_" + str(num_topics) + ".json"
     with open(train_label_url,'w') as fp_train:
         json.dump(TARGET_LABEL_TRAIN, fp_train)
-    val_label_url = '/home/yash/Data/flickr/Inception_labels/inception_labels/train_corpus/label_val_' + str(num_topics) + ".json"
+    val_label_url = '/home/yash/Data/flickr/Inception_labels/inception_labels/train_corpus/label_val_auto_' + str(num_topics) + ".json"
     with open(val_label_url, 'w') as fp_val:
         json.dump(TARGET_LABEL_VAL, fp_val)
 

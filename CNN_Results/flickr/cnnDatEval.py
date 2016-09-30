@@ -65,7 +65,7 @@ def create_inception_graph():
     manipulating.
     """
     with tf.Session() as sess:
-        model_filename = '/home/yash/Data/flickr/Inception_models/output_graph_train_800.pb'
+        model_filename = '/home/yash/Data/flickr/Inception_models/output_graph_train_auto_1000.pb'
         with gfile.FastGFile(model_filename, 'rb') as f:
             graph_def = tf.GraphDef()
             graph_def.ParseFromString(f.read())
@@ -137,7 +137,7 @@ def main():
     id2word = gensim.corpora.Dictionary.load_from_text('/home/yash/DynamicLexiconGenerationCVC/Dataset_Dictionary/gensim_flickr.txt')
     
     # Specify the number of topics present in the LDA_model.
-    num_topics = 800
+    num_topics = 1000
 
     # Image base_url.
     base_url_image = '/home/yash/Data/flickr/mirflickr/val/'
@@ -154,7 +154,7 @@ def main():
             pass
     
     # Now, read the LDA model built on Natural dictionary.
-    lda_model = gensim.models.ldamodel.LdaModel.load('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_800.lda', mmap='r')
+    lda_model = gensim.models.ldamodel.LdaModel.load('/home/yash/DynamicLexiconGenerationCVC/flickr_LDA_MODELS/train_corpus/lda_model_train_auto_1000.lda', mmap='r')
     
     # Read, all the Validation set captions.
     # Combine each of them and make a document
@@ -226,9 +226,9 @@ def main():
         # For next iteration.
         for i in dict_natural.keys():
             dict_natural[i] = []
-    with open("/home/yash/Data/flickr/Results/result_train_800_sum.json", "w") as fp:
+    with open("/home/yash/Data/flickr/Results/result_train_auto_1000_sum.json", "w") as fp:
         json.dump(RESULTS_JSON_SUM, fp)
-    with open("/home/yash/Data/flickr/Results/result_train_800_max.json", "w") as fp:
+    with open("/home/yash/Data/flickr/Results/result_train_auto_1000_max.json", "w") as fp:
 	json.dump(RESULTS_JSON_MAX, fp)
 def make_query(image_url):
     global id2word
