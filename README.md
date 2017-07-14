@@ -1,4 +1,15 @@
 This repository contains implementaion of "Dynamic Lexicon Generation for Natural Scene Images", IWRR ECCV 2016
+
+```
+@inproceedings{patel2016dynamic,
+  title={Dynamic Lexicon Generation for Natural Scene Images},
+  author={Patel, Yash and Gomez, Lluis and Rusi{\~n}ol, Mar{\c{c}}al and Karatzas, Dimosthenis},
+  booktitle={European Conference on Computer Vision},
+  pages={395--410},
+  year={2016},
+  organization={Springer}
+}
+```
 ## Making Corpus from Dataset
 Use script "make_dataset_corpus.py" located in folder "DynamicLexiconGenerationCVC/Dataset_APIs/MS-COCO/PythonAPI". Corpus is already made and stored in folder DynamicLexiconGenerationCVC/Dataset_corpus.
 ## Make Dictionary from Dataset
